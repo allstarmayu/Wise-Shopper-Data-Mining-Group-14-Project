@@ -1,0 +1,1793 @@
+Submission ID,Post Title,Post URL,Author,Score,Number of Comments,Upvote Ratio,Submission Text,Product Name,Product Category,Posting Time
+17synze,Is Ryzen 7 7800x3D really that good?,https://www.reddit.com/r/LinusTechTips/comments/17synze/is_ryzen_7_7800x3d_really_that_good/,ro3rr,39,85,0.76,"I have seen that a higher cache, such as x3d, is better for games, especially for Rust and Escape from Tarkov, which are my main games. I have also read a blog from UserBenchmark that marks the glorification of this processor as a marketing campaign:
+
+""Be wary of sponsored reviews with cherry-picked games that showcase the wins, ignore frame drops, and gloss over the losses. Also, watch out for AMD's army of Neanderthal social media accounts on Reddit, forums, and YouTube; they will be singing their praises as usual. AMD continues to develop 'Advanced Marketing' relationships with select YouTubers with the obvious aim of compensating for second-tier products with first-tier marketing.""
+
+""Rational gamers have little reason to look further than the $300 i5-13600K, which offers comparable real-world gaming and better desktop performance at a fraction of the price.""
+
+I just want a future-proof CPU that will run these two games at the absolute maximum. I'm also an FPS-over-graphics type of guy, so I'm willing to run at minimal settings at a maximum 2K resolution for highest FPS. I will be glad if someone with a higher understanding of this topic responds.",AMD Ryzen 7 7800X3D,Processor,2023-11-11 17:01:47
+18f5j13,Ryzen 7 7800X3D is the GOAT,https://www.reddit.com/r/Amd/comments/18f5j13/ryzen_7_7800x3d_is_the_goat/,Mopar_63,530,267,0.91,"I do not know what voodoo AMD did with this chip but they need to go back and look at their other chips and make the change.
+
+First this chip is designed to be and delivered on being a gaming BEAST. It punches way above it's weight class. I know it is not as powerful as other offerings for productivity work loads, but seriously it was not designed to be. This is a gaming chip first and foremost. Seeing benchmarks for work loads to me seem silly. It is made for gaming, benchmarking workloads for this chip is like seeing how a sports car does for towing. 
+
+Second, the chip is a power efficiency MONSTER. Even under stress  testing, at stock settings I am pulling under 70 watts. That is INSANE, this much performance and it sips power. I see people talking about under-volting, WHY BOTHER? 
+
+Third, cooling is dirt simple. You do not need an AIO or LARGE air cooler to keep this chip under control. Even under heavy work load (not it's typical use) a cooler like an L12S (which Noctua claimed cannot do this) is able to keep full speed and temps under throttle level. You move to the intended use of the chip, gaming and cooling is super simple. 
+
+The 5800X3D might have been a major jump for designing a chip specifically for gaming but it is still power hungry and a bear to cool. The 7800X3D is nothing short of amazing on every level.
+
+We see all the ""high end chips"" needing more power, more cooling and yet here is a chip priced in the mid range that is running as fast or FASTER while sipping juice and running cooler than a Jamaican Bobsled Team. 
+
+WELL DONE AMD!",AMD Ryzen 7 7800X3D,Processor,2023-12-10 15:05:59
+12clszu,AMD Ryzen 7 7800X3D review megathread,https://www.reddit.com/r/buildapc/comments/12clszu/amd_ryzen_7_7800x3d_review_megathread/,inversion_modz,471,325,0.97,"Hello everybody!   
+
+ &nbsp;  
+
+The AMD Ryzen 7 7800X3D reviews are live, we present to you a megathread of reviews plus specs list comparing other CPU's within the mainstream lineup. 
+
+
+
+###Specifications:
+
+ &nbsp;
+
+|Specs|Ryzen 7 7800X3D|Ryzen 7 7700X|Ryzen 7 7700|Ryzen 5 7600X|Ryzen 5 7600|
+:-:|:-:|:-:|:-:|:-:|:-:|
+|Cores (Thread)|8 (16)|8 (16)|8 (16)|6 (12)|6 (12)|
+|Base/Boost Clock (GHz)|4.2/5|4.5/5.4|3.8/5.3|4.7/5.3|3.8/5.1|
+|iGPU|RDNA2|RDNA2|RDNA2|RDNA2|RDNA2|
+|L3 Cache|96MB|32MB|32MB|32MB|32MB|
+|TDP|120W|105W|65W|105W|65W|
+|Architecture|Zen4|Zen4|Zen4|Zen4|Zen4|
+|Core Config|1 × 8|1 × 8|1 × 8|1 × 6|1 × 6|
+|Launch Date|Apr 6, 2023|Sep 27, 2022|Jan 10, 2023|Sep 27, 2022|Jan 10, 2023|
+|Launch MSRP|US $449|US $399|US $329|US $299|US $229|
+
+ &nbsp;
+
+---
+
+
+ &nbsp;
+
+###Reviews
+
+ &nbsp;
+
+|**Site**|**Text**|**Video**|
+:--|:--|:--|
+|Ars Technica|[link](https://arstechnica.com/gadgets/2023/04/review-amd-ryzen-7800x3d-is-the-cheapest-way-to-get-the-most-out-of-a-1500-gpu/)||
+|Anandtech|[link](https://www.anandtech.com/show/18795/the-amd-ryzen-7-7800x3d-review-a-simpler-slice-of-v-cache-for-gaming)||
+|Eurogamer|[link](https://www.eurogamer.net/digitalfoundry-2023-amd-ryzen-7-7800x3d-review)||
+|Digital Trends|[link](https://www.digitaltrends.com/computing/amd-ryzen-7-7800x3d-review/)||
+|Gamers Nexus||[link](https://www.youtube.com/watch?v=B31PwSpClk8)|
+|Guru3D|[link](https://www.guru3d.com/news-story/review-ryzen-7-7800x3d-processor-gaming-nirvana.html)||
+|Hardware Canucks||[link](https://www.youtube.com/watch?v=-ggcB6r1S2A)|
+|Hardware Unboxed||[link](https://www.youtube.com/watch?v=78lp1TGFvKc)|
+|HotHardware|[link](https://hothardware.com/reviews/amd-ryzen-7-7800x3d-review)||
+|Igor's Lab|[link](https://www.igorslab.de/en/amd-ryzen-7-7800x3d-in-gaming-and-workstation-test-ultra-fast-gaming-in-a-different-energy-dimension/)|[link (DE)](https://www.youtube.com/watch?v=dYtUFi4PUWg)|
+|KitGuru|[link](https://www.kitguru.net/components/cpu/leo-waldock/amd-ryzen-7-7800x3d-review-we-told-you-to-wait/)|[link](https://www.youtube.com/watch?v=sif_bKgVLEA)|
+|Level1Techs||[link](https://www.youtube.com/watch?v=na9_eQ9E20s)|
+|Linus Tech Tips||[link](https://www.youtube.com/watch?v=nj4gn7od0jY)|
+|PC Gamer|[link](https://www.pcgamer.com/amd-ryzen-7-7800x3d-review-benchmarks-performance/)||
+|PC Mag|[link](https://www.pcmag.com/reviews/amd-ryzen-7-7800x3d)||
+|Phoronix|[link](https://www.phoronix.com/review/amd-ryzen-7-7800x3d-linux)||
+|Techradar|[link](https://www.techradar.com/reviews/amd-ryzen-7-7800x3d)||
+|Techpowerup|[link](https://www.techpowerup.com/review/amd-ryzen-7-7800x3d/)||
+|The FPS Review|[link](https://www.thefpsreview.com/2023/04/05/amd-ryzen-7-7800x3d-gaming-performance-review/)||
+|Tom's Hardware|[link](https://www.tomshardware.com/reviews/amd-ryzen-7-7800x3d-cpu-review)||
+|XDA Developers|[link](https://www.xda-developers.com/amd-ryzen-7-7800x3d-cpu-review/)||
+
+
+
+
+ &nbsp;  
+
+
+
+Enjoy reading/watching and discussing!",AMD Ryzen 7 7800X3D,Processor,2023-04-05 14:16:04
+18ogzwt,AMD Ryzen 7 7800X3D vs. Intel Core i9-14900K,https://www.techspot.com/review/2783-ryzen-7800x3d-vs-core-i9-14900k/,Stiven_Crysis,383,339,0.95,,AMD Ryzen 7 7800X3D,Processor,2023-12-22 15:06:53
+13kdel9,Ryzen 7 7800X3D is it worth the risk???,https://www.reddit.com/r/Amd/comments/13kdel9/ryzen_7_7800x3d_is_it_worth_the_risk/,Alarmed-Bad7994,17,66,0.69,"Hello!!! I am in the processing of building a new PC and I am trying to figure out what CPU to get. I’d love the 7800X3D but with all the issues I’ve seen it has me worried so should I just go for it or play it safe and get an Intel I7 13700k? 
+
+Update: went with a 7800x3d and so far it’s been awesome! Thanks for all the tips!!!!",AMD Ryzen 7 7800X3D,Processor,2023-05-17 20:39:53
+17qfp96,[CPU] AMD Ryzen 7 7800X3D - $299 (Microcenter In-store Only),https://www.microcenter.com/product/674503/amd-ryzen-7-7800x3d-raphael-am5-42ghz-8-core-boxed-processor-heatsink-not-included,D0uc124,434,428,0.94,,AMD Ryzen 7 7800X3D,Processor,2023-11-08 06:32:22
+17z7m6j,Get Ryzen 7 7800X3D or wait for next gen,https://www.reddit.com/r/buildapc/comments/17z7m6j/get_ryzen_7_7800x3d_or_wait_for_next_gen/,Vegetable-Log-8708,36,98,0.83,"Is it worth waiting for next gen Ryzen or get the 7800x3d?
+
+The games i play is cs2 (Counter-Strike) pubg and League. 
+
+I dont really feel like it's crucial to upgrade but i'm kinda lacking some performance to get all the frames to my 240hz monitor.
+
+But i can put live it if it's worth waiting for the next gen Ryzen. What i read it's coming Q2 2024. 
+
+Specs right now
+Nvidia 3070
+I7 8700k
+16gb ram
+
+So i ordered it today, as you guys said. The next x3d can come late next year and i will prob not need it anyways. And now i got everything for 200$ discount. 
+
+I ordered 
+
+Ryzen 7 7800X3D
+Asus ROG Strix B650E-F gaming wifi
+Corsair 32GB (2x16GB) DDR5 6000MHz CL30 Vengeance
+1 x be quiet! Pure Rock 2 FX Svart
+
+Was it a good choice or should i change something? And are bios up to date now so it's plug and play?",AMD Ryzen 7 7800X3D,Processor,2023-11-19 21:33:59
+1ae09h8,Regarding the Ryzen 7800x3D performances overall,https://www.reddit.com/r/buildapc/comments/1ae09h8/regarding_the_ryzen_7800x3d_performances_overall/,Symrai,115,118,0.89,"Hello here, I keep reading that this CPU might be the best CPU ever when it comes to GAMING, from the previous year, but it confuses me a bit.
+
+By ""best CPU for gaming"", does that mean this CPU only shines for this specific use and will not be that impressive for anything else ? Like, for instance, streaming and gaming at the same time, having several softwares opened like a browser, several tabs in the browser, discord etc. and so on ?
+
+It confuses me because sometimes people are comparing a Ryzen 7 7700x and the 7800x3D, and while the former seems to be also very good, most people tend to answer ""IF for gaming, 7800x3D hands down"". But by answering that way, does that mean the CPU is aimed for a user who's gonna only turn on his computer to launch a video game and nothing else ?
+
+&#x200B;
+
+I'm planning to make a new configuration since my current one is kinda old now (from 2017 : GTX 1070, i5 7600k, 16gb DDR4), and I would like to make it good for 1440p gaming but also for the general uses listed above... And the more I try to figure out which CPU might be good for the years to come, since I don't want to upgrade every generations, things have been a bit complicated for me especially with this Ryzen 7800x3D.
+
+And by 1440p, I mean a 1440p with 165 hz (180 oc), and for the games it will mostly be fighting games (Tekken 8, Street Fighter 6), and maybe some RPG like Baldur's Gate 3, but maybe some others depending on what will be next !
+
+What's appealing to me with the 7800x3D, beside its raw performances, is also its power usage, which seems to be far lower than its Intel counterparts and even from most of the others ryzen 7 CPUs.
+
+&#x200B;
+
+But for a user like me who likes to keep his configuration as long as possible, is this 7800x3D a good pick over a 7700x, or even over those Intel 13th/14th ones although their socket is at the end of its life?
+
+&#x200B;
+
+EDIT : thanks for all the answers, everyone !",AMD Ryzen 7 7800X3D,Processor,2024-01-29 17:05:49
+12hth3b,AMD Ryzen 7 7800X3D Meta Review,https://www.reddit.com/r/hardware/comments/12hth3b/amd_ryzen_7_7800x3d_meta_review/,Voodoo2-SLi,429,174,0.96,"- compilation of 19 launch reviews with ~1330 gaming benchmarks (and some application benchmarks)
+- stock performance on default power limits, no overclocking
+- only gaming benchmarks for real games compiled, not included any 3DMark & Unigine benchmarks
+- gaming benchmarks strictly at CPU limited settings, mostly at 720p or 1080p 1%/99th
+- power consumption is strictly for the CPU (package) only, no whole system consumption
+- ""RTL"" was used as an abbreviation for ""Raptor Lake"" because ""RPL"" can be misinterpreted (is also used by AMD for Zen 4 ""Raphael"")
+- geometric mean in all cases
+- gaming performance average is (good) weighted in favor of reviews with more benchmarks
+- MSRPs: from AMD's online shop (lower than official MSRP, but nearer market level), ""Recommended Customer Price"" on Intel for non-F models
+- [**gaming performance & gaming power draw results as a graph**](https://www.3dcenter.org/abbildung/amd-ryzen-7-7800x3d-performance-zusammenfassung)
+- for the full results and more explanations check [3DCenter's Ryzen 7 7800X3D Launch Analysis](https://www.3dcenter.org/artikel/launch-analyse-amd-ryzen-7-7800x3d)
+
+Note: The following tables are sometimes very wide. The last column to the right should be the Ryzen 9 7950X3D.
+
+&nbsp;
+
+&nbsp;|Tests|Method|AMD|Intel|additional benchmarks
+|:--|:--:|:--:|:--:|:--:|:--:|
+[Adrenaline](https://adrenaline.com.br/analises/v/84157/review-amd-ryzen-7-7800x3d-o-novo-rei-dos-games)|5 games|720p, avg fps|?|?|2160p benchmarks
+[AnandTech](https://www.anandtech.com/show/18795/the-amd-ryzen-7-7800x3d-review-a-simpler-slice-of-v-cache-for-gaming)|6 games|&#8804;720p, avg fps|DDR5/5200|?|1440p/2160p benchmarks
+[ASCII](https://ascii.jp/elem/000/004/131/4131663/)|14 games|1080p, 1% low|DDR5/5200|DDR5/5600
+[ComputerBase](https://www.computerbase.de/2023-04/amd-ryzen-7-7800x3d-test/)|14 games|720p, Perzentile|DDR5/5200|DDR5/5600|Factorio benchmarks
+[Eurogamer](https://www.eurogamer.net/digitalfoundry-2023-amd-ryzen-7-7800x3d-review)|9 games|1080p, Lowest 5%|DDR5/6000|DDR5/6000
+[Gamers Nexus](https://www.youtube.com/watch?v=B31PwSpClk8)|7 games|1080p, 1% Low|?|?|notes about the ""Core Parking Bug""
+[GameStar](https://www.gamestar.de/artikel/amd-ryzen-7-7800x3d-test,3392393.html)|5 games|720p, 99th fps|DDR5/6000|DDR5/6000|2160p benchmarks
+[Golem](https://www.golem.de/news/ryzen-7-7800x3d-im-test-die-beste-gaming-cpu-2023-2304-173212.html)|6 games|720p, P1% fps|DDR5/6000|DDR5/6800
+[Igor's Lab](https://www.igorslab.de/amd-ryzen-7-7800x3d-im-gaming-und-workstation-test-ultra-schnell-spielen-in-einer-anderen-energetischen-dimension/)|6 games|720p, 1% low fps|DDR5/6000|DDR5/6000|1440p/2160p benchmarks, workstation performance benchmarks
+[LanOC](https://lanoc.org/review/cpus/8695-amd-ryzen-7-7800x3d)|8 games|1080p ""Medium"", avg fps|DDR5/6000|DDR5/6000|iGPU benchmarks
+[Linus Tech Tips](https://www.youtube.com/watch?v=nj4gn7od0jY)|10 games|1080p, 1% low|DDR5/6000|DDR5/6800|1440p/2160p benchmarks, Factorio benchmarks
+[PC Games Hardware](https://www.pcgameshardware.de/Ryzen-7-7800X3D-CPU-279471/Tests/vs-7900X3D-Benchmark-Review-Release-Preis-1416589/)|11 games|&#8804;720p, avg fps|DDR5/5200|DDR5/5600
+[PurePC](https://www.purepc.pl/test-procesora-amd-ryzen-7-7800x3d-czy-to-najlepszy-procesor-do-gier-szybszy-nawet-od-intel-core-i9-13900k)|9 games|1080p, 99th percentile|DDR5/5200|DDR5/5200|complete benchmark set additionally with overclocking
+[QuasarZone](https://quasarzone.com/bbs/qc_bench/views/84662)|15 games|1080p, 1% low fps|DDR5/6000|DDR5/6000|1440p/2160p benchmarks
+[SweClockers](https://www.sweclockers.com/test/35999-test-amd-ryzen-7-7800x3d-spelprocessorn-du-vantat-pa)|12 games|720p, 99:e percentilen|DDR5/6000|DDR5/6400
+[TechPowerUp](https://www.techpowerup.com/review/amd-ryzen-7-7800x3d/)|14 games|720p, avg fps|DDR5/6000|DDR5/6000|1440p/2160p benchmarks, 47 application benchmarks, notes about the ""Core Parking Bug""
+[TechSpot](https://www.techspot.com/review/2657-amd-ryzen-7800x3d/)|12 games|1080p, 1% lows|DDR5/6000|DDR5/6000
+[Tom's Hardware](https://www.tomshardware.com/reviews/amd-ryzen-7-7800x3d-cpu-review)|8 games|1080p, 99th percentile|DDR5/5200|DDR5/5600|notes about the ""Core Parking Bug""
+[Tweakers](https://tweakers.net/reviews/10988/amd-ryzen-7-7800x3d-de-langverwachte-intel-killer-in-games.html)|5 games|1080p ""Ultra"", 99p|DDR5/5200|DDR5/5600
+
+&nbsp;
+
+Gaming Perf.|58X3D|7700X|7900X|7950X|13600K|13700K|13900K|139KS|78X3D|790X3D|795X3D
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Cores & Gen|8C Zen3|8C Zen4|12C Zen4|16C Zen4|6C+8c RTL|8C+8c RTL|8C+16c RTL|8C+16c RTL|8C Zen4|12C Zen4|16C Zen4
+Adrenaline|96.3%|86.8%|87.4%|85.9%|-|87.7%|93.3%|-|_100%_|-|98.0%
+AnandTech|89.1%|-|-|89.9%|79.8%|-|89.5%|92.4%|_100%_|-|97.4%
+ASCII|-|79.4%|-|-|-|93.0%|97.2%|-|_100%_|93.3%|102.6%
+ComputerBase|79.8%|-|-|-|-|-|96.8%|-|_100%_|-|102.1%
+Eurogamer|-|-|-|-|-|-|95.1%|-|_100%_|-|99.4%
+Gamers Nexus|84.5%|87.3%|86.2%|89.7%|93.8%|102.8%|105.4%|-|_100%_|94.2%|101.3%
+GameStar|88.3%|-|95.5%|-|-|-|96.9%|-|_100%_|-|99.8%
+Golem|71.8%|80.6%|-|83.3%|-|-|100.1%|111.3%|_100%_|-|100.1%
+Igor's Lab|82.8%|76.6%|81.2%|85.3%|95.3%|103.6%|104.7%|-|_100%_|96.2%|105.0%
+LanOC|-|80.6%|81.9%|85.8%|76.5%|-|86.8%|-|_100%_|-|100.9%
+Linus Tech Tips|85.0%|87.1%|-|92.5%|90.9%|90.9%|98.4%|-|_100%_|92.5%|96.2%
+PC Games Hardware|85.9%|78.2%|80.4%|82.1%|90.6%|96.5%|99.6%|-|_100%_|98.7%|106.5%
+PurePC|85.7%|84.1%|89.7%|91.4%|97.8%|-|106.9%|-|_100%_|-|109.7%
+QuasarZone|85.3%|88.5%|90.9%|92.3%|88.6%|95.9%|99.0%|100.2%|_100%_|95.9%|103.2%
+SweClockers|-|-|-|-|-|-|-|93.3%|_100%_|-|104.0%
+TechPowerUp|78.2%|83.4%|82.5%|82.5%|84.9%|90.0%|93.1%|-|_100%_|-|94.6%
+TechSpot|78.0%|89.8%|89.3%|89.8%|89.3%|93.2%|97.2%|-|_100%_|-|100.0%
+Tom's Hardware|85.7%|75.5%|81.0%|83.0%|87.8%|96.6%|93.9%|-|_100%_|96.6%|103.4%
+Tweakers|91.3%|-|95.4%|93.7%|98.8%|105.5%|102.0%|103.0%|_100%_|100.1%|98.8%
+**average Gaming Perf.**|**82.6%**|**84.9%**|**85.9%**|**87.3%**|**88.4%**|**94.2%**|**97.1%**|**~98%**|**_100%_**|**95.0%**|**101.2%**
+Power Limit|142W|142W|230W|230W|181W|253W|253W|253W|162W|162W|162W
+MSRP|$349|$349|$449|$599|$319|$409|$589|$699|$449|$599|$699
+
+On average of 19 launch reviews, the 7950X3D is still ahead of the 7800X3D by +1.2%. The rating of the reviews is by no means uniform, 7 see the 7800X3D in front, 11 the 7950X3D. Compared to the 13900K, the 7800X3D achieves an average lead of +3.0%. The verdict is not uniform here either: 6 reviews still favor the Intel processor, the other 13 then the AMD processor.
+
+Generally, the 13900K, 13900KS, 7800X3D and 7950X3D are in the same performance sphere. The performance difference (from the smallest to the biggest model within this CPU group) is just 4%. The Ryzen 9 7900X3D, on the other hand, does not belong to this top group; it lags behind a bit more.
+
+&nbsp;
+
+&nbsp;|Gaming Perf.|Price (MSRP)
+|:--|:--:|:--:|
+8C: &nbsp; Ryzen 7 7700X &#8594; 7800X3D|+17.8%|+29% &nbsp;($349 vs $449)
+12C:  Ryzen 9 7900X &#8594; 7900X3D|+10.6%|+33% &nbsp;($449 vs $599)
+16C:  Ryzen 9 7950X &#8594; 7950X3D|+15.9%|+17% &nbsp;($599 vs $699)
+
+Thus, the performance gain due to the extra 3D V-cache turns out to be the lowest on the Ryzen 9 7900X3D - despite the highest (nominal) additional price precisely on this model.
+
+&nbsp;
+
+Application Perf.|7700|7700X|7800X3D|Diff.|7950X|7950X3D|Diff.
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Power Limit|88W|142W|162W|&nbsp;|230W|162W
+PC Games Hardware (6 tests)|-|107.1%|_100%_|–6.6%|151.1%|144.4%|–4.4%
+TechPowerUp (47 tests)|99.1%|103.1%|_100%_|–3.0%|135.9%|133.1%|–2.1%
+Tom's Hardware (6 tests)|-|107.4%|_100%_|–6.9%|191.2%|181.0%|–5.3%
+
+The application benchmarks from PCGH and Tom's are clearly multithread-heavy, only TPU has a complete benchmark set with many office and other benchmarks as well. The 7800X3D loses a bit more application performance than the 7950X3D - and is thus primary suitable as gaming CPU due to the higher price (compared to the 7700X).
+
+&nbsp;
+
+CPU Power Draw|58X3D|7700X|7900X|7950X|13600K|13700K|13900K|139KS|78X3D|790X3D|795X3D
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Cores & Gen|8C Zen3|8C Zen4|12C Zen4|16C Zen4|6C+8c RTL|8C+8c RTL|8C+16c RTL|8C+16c RTL|8C Zen4|12C Zen4|16C Zen4
+AVX Peak @ Anand|141W|-|-|222W|238W|-|334W|360W|82W|-|145W
+Blender @ TechPowerUp|90W|134W|178W|222W|189W|252W|276W|-|77W|-|140W
+Prime95 @ ComputerBase|133W|142W|-|196W|172W|238W|253W|-|81W|115W|135W
+CB R23 @ Tweakers|104W|132W|188W|226W|174W|246W|339W|379W|75W|110W|138W
+y-Cruncher @ Tom's|95W|130W|159W|168W|-|194W|199W|220W|71W|86W|99W
+Premiere @ Tweakers|77W|100W|91W|118W|133W|169W|209W|213W|55W|68W|77W
+AutoCAD 2023 @ Igor's|66W|77W|90W|93W|76W|95W|139W|-|62W|87W|69W
+Ø 6 Apps @ PCGH|109W|136W|179W|212W|168W|253W|271W|279W|77W|107W|120W
+Ø 47 Apps @ TPU|59W|80W|102W|117W|105W|133W|169W|-|49W|-|79W
+Ø 14 Games @ CB|76W|-|-|105W|-|-|141W|147W|60W|66W|72W
+Ø 6 Games 4K @ Igor's|72W|86W|122W|111W|95W|124W|119W|-|67W|79W|72W
+Ø 11 Games @ PCGH|61W|77W|110W|119W|105W|145W|155W|163W|54W|64W|68W
+Ø 13 Games @ TPU|52W|66W|80W|81W|89W|107W|143W|-|49W|-|56W
+**average CPU Power Draw at Gaming**|**62W**|**75W**|**101W**|**103W**|**96W**|**125W**|**143W**|**~150W**|**56W**|**63W**|**65W**
+Energy Efficiency at Gaming|75%|63%|48%|47%|52%|42%|38%|37%|_100%_|84%|87%
+Power Limit|142W|142W|230W|230W|181W|253W|253W|253W|162W|162W|162W
+MSRP|$349|$349|$449|$599|$319|$409|$589|$699|$449|$599|$699
+
+The 13900K still needs an average of 143 watts under gaming, while the 7800X3D does the same job (with minimally better performance) on an average of only 56 watts. This is far **above twice the energy efficiency** in this particular comparison ([check as well the graph](https://www.3dcenter.org/abbildung/amd-ryzen-7-7800x3d-performance-zusammenfassung)).
+
+&nbsp;
+
+Source: [3DCenter.org](https://www.3dcenter.org/artikel/launch-analyse-amd-ryzen-7-7800x3d)",AMD Ryzen 7 7800X3D,Processor,2023-04-10 19:35:25
+18oczer,is AMD Ryzen 7 7800X3D CPU bad?,https://www.reddit.com/r/buildmeapc/comments/18oczer/is_amd_ryzen_7_7800x3d_cpu_bad/,benthebored,0,23,0.5,im trynna build a pc but saw someone arguing over amd cpus... is this a bad option for a $1600 build? i want stable 240fps for fortnite competitive.,AMD Ryzen 7 7800X3D,Processor,2023-12-22 11:37:19
+108alzt,"[CPU] Intel Core i5-13400F - $209.99 (w/ ""Intel Screwdriver"" - Newegg)",https://www.newegg.com/intel-core-i5-13400f-core-i5-13th-gen/p/N82E16819118431,Hyper_Nova0,234,72,0.92,,Intel Core i5 13400F,Processor,2023-01-10 14:04:16
+17kxa0n,Is Intel i5-13400f worth it over i7-13700f for 212$ extra?,https://www.reddit.com/r/intel/comments/17kxa0n/is_intel_i513400f_worth_it_over_i713700f_for_212/,LowOutrageous7572,7,10,1.0,"Is i5-13400f worth it over i7-13700f for gaming ?
+
+Hello i found a prebuilt gaming pc that i want to buy 
+On the website configurator i can choose to upgrade the standard i5-13400f the computer has to the i7-13700f for 212$ 
+
+Is this i solid and futureproof upgrade or should i just buy the standard version for 212 dollars less? 
+
+I Think i Will do some streaming too 
+
+The standard configuration specs on the website.
+
+Asus B760M-A Prime motherboard
+Be Quiet Pure Rock Silent Slim
+Intel® Core™ i5-13400F Processor
+Corsair 32GB DDR5-6000 Vengeance RAM
+Kingston NV2 2TB NVMe PCIe 4.0 SSD
+Asus Geforce® RTX 4070 OC 12GB ProArt
+Corsair Carbide 275R Tempered Glass White
+Corsair CX750F RGB 750W 80+ (Modular) WH
+
+Btw a little extra question.
+Is the case any good?
+
+
+Thank you",Intel Core i5 13400F,Processor,2023-10-31 22:30:02
+152zq1a,Opinions on this Intel Core i5 13400F/ASUS GeForce RTX 3060 Ti,https://www.reddit.com/r/buildmeapc/comments/152zq1a/opinions_on_this_intel_core_i5_13400fasus_geforce/,scarofishbal,3,7,1.0,"[https://pcpartpicker.com/list/nsfMGL](https://pcpartpicker.com/list/nsfMGL)
+
+&#x200B;
+
+My goal:
+
+Maybe for the next 4-5 years to be able to play all games in FHD or 2k resolution (by turning on dlss where it helps). Is this a good build? Vendor offered ASUS PRIME H610M-K 3200MHz DDR4 for cheaper price but pcpartpicker said it's not compatible with CPU so I upgraded the motherboard.
+
+I'm also open to other builds and changes to my build that fit my goal. This is my first time building a pc. Thanks.
+
+&#x200B;
+
+&#x200B;
+
+[PCPartPicker Part List](https://pcpartpicker.com/list/nsfMGL)
+
+|Type|Item|Price|
+|:-|:-|:-|
+|**CPU**|[Intel Core i5-13400F 2.5 GHz 10-Core Processor](https://pcpartpicker.com/product/VNkWGX/intel-core-i5-13400f-25-ghz-10-core-processor-bx8071513400f)|$203.99 @ Newegg|
+|**Motherboard**|[Asus TUF GAMING B760M-PLUS WIFI D4 Micro ATX LGA1700 Motherboard](https://pcpartpicker.com/product/QkGbt6/asus-tuf-gaming-b760m-plus-wifi-d4-micro-atx-lga1700-motherboard-tuf-gaming-b760m-plus-wifi-d4)|$160.54 @ B&H|
+|**Memory**|[Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16)|$39.99 @ Amazon|
+|**Storage**|[Corsair MP600 CORE XT 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/Tn7scf/corsair-mp600-core-xt-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-cssd-f1000gbmp600cxt)|$54.99 @ Amazon|
+|**Video Card**|[Asus DUAL OC GeForce RTX 3060 Ti 8 GB Video Card](https://pcpartpicker.com/product/7MPQzy/asus-dual-oc-geforce-rtx-3060-ti-8-gb-video-card-dual-rtx3060ti-o8gd6x)|$389.00 @ B&H|
+|**Case**|[Asus TUF Gaming GT301 ATX Mid Tower Case](https://pcpartpicker.com/product/8HFKHx/asus-tuf-gaming-gt301-atx-mid-tower-case-tuf-gaming-gt301)|$84.99 @ Amazon|
+|**Power Supply**|[Asus TUF Gaming 750 W 80+ Bronze Certified ATX Power Supply](https://pcpartpicker.com/product/GwkWGX/asus-tuf-gaming-750-w-80-bronze-certified-atx-power-supply-tuf-gaming-750b)|\-|
+
+&#x200B;",Intel Core i5 13400F,Processor,2023-07-18 14:17:10
+12vf1z0,"[CPU] Intel Core i5-13400F - $179.99 (eBay, antonline)",https://www.ebay.com/itm/125733952632?epid=20058404905&hash=item1d4653dc78:g:-p0AAOSwGtFjzrhs,Hyper_Nova0,48,33,0.8,,Intel Core i5 13400F,Processor,2023-04-22 18:39:48
+10fb1vr,Intel Core i5-13400F CPU review: mainstream magic | Club386,https://www.club386.com/intel-core-i5-13400f-cpu-review-mainstream-magic/,Balance-,53,24,0.82,,Intel Core i5 13400F,Processor,2023-01-18 16:06:43
+158p2k9,Intel Core i5 13400F or i5 12600K,https://www.reddit.com/r/buildapc/comments/158p2k9/intel_core_i5_13400f_or_i5_12600k/,StayAlivePlz,1,3,0.66,"Hey everyone. As the title says, should I go for the new gen 13400F or 12600K is better?",Intel Core i5 13400F,Processor,2023-07-24 22:20:06
+16cd6mw,i5-13400F with DDR5 5200Mhz,https://www.reddit.com/r/intel/comments/16cd6mw/i513400f_with_ddr5_5200mhz/,VragMonolitha,7,14,1.0,"Hi,
+
+Will there be a compatibility issue if I pair up the i5-13400F with 32GB DDR5 5200Mhz?
+
+&#x200B;
+
+Thanks in advance!",Intel Core i5 13400F,Processor,2023-09-07 11:18:32
+16h1wpo,Is the i5 13400F too weak for a RTX 4070?,https://www.reddit.com/r/buildapc/comments/16h1wpo/is_the_i5_13400f_too_weak_for_a_rtx_4070/,Twitch_FireWTV,1,28,0.56,"Im trying to build a pc for around $1500 and i found a great build on a YouTube video, but im wondering if my cpu is too weak for the 4070. Ill be gaming in 1080p btw. 
+Cpu: Intel Core i5 13400F
+Gpu: rtx 4070 founders
+Motherboard: ROG STRIXB760-A gaming wifi D4",Intel Core i5 13400F,Processor,2023-09-12 20:20:35
+11kimn9,[TPU] Intel Core i5-13400F Review - Force of Efficiency,https://www.techpowerup.com/review/intel-core-i5-13400f/,skyline385,47,16,0.81,,Intel Core i5 13400F,Processor,2023-03-06 23:56:18
+11k99ga,DDR5 6000MT/S with i5-13400f,https://www.reddit.com/r/intel/comments/11k99ga/ddr5_6000mts_with_i513400f/,NotMilky36,4,17,0.67,"Was looking to purchase an i5-13400f and a new DDR5 compatible motherboard so i could get DDR5 6000MT/s RAM, but after more research, i saw that the i5-13400f doesnt even support DDR5 6000MT/s RAM so basically i just wanted to know if any i5 CPUs supported DDR5 6000MT/s RAM or if not could somebody recommend a budget CPU that does?",Intel Core i5 13400F,Processor,2023-03-06 18:32:57
+101l3xj,[CPU] Intel Core i5-13600K Unlocked Desktop Processor - 14 Core (6E+8P) & 20 Threads- $302.00,https://www.ebay.com/itm/304645670479,PAD_Megaman,367,212,0.94,,Intel Core i5 13600K,Processor,2023-01-02 19:25:09
+17r6078,i5 13600K is legendary,https://www.reddit.com/r/intel/comments/17r6078/i5_13600k_is_legendary/,Thin_Might959,88,137,0.79,"Just sharing my views on this processor.  
+I always thought about i5 as slow processors, but I was checking the benchmarks and its amazingly fast and in gaming some cases even defeated i9 13900k  
+ [Intel Core i5-13600K Review | PCMag](https://www.pcmag.com/reviews/intel-core-i5-13600k#:~:text=The%20increase%20in%20clock%20speed,the%20count%20of%20E%2Dcores.&text=It's%20also%20notable%20that%20the,than%20the%20Core%20i5%2D12600K.)   
+The single core performance is really strong almost (slightly less) around Ryzen 9  7950X.  
+And now the prices are reasonable. Intel has done a great job with raptor lake 13th gen",Intel Core i5 13600K,Processor,2023-11-09 05:31:45
+ydey15,How good is the i5 13600k?,https://www.reddit.com/r/intel/comments/ydey15/how_good_is_the_i5_13600k/,jjgg89,6,31,1.0,"I am thinking about upgrading my pc,   
+CPU: i5 8600k  
+GPU: 980ti  
+I was wondering if the 13600k is enough for gaming, streaming, and content editing etc,
+
+How long can 6 cores and 8 p cores last compared to the i7 13700k and is it worth it?",Intel Core i5 13600K,Processor,2022-10-25 20:32:04
+yikjeu,[CPU] Intel Core I5 13600k $300 @ Amazon,https://smile.amazon.com/Intel-i5-13600K-Desktop-Processor-P-cores/dp/B0BCDR9M33,CartonBox1975,185,123,0.92,,Intel Core i5 13600K,Processor,2022-10-31 18:35:09
+1aogptw,Is Intel Core i5-13600K good for 1440p?,https://www.reddit.com/r/PcBuildHelp/comments/1aogptw/is_intel_core_i513600k_good_for_1440p/,Far_Beginning516,6,31,0.81,"""So i will be going for a rx 7800 xt and i thought of using Intel Core i5-13600K but i am just not sure if it is good for 1440p""
+
+Was what My brother Asked me and honestly i got no idea...",Intel Core i5 13600K,Processor,2024-02-11 19:50:38
+16q0s7a,Intel Core i7-13700k vs i5-13600k. Is the i7 ever worth it?,https://www.reddit.com/r/buildapc/comments/16q0s7a/intel_core_i713700k_vs_i513600k_is_the_i7_ever/,Myxtro,17,47,0.8,"I'm currently looking for a new CPU and wanted to compare the i7 and i5 to know if the €100 price increase of the i7 would be worth it. However, the only difference I can make out is that the i7 has 16 cores while the i5 has 14 (so 2 less). I doubt those 2 extra cores would make a difference for me, let alone a €100 difference. Clock speed seems to be the same for both CPU's (the i5 is even slightly higher). Is there anything I've overlooked when comparing these or is the i7 generally not worth it compared to the i5?",Intel Core i5 13600K,Processor,2023-09-23 10:14:29
+wabz37,"Intel Core i7-13700K and Core i5-13600K tested, higher performance with higher power consumption - VideoCardz.com",https://videocardz.com/newz/intel-core-i7-13700k-and-core-i5-13600k-tested-higher-performance-with-higher-power-consumption,Dangerman1337,107,103,0.97,,Intel Core i5 13600K,Processor,2022-07-28 14:51:29
+w4evou,Intel Core i5-13600K 14-core CPU is almost as fast as Ryzen 9 5950X in leaked Geekbench mulit-core test - VideoCardz.com,https://videocardz.com/newz/intel-core-i5-13600k-14-core-cpu-is-almost-as-fast-as-ryzen-9-5950x-in-leaked-geekbench-mulit-core-test,anestling,306,239,0.96,,Intel Core i5 13600K,Processor,2022-07-21 11:59:30
+14uvimg,"I5 13600k vs i712700f for video editing, graphic design,3d, animation,etc.. sometimes i spend time on games it's rare.",https://www.reddit.com/r/PcBuildHelp/comments/14uvimg/i5_13600k_vs_i712700f_for_video_editing_graphic/,SHYAMGANESH0,4,17,0.84,"Explain briefly ( technical)about processors.. let me learn it😀
+I gonna build a pc soon both of the processors price are same in Tamilnadu,india.. so, i came through lot of Reddit many talk about e,p cores, single & multi threading ,etc.. I'm but confused to pick the right processors..",Intel Core i5 13600K,Processor,2023-07-09 10:47:53
+yi1vhd,[CPU] Intel - Core i5-13600K 13th Gen - $300 (Bestbuy),https://www.bestbuy.com/site/intel-core-i5-13600k-13th-gen-14-cores-6-p-cores-8-e-cores-24m-cache-3-5-to-5-1-ghz-lga1700-unlocked-desktop-processor/6521196.p?skuId=6521196,onedoor,204,172,0.92,,Intel Core i5 13600K,Processor,2022-10-31 05:32:18
+16a2bjv,Amazon customer discovers his Intel Core i9-13900K is an i7-13700K in disguise,https://www.techspot.com/news/100017-amazon-customer-discovers-intel-core-i9-13900k-i7.html,thebelsnickle1991,2520,193,0.96,,Intel Core i9 13900K,Processor,2023-09-04 20:02:02
+1al5cv9,Intel Core i9-13900K Running Hot in Games,https://www.reddit.com/r/buildapc/comments/1al5cv9/intel_core_i913900k_running_hot_in_games/,WheresBoris,10,69,0.66,"Whenever I play cyberpunk, my CPU will hit close to 100c, games like borderlands 3 this does not happen, I turned off multicore enhancement and just put on some new thermal paste and the same things are happening. I have a 360 aio installed so I thought that should be ok? I am just debating getting a 14th gen i5 now since I only game.
+
+&#x200B;
+
+Intel Core i9-13900K
+
+MSI MPG Z790 EDGE WIFI
+
+Cosair 360 aio
+
+&#x200B;
+
+[PC Image](https://www.reddit.com/r/techsupport/comments/1aknr4k/intel_core_i913900k_running_hot_in_games/)
+
+&#x200B;
+
+EDIT: Just in case someone comes across this after the fact since the comments have not been super helpful, it was the AIO, replaced it and now it won't go over 65c. I heard Corsair has bad products and now I will never buy any of their stuff again. ",Intel Core i9 13900K,Processor,2024-02-07 15:21:32
+14rceeq,Core i7-13700K vs Intel Core i9-13900K,https://www.reddit.com/r/buildapc/comments/14rceeq/core_i713700k_vs_intel_core_i913900k/,VeimanAnimation,86,85,0.88,Core i7-13700K vs Intel Core i9-13900Kis there that much difference in performance (for video games) that would make the $200+ price difference worth it?,Intel Core i9 13900K,Processor,2023-07-05 14:34:06
+w199el,Intel Core i9-13900K engineering sample tested in games shows improvement in minimum framerates,https://videocardz.com/newz/intel-core-i9-13900k-engineering-sample-tested-in-games-shows-improvement-in-minimum-framerate,polako123,495,157,0.94,,Intel Core i9 13900K,Processor,2022-07-17 14:57:33
+11gbhqb,Buy Intel i9 13900K or wait for AMD Ryzen 9 7950X3D?,https://www.reddit.com/r/buildapc/comments/11gbhqb/buy_intel_i9_13900k_or_wait_for_amd_ryzen_9/,Adventurous_Time_227,4,7,0.7,"I was ready to buy the parts for this Intel build until AMD released the 7950X3D. I read that it performs better than the 13900K with about half as much power consumption; problem is that it's out of stock right now. Is it worth waiting for or should I go ahead with my current build plan?
+
+This PC will be used for a mix of gaming, programming, VMs, Stable Diffusion, video editing (Adobe Premiere and DaVinci Resolve), photo editing (Photoshop, After Effects, Lightroom, and Gimp), and a little bit of music production (Reaper).
+
+|Type|Item|Price|
+|:-|:-|:-|
+|**CPU**|[Intel Core i9-13900K 3 GHz 24-Core Processor](https://pcpartpicker.com/product/DhVmP6/intel-core-i9-13900k-3-ghz-24-core-processor-bx8071513900k)|$559.99 @ Newegg|
+|**CPU Cooler**|[ARCTIC Liquid Freezer II 280 72.8 CFM Liquid CPU Cooler](https://pcpartpicker.com/product/smDkcf/arctic-liquid-freezer-ii-280-728-cfm-liquid-cpu-cooler-acfre00066a)|$124.99 @ Amazon|
+|**Motherboard**|[Asus ProArt Z790-CREATOR WIFI ATX LGA1700 Motherboard](https://pcpartpicker.com/product/VTddnQ/asus-proart-z790-creator-wifi-atx-lga1700-motherboard-proart-z790-creator-wifi)|$443.99 @ B&H|
+|**Memory**|[G.Skill Trident Z5 RGB 64 GB (2 x 32 GB) DDR5-6400 CL32 Memory](https://pcpartpicker.com/product/636p99/gskill-trident-z5-rgb-64-gb-2-x-32-gb-ddr5-6400-cl32-memory-f5-6400j3239g32gx2-tz5rk)|$339.99 @ Newegg|
+|**Storage**|[SK Hynix Platinum P41 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/sw2WGX/sk-hynix-platinum-p41-1-tb-m2-2280-nvme-solid-state-drive-shpp41-1000gm-2)|$149.91 @ Amazon|
+|**Storage**|[SK Hynix Platinum P41 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/yGTp99/sk-hynix-platinum-p41-2-tb-m2-2280-nvme-solid-state-drive-shpp41-2000gm-2)|$249.85 @ Amazon|
+|**Video Card**|[NVIDIA Founders Edition GeForce RTX 3090 24 GB Video Card](https://pcpartpicker.com/product/PFVG3C/nvidia-geforce-rtx-3090-24-gb-founders-edition-video-card-900-1g136-2510-000)|$650.00|
+|**Case**|[Fractal Design North ATX Mid Tower Case](https://pcpartpicker.com/product/sHYmP6/fractal-design-north-atx-mid-tower-case-fd-c-nor1c-01)|\-|
+|**Power Supply**|[SeaSonic PRIME TX 1300 W 80+ Titanium Certified Fully Modular ATX Power Supply](https://pcpartpicker.com/product/HyYmP6/seasonic-prime-tx-1300-w-80-titanium-certified-fully-modular-atx-power-supply-prime-tx-1300)|$449.98 @ Newegg|
+|*Prices include shipping, taxes, rebates, and discounts*|||
+|**Total**|**$2968.70**||",Intel Core i9 13900K,Processor,2023-03-02 19:28:20
+15or22q,Does anyone here have an i9 13900k CPU?,https://www.reddit.com/r/edmproduction/comments/15or22q/does_anyone_here_have_an_i9_13900k_cpu/,Anal_log-Warmth,3,47,0.71,"I'm considering building a PC for music production, and I'm thinking about using an i9 13900k CPU since it's one of the most powerful ones in the market currently. However, I wanted to know if anyone else here has this CPU and could share their experience regarding its real-world performance.
+
+I should add that I specialize in producing electronic and hip-hop music, which means I use a lot of synthesizers like Diva, Phase Plant, or Serum.  
+
+
+I'm stuck between building my PC with the i9 13900k CPU or getting a 2021 MacBook Pro with the M1 Pro chip and 16 GB of RAM. I'm not really sure which one's the smarter move. I've heard the M1 Pro chip is very powerful, but I haven't come across many stories from people using the i9 13900k for making music.",Intel Core i9 13900K,Processor,2023-08-12 01:28:47
+vyasdk,"Intel Core i9-13900K pre-production sample tested, 10% faster than Core i9-12900K in single-core tests - VideoCardz.com",https://videocardz.com/newz/intel-core-i9-13900k-pre-production-sample-tested-10-faster-than-core-i9-12900k-in-single-core-tests,Geddagod,167,95,0.97,,Intel Core i9 13900K,Processor,2022-07-13 18:52:29
+16oat24,Which CPU is better? Intel Core i9-13900K or AMD Ryzen 9 7950X3d,https://www.reddit.com/r/buildapc/comments/16oat24/which_cpu_is_better_intel_core_i913900k_or_amd/,TTVXtremeegamer,0,15,0.33,"Hey Everyone,  
+  
+I plan on building a new PC in the next few days and I would like to utilise the best CPU. I've done some online research, and narrowed my options to either Intel Core i9-13900K or AMD Ryzen 9 7950X3d, however I am in a conundrum of which one to choose. Which is the better CPU? I plan on creating a high-end PC I'll be using the RTX 4090 as the GPU.  
+  
+I'm in UK and the current price for the following are:  
+  
+AMD Ryzen 9 7950X3d - £600  
+  
+Intel Core i9-13900K - £550  
+  
+Thanks in advance!",Intel Core i9 13900K,Processor,2023-09-21 08:55:40
+rzv4b1,"Intel's 13th gen Core i9-13900K will pack 24 cores and 32 threads (8P, 16E)",https://www.notebookcheck.net/Leak-indicates-Intel-s-13th-gen-Core-i9-13900K-to-pack-24-cores-and-32-threads.590952.0.html,RocheLimito_,516,226,0.95,,Intel Core i9 13900K,Processor,2022-01-09 16:19:25
+xpo1mr,Intel I9 13900K vs AMD gaming benchmarks in an Intel slide - note the position of the 5800X3D,https://i.redd.it/7co8d7k5nfq91.jpg,anotherwave1,1750,576,0.97,,Intel Core i9 13900K,Processor,2022-09-27 18:07:07
+xoj3lm,95°C is Now Normal: AMD Ryzen 9 7950X CPU Review & Benchmarks,https://www.youtube.com/watch?v=nRaJXZMOMPU,Progenitor3,1281,927,0.94,,AMD Ryzen 9 7950X,Processor,2022-09-26 13:19:29
+13t1mpf,"Honest advice. Ryzen 7950x, If I knew how good it is I'd spend half the money on my build.",https://www.reddit.com/r/buildapc/comments/13t1mpf/honest_advice_ryzen_7950x_if_i_knew_how_good_it/,No-Winter3060,57,42,0.9,"The CPU is insanely efficient in Eco 105W mode.
+
+I need a many core system for VM workload. As always, I want a stable system, so I've bought a top motherboard, the largest AIO, XL size case, and a discrete GPU. Now as I've built it, I started testing and to my surprise I realized I could have spent 2/3 of the money having a nicer smaller PC. The CPU in Eco 105W mode achieves 90% of the total performance with peak power 170W. This is incredibly fast yet fits into an air cooled build. The built-in GPU is also very good for driving desktop. Unless you need a powerful GPU for gaming or other workload, the iGPU is more than enough. If I knew I would definitely plan to sacrifice the 10% of the CPU power but still have a solid 16 x 5GHz cores with HT. All would fit into a compact case, with quiet Noctua cooler, drawing max \~300W of power.  
+
+
+As for the motherboard, I've heard a lot about the VRM efficiency, blah blah... in the end I strongly suspect the VRM efficiency of my motherboard is an overkill for the CPU, yet in the Eco 105 mode any board's VRM would be sufficient, so yeah, I could have paid half the price for mobo.",AMD Ryzen 9 7950X,Processor,2023-05-27 08:08:54
+z3h030,"AMD Ryzen 9 7950X gets even cheaper, now drops to $549 - VideoCardz.com",https://videocardz.com/newz/amd-ryzen-9-7950x-gets-even-cheaper-now-drops-to-549,Stiven_Crysis,1100,290,0.98,,AMD Ryzen 9 7950X,Processor,2022-11-24 10:55:26
+1330u8m,My first build using AMD Ryzen 9 7950X and Radeon RX 7900 XTX,https://www.reddit.com/gallery/1330u8m,KingYIEH,736,133,0.93,"I’m here to share with you guys my first ever built PC using the AMD Ryzen 9 7950X processor and AMD Radeon RX 7900 XTX graphics card. Building the PC was really fun! I enjoyed every moment of it. Even though it took months of planning and picking up parts, the sense of accomplishment is always satisfying. Here are some tips to recommend during the process :
+ 
+- Plan your build before buying any components! Really take the time to do your research and watch a lot of creators content. The product sites could be very helpful to have an idea about the compatibility of elements!
+- While building your PC please take your time. Don't rush things! I know wanting to fire up that baby for the first time could be really tempting but seriously just take your time! Always better be safe than sorry. Use gloves to avoid frying your components and handle them with care <3
+- If you are stuck go back to the manual instructions shipped with every component! Everything you need is in there, again don't rush things rather do them right
+- When firing up your PC for the first time if it doesn't post don't panic! Happened to me (Funny coming from someone who panicked like hell) just give it time if it doesn't turn the machine off and restart the process
+- After getting your preferred operating system installed just take your time tweeking things the least you can do is turning on EXPO Profile for your RAM to OC it, Activate restore memory context to avoid heavy memory training on every post, and turn on PBO for free performance.
+ 
+The PC is working like charm with some random crashes from now and then but nothing really flaggy. Last but not least seriously just have fun you gonna appreciate it :)",AMD Ryzen 9 7950X,Processor,2023-04-29 16:55:58
+xvqypu,Does buying the AMD Ryzen 9 7950X make sense?,https://www.reddit.com/r/buildapc/comments/xvqypu/does_buying_the_amd_ryzen_9_7950x_make_sense/,Toni_Hoevedes,3,12,0.67,"I hope this post is correct for this subreddit and not for r/buildapcforme. I am not quite sure how to interpret rule 2. If it is wrong here just tell me and I will remove it :)
+
+## TLDR
+
+Does the AMD Ryzen 9 7950X make sense for a computer science student or is it totally unnecessary and stupid?
+
+## Old gear
+
+Right now I am using a very old PC (AMD FX 6350, GTX 960, DDR3 RAM, etc. ). I plan on upgrading for several years now and saved quite a lot for that. I was always waiting for the new Ryzen socket to appear, as I did not want to make the mistake again and buy the last generation of a current socket so I cannot upgrade later on (without switching the MoBo, RAM, PSU, etc. ).
+
+## Question
+
+Anyhow, now the new CPUs are out and I am wondering whether it makes sense to buy the Ryzen 9 7950X. I am a Computer Science student and compiling lots of programs (mainly Rust) but I also game a bit. In my opinion I do not really need such a powerful CPU but the other ones are not recommended to buy as much and the 7950X will last a looong time. Also, there is the feeling of having such a powerful CPU that it can do whatever you want basically instantly :)
+
+## Possible new build
+
+I will probably build a whole new PC and only reuse the GTX 960 for a while. If Nvidia brings out some cards which are not completely overpriced I might also look to buy one (also for Machine Learning tasks so unfortunately no AMD graphics card) but for now thats not the important part.
+
+I put together a sample build and was wondering if it is in any way justified to buy the parts or if its total overkill / simply stupid in some way. Maybe also Intel is the right choice in the current market?
+
+[PCPartPicker Part List](https://pcpartpicker.com/list/QdTnMb)
+
+|Type|Item|Price|
+|:-|:-|:-|
+|**CPU**|[AMD Ryzen 9 7950X 4.5 GHz 16-Core Processor](https://pcpartpicker.com/product/22XJ7P/amd-ryzen-9-7950x-45-ghz-16-core-processor-100-100000514wof)|$699.00|
+|**CPU Cooler**|[NZXT Kraken Z73 73.11 CFM Liquid CPU Cooler](https://pcpartpicker.com/product/htkgXL/nzxt-kraken-z73-7311-cfm-liquid-cpu-cooler-rl-krz73-01)|$249.99|
+|**Motherboard**|[ASRock X670E Pro RS ATX AM5 Motherboard](https://pcpartpicker.com/product/fCGbt6/asrock-x670e-pro-rs-atx-am5-motherboard-x670e-pro-rs)|$264.99|
+|**Memory**|[Kingston FURY Beast 32 GB (2 x 16 GB) DDR5-5200 CL40 Memory](https://pcpartpicker.com/product/p7Z9TW/kingston-fury-beast-32-gb-2-x-16-gb-ddr5-5200-cl40-memory-kf552c40bbk2-32)|$157.99|
+|**Storage**|[Samsung 980 Pro 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/f3cRsY/samsung-980-pro-2-tb-m2-2280-nvme-solid-state-drive-mz-v8p2t0bam)|$234.86|
+|**Case**|[be quiet! Dark Base 700 ATX Mid Tower Case](https://pcpartpicker.com/product/r2QRsY/be-quiet-dark-base-700-atx-mid-tower-case-dark-base-700)|$199.90|
+|**Power Supply**|[be quiet! Straight Power 11 1200 W 80+ Platinum Certified Fully Modular ATX Power Supply](https://pcpartpicker.com/product/LxCFf7/be-quiet-straight-power-11-1200-w-80-platinum-certified-fully-modular-atx-power-supply-bn645)|$243.94|
+|*Prices include shipping, taxes, rebates, and discounts*|||
+|**Total**|**$2050.67**||
+
+## Further information
+
+One problem is that I live in Switzerland and can only buy parts from here or from Germany. Some of the sellers I prefer are Amazon, Mindfactory and Digitec. Furthermore, I have all of the peripherals needed for a PC (Monitor is 144hz 1440p).",AMD Ryzen 9 7950X,Processor,2022-10-04 21:16:16
+174j3hs,Which should I buy: Ryzen 9 7950X vs Ryzen 9 7950X3D?,https://www.reddit.com/r/buildapc/comments/174j3hs/which_should_i_buy_ryzen_9_7950x_vs_ryzen_9/,[deleted],8,24,0.9,"Hello,  
+Ill mainly use PC with those 2 CPUs for homelabs, running 3-4-5 VMs in the same time, program in the same time etc. and maybe sometimes game on it (gaming is the least important thing for me).  
+I could get new 7950X from local website for about $470 (Im from eastern EU), and Ryzen 9 7950X3D is $300 more expensive than 7950X I have found, its around $800.  
+Im planning buying new PC so I plan to not upgrade anything in following 3-4-5 years.  
+Do you think 7950X3D is worth paying additional $300 more?",AMD Ryzen 9 7950X,Processor,2023-10-10 11:43:41
+xl0vvm,"AMD Ryzen 9 7950X gets overclocked to 7.2GHz with one core, 6.5 GHz all-core thanks to LN2 cooling",https://videocardz.com/newz/amd-ryzen-9-7950x-gets-overclocked-to-7-2ghz-with-one-core-6-5-ghz-all-core-thanks-to-ln2-cooling,Avieshek,657,143,0.93,,AMD Ryzen 9 7950X,Processor,2022-09-22 13:06:21
+xfb0ov,AMD Ryzen 9 7950X Boosts to 5.85 GHz Only if You Can Keep it Under 50°C | TechPowerUp},https://www.techpowerup.com/298883/amd-ryzen-9-7950x-boosts-to-5-85-ghz-only-if-you-can-keep-it-under-50-c,Tower21,424,200,0.95,,AMD Ryzen 9 7950X,Processor,2022-09-15 23:15:44
+xp2mxd,Ryzen 9 7950X: Power Consumption & ECO Mode Tests,https://www.youtube.com/watch?v=uks4qQ2MXrM,SirActionhaHAA,242,89,0.93,,AMD Ryzen 9 7950X,Processor,2022-09-27 01:37:01
+1897oim,Questions for All Ryzen9 7950X Users,https://www.reddit.com/r/ryzen/comments/1897oim/questions_for_all_ryzen9_7950x_users/,himeshanand,3,3,1.0," 
+
+Hi, I recently built a pc with these specifications :-
+
+1. AMD Ryzen 9 7950X
+2. RTX 4090 Gigabyte Aero OC
+3. NZXT Kraken Elite 360mm AIO
+4. Asus ROG LOKI 1000watt PSU 80+Plat
+5. Lian Li Sl120V2 Fans
+6. Lian Li O11d Mini - Snow Edition
+7. Teamgroup 6000MHZ 128GB RAM ( can only run it at 3600MHZ)
+8. Asrock B650M Pro RS Wifi
+
+So my question is related to the temperature of 7950x, What's your average cpu temps while idle, gaming etc. The temperature of my CPU while doing nothing stays quite a lot and usually stays a bit high, For example when I'm not doing anything, Just idle the CPU temperatures stay between 49-55-60(45-48 only when it's a fresh start, after some decent load it stays at 50+), and it fluctuates often, Mostly if I start my pc in the morning when things are usually not warm, it stays at 45-50 degrees but after playing games when I close the games, The temp doesn't go down much, it idles at 60-75 even while just browsing. The GPU temperature btw barely ever goes above 50 degrees.
+
+Also when I do heavy rendering etc, stress tests the CPU temp i've never seen it crossing 86max, maybe 87 on 1-2 occasions but it usually stays at 85-86 at heavy blender rendering, While gaming it only goes to 85 when the game is loading up, etc otherwise its constant in between 60-75ish range while gaming on everything ""extreme"". So is this behavior of 7950x normal? Because I read that this processor is designed to run on high temps, But I don't know much because this was my first ever pc build. Let me know what you think of the temperatures and if i can reduce them down without changing anything related to voltage or underclocking etc( I'm not experienced in these things and it's costly so i don't want to fuck things up ). Also yea My pc doesn't boot up when i tried to increase ram frequency to anything above 3600MHZ ( 32gb x 4 - 128GB RAM 6000MHZ).",AMD Ryzen 9 7950X,Processor,2023-12-02 16:47:15
+ytdsph,Ryzen 7 5800x3d worth it?,https://www.reddit.com/r/buildapc/comments/ytdsph/ryzen_7_5800x3d_worth_it/,rawdognbust,85,106,0.91,Having a 3060ti would buying a 5800x3d be worth it? Or would it be best to go with the regular 5800x or even a 5600x?,AMD Ryzen 7 5800X3D,Processor,2022-11-12 17:49:55
+18wxo7z,Is the Ryzen 7 5800X3D still a good processor in 2024 or should I upgrade to AM5?,https://www.reddit.com/r/buildapc/comments/18wxo7z/is_the_ryzen_7_5800x3d_still_a_good_processor_in/,Banshee372,357,411,0.85,"I built this PC in 2021 and it had an AM4 motherboard with a Ryzen 7 3700x, 2070 super and 16gb ddr4. I recently upgraded to a 4070 and while it definetely is running things a little bit nicer, I feel like I should definetely be getting better performance than what I'm getting right now.  I looked around in this sub and noted that the 5800X3D is a really good choice and that brings up the question, will the 5800X3D last me for a few years or should I just put the money into an AM5 motherboard and a more powerful processor?
+
+edit: wow thanks so much for all the responses! I’m definetely sold on getting the 5800X3D, I will purchase and install it tonight and update you all :)
+
+edit 2: Unfortunately they didn't have any coolers for the CPU so I will have to buy it off the internet or possibly another store if they have one nearby. Will not forget though, I'll post the review when it comes in.",AMD Ryzen 7 5800X3D,Processor,2024-01-02 19:20:09
+190gezb,amd ryzen 7 5800x3d or higher?,https://www.reddit.com/r/buildapc/comments/190gezb/amd_ryzen_7_5800x3d_or_higher/,CommunicationOne9008,17,85,0.72,"planning to match it up with:
+
+aorus extreme waterforce rtx 4090,
+x670 aorus ax elite,
+32gb g.skill ripjaws s5 6000 mhz ddr5,
+icue h150 elite,
+nzxt h9 flow,
+corsair rm850e 2023,
+wd 4tb nvme,
+
+using it for gaming, unlimited budget so should i go with the amd ryzen 9 7950x3d
+or the i9 14900k.
+
+i just want the best possible build i can buy atm without buying a threadripper or something lol and if i should change any of my parts
+
+https://pcpartpicker.com/list/nhcFYN
+
+thanks all
+
+EDIT: SORRY I MEANT I WAS PLANNING ON GETTING A 7800x3d not 5800
+
+EDIT 2: after graciously taking in all your suggestions plus a little more research this is what im planning to buy now: https://pcpartpicker.com/list/Lrtcyg",AMD Ryzen 7 5800X3D,Processor,2024-01-07 01:45:03
+u5ixa7,AMD Ryzen 7 5800X3D Meta Review,https://www.reddit.com/r/hardware/comments/u5ixa7/amd_ryzen_7_5800x3d_meta_review/,Voodoo2-SLi,528,324,0.95,"- compilation of 13 launch reviews with ~1590 benchmarks & ~200 power consumption tests
+- stock performance on default power limits, no overclocking, memory speeds noted below
+- only gaming benchmarks for real games compiled, not included any 3DMark & Unigine benchmarks
+- gaming benchmarks strictly at CPU limited settings, mostly at 720p or 1080p 1%/99th
+- power consumption if for the CPU (package) only, no whole system consumption
+- geometric mean in all cases
+- performance average is (moderate) weighted in favor of reviews with better scaling and more benchmarks
+- official MSRPs noted (""Recommended Customer Price"" on Intel)
+- for Intel's CPUs, K & KF models were seen as ""same"" - but the MSRP is always noted for the KF model
+- retailer prices based on German price search engine [Geizhals](https://geizhals.de/) (on April 17, 2022)
+- for the full results and more explanations check [3DCenter's Ryzen 7 5800X3D Launch Analysis](https://www.3dcenter.org/artikel/launch-analyse-amd-ryzen-7-5800x3d)
+
+&nbsp;
+
+Reviewer|AMD System|Intel System|Windows|Gaming fps
+|:--|:--:|:--:|:--:|:--:|
+[ComputerBase](https://www.computerbase.de/2022-04/amd-ryzen-7-5800x3d-test/)|DDR4/3200&nbsp;CL14|DDR5/4800&nbsp;CL38|Windows 11|720p, Frametimes
+[GameStar](https://www.gamestar.de/artikel/amd-ryzen-7-5800x3d-test,3379734.html)|DDR4/3800|DDR4/3800|Windows 10|1080p, 99th Percentile
+[Golem](https://www.golem.de/news/ryzen-7-5800x3d-im-test-amd-hat-die-beste-spiele-cpu-2204-164473.html)|DDR4/3200&nbsp;CL14|DDR4/3200&nbsp;CL14|Win10&nbsp;vs&nbsp;Win11|720p, P1%-Fps
+[KitGuru](https://www.kitguru.net/components/cpu/luke-hill/amd-ryzen-7-5800x3d-review-worth-the-cache/)|DDR4/3600&nbsp;CL16|DDR5/5200&nbsp;CL36|Windows 11|1080p, 1% Low FPS
+[Le Comptoir](https://www.comptoir-hardware.com/articles/cpu-mobo-ram/45832-test-amd-ryzen-7-5800x3d-vs-intel-core-i9-12900ks.html)|DDR4/3200&nbsp;CL14|DDR5/4800&nbsp;CL30|Windows 11|1080p, 1er centile
+[PCGH](https://www.pcgameshardware.de/Ryzen-7-5800X3D-CPU-278064/Tests/Benchmark-Preis-Release-vs-12900KS-1392948/)|DDR4/3200|DDR5/4400|Windows 10|664p-720p
+[PurePC](https://www.purepc.pl/test-recenzja-procesora-amd-ryzen-7-5800x3d)|DDR4/3600&nbsp;CL18|DDR4/3600&nbsp;CL18|Windows 10|1080p, minimum fps
+[Quasarzone](https://quasarzone.com/bbs/qc_bench/views/81273)|DDR4/3200&nbsp;CL22|DDR5/4800&nbsp;CL40|Windows 11|1080p, 1% Low Framerate
+[SweClockers](https://www.sweclockers.com/test/34086-amd-ryzen-7-5800x3d-spelprestanda-i-toppklass)|DDR4/3600&nbsp;CL16|DDR5/6000&nbsp;CL40|Windows 11|Test 1: 720p, 99th perc. – Test 2: 720p, avg fps
+[TechPowerUp](https://www.techpowerup.com/review/amd-ryzen-7-5800x3d/)|DDR4/3600&nbsp;CL16|DDR5/6000&nbsp;CL36|Windows 11|720p, average fps
+[TechSpot](https://www.techspot.com/review/2449-amd-ryzen-5800x3D/)|DDR4/3200&nbsp;CL14|DDR4/3200&nbsp;CL14|Windows 11|1080p, 1% Lows
+[Tom's](https://www.tomshardware.com/news/amd-ryzen-7-5800x3d-review)|DDR4/3200&nbsp;CL14|DDR4/3200&nbsp;CL14|Windows 11|1080p, 99th Percentile FPS
+[Tweakers](https://tweakers.net/reviews/10008/amd-ryzen-7-5800x3d-3d-v-cache-eindelijk-op-de-testbank.html)|DDR4/3200&nbsp;CL16|DDR4/4800&nbsp;CL36|Windows 11|1080p ""Medium"", 99p
+
+ComputerBase & SweClockers have each made two gaming reviews: Once with the standard parcour of games, once completely new with new, CPU-hungry games. The results differ significantly in each case. 
+
+&nbsp;
+
+Appl. Perf.|Tests|5600X|5800X|5900X|5950X|5800X3D|12600K|12700K|12900K|12900KS
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Cores & Architect.||6C Zen3|8C Zen3|12C Zen3|16C Zen3|8C Zen3D|6C+4c ADL|8C+4c ADL|8C+8c ADL|8C+8c ADL
+ComputerB|(8)|79.7%|102.3%|140.8%|168.3%|_100%_|102.6%|129.2%|153.9%|158.7%
+Le Comptoir|(16)|76.5%|98.6%|128.8%|141.8%|_100%_|108.1%|130.0%|154.2%|159.2%
+PCGH|(6)|75.4%|103.2%|141.8%|168.4%|_100%_|102.4%|133.8%|158.1%|162.1%
+Quasarzone|(11)|-|101.9%|130.7%|152.8%|_100%_|-|134.2%|155.1%|159.4%
+TechPowerUp|(37)|85.2%|102.5%|119.5%|129.8%|_100%_|99.0%|113.6%|125.8%|129.8%
+Power Limit||88W|142W|142W|142W|142W|150W|190W|241W|241W
+U.S. MSRP||$299|$449|$549|$799|$449|$264|$384|$564|$739
+GER Retail||€219|€319|€409|€539|?|€269|€379|€558|€798
+
+At application performance, Ryzen 7 5800X3D is on average –2% slower as Ryzen 7 5800X.
+
+&nbsp;
+
+Gaming P.|Tests|5600X|5800X|5900X|5950X|5800X3D|12600K|12700K|12900K|12900KS
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Cores & Architect.||6C Zen3|8C Zen3|12C Zen3|16C Zen3|8C Zen3D|6C+4c ADL|8C+4c ADL|8C+8c ADL|8C+8c ADL
+CB #1|(9)|81.0%|85.1%|89.1%|93.1%|_100%_|86.3%|92.3%|96.8%|96.4%
+CB #2|(12)|-|86.1%|-|86.9%|_100%_|-|-|103.5%|106.0%
+GameStar|(5)|76.9%|78.0%|79.6%|-|_100%_|80.1%|-|92.9%|-
+Golem|(7)|-|85.2%|86.3%|89.3%|_100%_|-|94.8%|98.7%|-
+KitGuru|(6)|-|85.9%|87.1%|-|_100%_|-|94.7%|97.3%|-
+Le Comptoir|(11)|84.9%|89.4%|91.3%|92.4%|_100%_|97.9%|102.1%|105.2%|107.0%
+PCGH|(14)|77.0%|82.1%|87.2%|85.1%|_100%_|84.3%|91.4%|96.4%|99.9%
+PurePC|(9)|78.0%|86.3%|92.0%|92.7%|_100%_|98.6%|107.2%|111.7%|-
+Quasarzone|(12)|-|87.5%|89.6%|89.3%|_100%_|-|100.0%|104.3%|106.1%
+SweCl #1|(5)|79.8%|84.5%|84.5%|81.5%|_100%_|88.4%|-|97.1%|100.4%
+SweCl #2|(10)|-|81.7%|-|-|_100%_|-|-|-|92.2%
+TechPowerUp|(10)|85.5%|89.4%|90.4%|89.6%|_100%_|93.6%|97.5%|100.0%|101.9%
+TechSpot|(8)|-|78.4%|81.6%|82.9%|_100%_|-|-|97.5%|-
+Tom's|(7)|-|74.1%|81.1%|-|_100%_|-|91.7%|93.2%|97.7%
+Tweakers|(5)|82.3%|82.3%|88.6%|88.4%|_100%_|89.8%|93.3%|95.4%|99.3%
+**Average Gaming P.**||**79.5%**|**83.1%**|**86.2%**|**87.0%**|**_100%_**|**88.8%**|**94.6%**|**98.3%**|**100.9%**
+Power Limit||88W|142W|142W|142W|142W|150W|190W|241W|241W
+U.S. MSRP||$299|$449|$549|$799|$449|$264|$384|$564|$739
+GER Retail||€219|€319|€409|€539|?|€269|€379|€558|€798
+
+At gaming performance, Ryzen 7 5800X3D is on avagere +20.3% faster as Ryzen 7 5800X and +16.0% faster as Ryzen 9 5900X. The differences to Intel's top models are minimal: Ryzen 7 5800X3D is on average +1.7% faster as Core i9-12900K/KF and –0.9% slower as Core i9-12900KS.
+
+&nbsp;
+
+Gaming Power Draw|Tests|5600X|5800X|5900X|5950X|5800X3D|12600K|12700K|12900K|12900KS
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Cores & Architect.||6C Zen3|8C Zen3|12C Zen3|16C Zen3|8C Zen3D|6C+4c ADL|8C+4c ADL|8C+8c ADL|8C+8c ADL
+ComputerBase|(9)|-|87W|-|-|61W|-|-|98W|138W
+Golem|(7)|-|81.2W|104.5W|107.5W|71.3W|-|81.4W|95.8W|-
+PCGH|(14)|56W|80W|101W|110W|70W|88W|106W|129W|186W
+**Avg. Gaming Power Draw**||-|**~83W**|-|-|**~67W**|-|**~89W**|**~107W**|**~149W**
+Avgerage Gaming Perf.||79.5%|83.1%|86.2%|87.0%|_100%_|88.8%|94.6%|98.3%|100.9%
+Gaming Power Efficiency||-|68%|-|-|_100%_|-|71%|62%|45%
+Power Limit||88W|142W|142W|142W|142W|150W|190W|241W|241W
+U.S. MSRP||$299|$449|$549|$799|$449|$264|$384|$564|$739
+GER Retail||€219|€319|€409|€539|?|€269|€379|€558|€798
+
+Ryzen 7 5800X3D shines with a lower power consumption at gaming than other AMD processors - and with a much lower gaming power consumtion than Intel. In fact, Ryzen 7 5800X3D reaches more than the double gaming power effiency over Core i9-12900KS.
+
+&nbsp;
+
+&nbsp;|Ryzen 7 5800X|Ryzen 7 5800X3D|Core i7-12700K/KF|Core i9-12900K/KF|Core i9-12900KS
+|:--|:--:|:--:|:--:|:--:|:--:|
+Cores & Architect.|8C/16T Zen3|8C/16T Zen3D|8C+4c/20T ADL|8C+8c/24T ADL|8C+8c/24T ADL
+Application Performance|_100%_|~98%|122.0%|140.1%|~144%
+Gaming Performance|_100%_|**120.3%**|113.8%|118.2%|**121.4%**
+Gaming Power Draw|~83W|**~67W**|~89W|~107W|~149W
+Gaming Power Efficiency|_100%_|148%|106%|92%|67%
+U.S. MSRP|$449|$449|$409/384|$589/564|$739
+GER Retail Price|€319-340|(expected) €450-500|€379-410|€558-590|€798-830
+Appl. Perf/Price Ratio|_100%_|appr. 63-69%|103%|80%|58%
+Gaming Perf/Price Ratio|_100%_|appr. 77-85%|96%|68%|49%
+
+No win at any performance/price ratio category for the Ryzen 7 5800X3D, if you look at retailer prices. But maybe this is not needed, if you have the **fastest gaming CPU** around (co-owner of that title with the Core i9-12900KS).
+
+&nbsp;
+
+Source: [3DCenter.org](https://www.3dcenter.org/artikel/launch-analyse-amd-ryzen-7-5800x3d)",AMD Ryzen 7 5800X3D,Processor,2022-04-17 08:42:32
+u25wbf,AMD Ryzen 7 5800X3D Review - The Magic of 3D V-Cache,https://www.techpowerup.com/review/amd-ryzen-7-5800x3d/,Lekz,849,606,0.98,,AMD Ryzen 7 5800X3D,Processor,2022-04-12 18:28:44
+u25loj,[TPU] AMD Ryzen 7 5800X3D Review - The Magic of 3D V-Cache,https://www.techpowerup.com/review/amd-ryzen-7-5800x3d/,5v73,452,331,0.96,,AMD Ryzen 7 5800X3D,Processor,2022-04-12 18:16:01
+1aiakip,New AMD Ryzen 7 5700X3D CPU Review & Benchmarks vs. 5800X3D & More,https://youtu.be/llKZzym9hAo?si=FqtVbojABRIa-Wma,LitanyOfContactMike,294,150,0.9,,AMD Ryzen 7 5800X3D,Processor,2024-02-04 00:21:02
+u2ac8z,AMD Ryzen 7 5800X3D Review - The Magic of 3D V-Cache,https://www.reddit.com/r/intel/comments/u2ac8z/amd_ryzen_7_5800x3d_review_the_magic_of_3d_vcache/,adcdam,40,47,0.76,[https://www.techpowerup.com/review/amd-ryzen-7-5800x3d/](https://www.techpowerup.com/review/amd-ryzen-7-5800x3d/),AMD Ryzen 7 5800X3D,Processor,2022-04-12 21:46:34
+11bk9lz,Ryzen 7 5800X3D.,https://www.reddit.com/r/Amd/comments/11bk9lz/ryzen_7_5800x3d/,nivetson00,10,14,0.72,Hello all!! Do y'all know if this CPU specifically has virtualization? This is because I want to run wsl and virtual machines when I upgrade from Ryzen 7 3700X.,AMD Ryzen 7 5800X3D,Processor,2023-02-25 12:49:22
+tg5v1l,It's official: AMD Ryzen 7 5800X3D does not support overclocking - VideoCardz.com,https://videocardz.com/newz/its-official-amd-ryzen-7-5800x3d-does-not-support-overclocking,InvincibleBird,532,299,0.98,,AMD Ryzen 7 5800X3D,Processor,2022-03-17 09:01:14
+1adws8c,"New Budget GPU, Looks Like A CPU: AMD Ryzen 7 8700G Review",https://www.youtube.com/watch?v=Ye60Wf8lUt8,T1beriu,249,247,0.92,,AMD Ryzen 7 8700G,Processor,2024-01-29 14:37:24
+19doal6,The latest AMD Ryzen 7 8700G and Ryzen 5 8600G processors are 50-67% faster than their predecessors,https://gadgettendency.com/this-is-an-upgrade-the-latest-amd-ryzen-7-8700g-and-ryzen-5-8600g-processors-are-50-67-faster-than-their-predecessors/,chrisdh79,370,83,0.91,,AMD Ryzen 7 8700G,Processor,2024-01-23 13:21:49
+1adz896,AMD Ryzen 7 8700G Review: Most Powerful Integrated Graphics,https://www.techspot.com/review/2796-amd-ryzen-8700g/,Stiven_Crysis,121,32,0.91,,AMD Ryzen 7 8700G,Processor,2024-01-29 16:23:32
+193rrwy,Ryzen 7 8700G vs Ryzen 9 7950X3D for gaming,https://www.reddit.com/r/AMDHelp/comments/193rrwy/ryzen_7_8700g_vs_ryzen_9_7950x3d_for_gaming/,ClementineTech,2,23,0.75,"I’m looking for a processor for my new gaming PC and was wondering which will be better for gaming. I will not use the integrated graphics in the 8000 series however I wanted to know which is better for gaming.
+
+Thanks.",AMD Ryzen 7 8700G,Processor,2024-01-11 03:27:44
+1adwsqk,"New Budget GPU, Looks Like A CPU: AMD Ryzen 7 8700G Review",https://youtu.be/Ye60Wf8lUt8?si=OfloYCv0ySIPxAJG,DktheDarkKnight,236,269,0.88,8700G review,AMD Ryzen 7 8700G,Processor,2024-01-29 14:38:04
+1aeumf5,AMD Ryzen 7 8700G Review — 1080p-Capable Gaming Comes to Integrated Graphics,https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-8700g-cpu-review,Stiven_Crysis,120,95,0.91,,AMD Ryzen 7 8700G,Processor,2024-01-30 17:55:35
+1adzb6w,[CPU] AMD Ryzen 7 8700G ($470) [Various retailers],https://ca.pcpartpicker.com/product/K4vD4D/amd-ryzen-7-8700g-42-ghz-8-core-processor-100-100001236box,dracolnyte,0,60,0.47,,AMD Ryzen 7 8700G,Processor,2024-01-29 16:27:04
+18nzokk,AMD Ryzen 7 8700G “Hawk Point” AM5 Desktop APU Benchmarks Leak: 8 Zen 4 Cores & Radeon 780M iGPU,https://wccftech.com/amd-ryzen-7-8700g-hawk-point-am5-desktop-apu-leak-8-cores-radeon-780m-igpu/,Lionne777Sini,261,98,0.95,,AMD Ryzen 7 8700G,Processor,2023-12-21 22:50:39
+1adw94p,AMD Ryzen 7 8700G Linux Performance Review,https://www.phoronix.com/review/amd-ryzen7-8700g-linux,unixbhaskar,46,3,0.88,,AMD Ryzen 7 8700G,Processor,2024-01-29 14:13:14
+1aeiipp,AMD Ryzen 7 8700G and Ryzen 5 8600G review: integrated graphics for the win,https://www.eurogamer.net/digitalfoundry-2024-amd-ryzen-7-8700g-ryzen-5-8600g-review,T1beriu,30,12,0.79,,AMD Ryzen 7 8700G,Processor,2024-01-30 07:08:56
+xoiznr,AMD Ryzen 5 7600X Review - 5.4GHz Easy!,https://www.youtube.com/watch?v=H2NW7N-pPRE,goldfries_yt,531,84,0.95,,AMD Ryzen 5 7600x,Processor,2022-09-26 13:15:01
+13ad9kh,Is the Ryzen 5 7600X worth?,https://www.reddit.com/r/buildapc/comments/13ad9kh/is_the_ryzen_5_7600x_worth/,boosted--banana,19,32,0.79,"I am currently looking to upgrade my PC which has a Ryzen 5 1600X along with a 1070. I don’t know if I should go with the 7600X or 5600X. Intending to use it for gaming and productivity. 
+
+https://pcpartpicker.com/list/R2gHd9
+
+Edit:
+Thanks for the inputs! This is my current PC build for some clarification: https://pcpartpicker.com/list/ypVvpH
+It's like 5-6 years old and I'm looking to upgrade it for a more enjoyable experience in games because it can't even run league above 100+ FPS anymore.",AMD Ryzen 5 7600x,Processor,2023-05-07 04:53:36
+zqzlj7,"Intel/AMD CPU price war continues, AMD Ryzen 5 7600X is now available for $239 - VideoCardz.com",https://videocardz.com/newz/intel-amd-cpu-price-war-continues-amd-ryzen-7600x-is-now-available-for-239,Stiven_Crysis,1154,443,0.98,,AMD Ryzen 5 7600x,Processor,2022-12-20 21:02:59
+xoing5,"AMD Ryzen 5 7600X Review & Benchmarks, Gaming Beast!",https://www.youtube.com/watch?v=_WubXd2tXOA,[deleted],241,290,0.89,,AMD Ryzen 5 7600x,Processor,2022-09-26 13:00:55
+x1kmd8,"AMD Ryzen 5 7600X has already been tested with Geekbench, 40% faster than 5600X - VideoCardz.com",https://videocardz.com/newz/amd-ryzen-5-7600x-has-already-been-tested-with-geekbench-40-faster-than-5600x,zer0_c0ol,1209,539,0.97,,AMD Ryzen 5 7600x,Processor,2022-08-30 14:30:57
+1ais528,How strong is a Ryzen 5 7600x?,https://www.reddit.com/r/AMDHelp/comments/1ais528/how_strong_is_a_ryzen_5_7600x/,IIPunk201,15,43,0.86,"I currently have a 5 7600x with a 7800xt. I’m wondering what’s the best graphics card I can upgrade to, without any bottlenecking?",AMD Ryzen 5 7600x,Processor,2024-02-04 16:43:18
+18f20vi,Amd ryzen 5 7600 vs 7600x which one I should get?,https://i.redd.it/vozqfdl5ig5c1.jpg,Intelligent_Owl_4016,316,105,0.89,,AMD Ryzen 5 7600x,Processor,2023-12-10 11:54:48
+x9vrz0,AMD Ryzen 5 7600X tested in Cinebench R23 with AMD Core Performance Boost disabled - VideoCardz.com,https://videocardz.com/newz/amd-ryzen-5-7600x-tested-in-cinebench-r23-with-amd-core-performance-boost-disabled,jortego128,202,158,0.94,,AMD Ryzen 5 7600x,Processor,2022-09-09 13:37:42
+xotvcu,"AMD's Value Problem: Ryzen 5 7600X CPU Review, Benchmarks, & Expensive Motherboards",https://www.youtube.com/watch?v=JM-twyjfYIw&list=WL&index=1,Archer_Gaming00,307,441,0.9,,AMD Ryzen 5 7600x,Processor,2022-09-26 19:55:19
+xjanl4,"AMD Ryzen 5 7600X Over 50% Faster than the 5600X, Slower than the Intel i5-12600K in Leaked Benchmark",https://www.hardwaretimes.com/amd-ryzen-5-7600x-over-50-faster-than-the-5600x-slower-than-the-intel-i5-12600k-in-leaked-benchmark-gb5/,killusion,262,169,0.9,,AMD Ryzen 5 7600x,Processor,2022-09-20 14:41:59
+10e4fnl,Is Ryzen 5 5600x still worth it?,https://www.reddit.com/r/buildapc/comments/10e4fnl/is_ryzen_5_5600x_still_worth_it/,[deleted],6,14,0.8,So I just bought a 16GB hyperX ram and a RTX 3070 Asus Tuf graphic card. Is it still worth getting a Ryzen 5 5600X to pair with my GPU? I mainly use my pc to game.,AMD Ryzen 5 5600x,Processor,2023-01-17 05:52:42
+q3uaza,Ryzen 5 5600X + RTX 3080 = OP,https://i.redd.it/qs7i62mc47s71.jpg,Vownow,930,129,0.96,,AMD Ryzen 5 5600x,Processor,2021-10-08 09:32:20
+185obem,Is a ryzen 5 5600x good for gaming in 2023 and a few years to come?,https://www.reddit.com/r/buildapc/comments/185obem/is_a_ryzen_5_5600x_good_for_gaming_in_2023_and_a/,Cold-Amphibian-6382,68,94,0.89,"Hi, just as the tittle said. Ive already built myself a pc and a friend's. But for christmas, I want to gift the third member of our trio a pc. It's just a start up for him to get into pc gaming with us so he wont have to rely on cross platform titles only. Its being built from leftover parts from upgrades I did and my friend. But the cpu was the biggest bottleneck, the leftover cpu was a ryzen 3 3100. I know that wont hold in today's world. So I thought of buying a new cpu, im already saving on other parts so. 
+
+Is a ryzen 5 5600x sufficient for the current gaming market just so he can dip his toe in? I noticed that we are slowly moving to 8 core cpu requirements. Thats why I hesitate a little bit. Whats your opinion? Should I go for a ryzen 7? Also, no am5 isnt an option. Thanks!",AMD Ryzen 5 5600x,Processor,2023-11-28 05:13:11
+qvye48,AMD Ryzen 5 5600X decent for a 3060ti?,https://www.reddit.com/r/buildapc/comments/qvye48/amd_ryzen_5_5600x_decent_for_a_3060ti/,HorridusVile,1103,410,0.94,"Hello everyone,
+
+I just recently started getting into PC building and could use some advice.
+
+I was gifted a 3060ti and now I'm looking for a new cpu. Is the AMD Ryzen 5 5600X (6x 3.7GHz  4.6GHz Turbo) a decent choice or would I run into any issues?
+
+Thanks for your advice.",AMD Ryzen 5 5600x,Processor,2021-11-17 12:38:59
+oku1lf,[CPU] AMD Ryzen 5 5600X 6-core 12-threads ($279.99),https://www.ebay.com/itm/294059600798?_trkparms=5373%3A0%7C5374%3AFeatured,KenAirforce,723,292,0.94,,AMD Ryzen 5 5600x,Processor,2021-07-15 14:32:41
+zuvct5,"AMD Ryzen 5 5600X is four times as popular as Ryzen 5 7600X, Ryzen 9 7950X again drops to €599 - VideoCardz.com",https://videocardz.com/newz/amd-ryzen-5-5600x-is-four-times-as-popular-as-ryzen-5-7600x-ryzen-9-7950x-again-drops-to-e599,Stiven_Crysis,694,259,0.97,,AMD Ryzen 5 5600x,Processor,2022-12-25 10:08:24
+mo76o6,[CPU] AMD Ryzen 5 5600X - $299.00,https://www.amazon.com/gp/product/B08166SLDF,pokemongonewbie,687,159,0.95,,AMD Ryzen 5 5600x,Processor,2021-04-10 15:49:29
+15r5mq1,How futureproof is the AMD Ryzen 5 5600x for gaming?,https://www.reddit.com/r/buildapc/comments/15r5mq1/how_futureproof_is_the_amd_ryzen_5_5600x_for/,llards,4,33,0.58,"I'm choosing the parts for my first pc build and I had a lot of suggestions to go with the ryzen 5 5600x which seems to be a cheap but really decent option to pair my 3060 Ti with, for 1440p gaming. I likely won't be able to upgrade any major stuff for the next few years as I will be finishing high school and entering college, so I wanna know how long the 5600x will stay relevant, gaming-wise. Will its 6 cores be limiting for the newest games in the future?",AMD Ryzen 5 5600x,Processor,2023-08-14 20:13:20
+seru6s,[CPU] AMD RYZEN 5 5600X MicroCenter - In store only $239.99,https://www.microcenter.com/product/630285/amd-ryzen-5-5600x-vermeer-37ghz-6-core-am4-boxed-processor-wraith-stealth-cooler-included,GoldenSansevieria,441,155,0.92,,AMD Ryzen 5 5600x,Processor,2022-01-28 14:18:35
+lfzc3h,[CPU] AMD Ryzen™ 5 5600X 6-core/12-thread Desktop Processor $299.99,http://www.walmart.com/ip/AMD-Ryzen-5-5600X-6-core-12-thread-Desktop-Processor/182785024,fortgodtyro,543,141,0.94,,AMD Ryzen 5 5600x,Processor,2021-02-09 10:05:24
+y18mw3,"[HWUB] GeForce RTX 4090 Review, Nvidia's Stupid Fast GPU!",https://www.youtube.com/watch?v=aQklDR8nv8U,Nestledrink,142,197,0.85,,Nvidia GeForce RTX 4090,Graphics Processing Unit,2022-10-11 13:07:34
+xwxxlx,NVIDIA GeForce RTX 4090 - Where the misconception about 600 watts really comes from and why the cards are so huge | igor'sLAB,https://www.igorslab.de/en/nvidia-geforce-rtx-4090-where-the-mistake-with-the-600-watt-really-comes-from-and-why-the-cards-are-so-giant/,Flying-T,388,157,0.87,,Nvidia GeForce RTX 4090,Graphics Processing Unit,2022-10-06 06:12:43
+t9gp5g,Nvidia’s GeForce RTX 4090 may be twice as fast as the RTX 3090,https://www.pcgamesn.com/nvidia/rtx-4090-performance-vs-3090,chrisdh79,1955,480,0.91,,Nvidia GeForce RTX 4090,Graphics Processing Unit,2022-03-08 13:22:45
+z2nytz,NVIDIA GeForce RTX 4090 is outselling the RTX 4080 on eBay by a factor of 3.4 - VideoCardz.com,https://videocardz.com/newz/nvidia-geforce-rtx-4090-is-outselling-the-rtx-4080-on-ebay-by-a-factor-of-3-4,Stiven_Crysis,754,459,0.94,,Nvidia GeForce RTX 4090,Graphics Processing Unit,2022-11-23 12:33:19
+zheepi,Gigabyte GeForce RTX 4090 Windforce 3 24G?,https://www.reddit.com/r/nvidia/comments/zheepi/gigabyte_geforce_rtx_4090_windforce_3_24g/,koendk,2,25,0.58,"For sale at 1840 where I live, I'm tempted but I can't find much on it - anyone got any idea if it is a solid one?",Nvidia GeForce RTX 4090,Graphics Processing Unit,2022-12-10 00:57:27
+y18liw,"[Gamers Nexus] NVIDIA GeForce RTX 4090 Founders Edition Review & Benchmarks: Gaming, Power, & Thermals",https://www.youtube.com/watch?v=j9vC9NBL8zo,Nestledrink,1620,1123,0.88,,Nvidia GeForce RTX 4090,Graphics Processing Unit,2022-10-11 13:05:48
+y5h1hf,nVidia GeForce RTX 4090 Meta Review,https://www.reddit.com/r/hardware/comments/y5h1hf/nvidia_geforce_rtx_4090_meta_review/,Voodoo2-SLi,898,279,0.95,"- compilation of 17 launch reviews with ~5720 gaming benchmarks at all resolutions
+- only benchmarks at real games compiled, not included any 3DMark & Unigine benchmarks
+- geometric mean in all cases
+- standard rasterizer performance without ray-tracing and/or DLSS/FSR/XeSS
+- extra ray-tracing benchmarks after the standard rasterizer benchmarks
+- stock performance on (usual) reference/FE boards, no overclocking
+- factory overclocked cards _(results marked in italics)_ were normalized to reference clocks/performance, but just for the overall performance average (so the listings show the original result, just the index has been normalized)
+- missing results were interpolated (for a more accurate average) based on the available & former results
+- performance average is (moderate) weighted in favor of reviews with more benchmarks
+- retailer prices and all performance/price calculations based on German retail prices of price search engine ""Geizhals"" on October 16, 2022
+- for the full results plus (incl. power draw numbers) and some more explanations check [3DCenter's launch analysis](https://www.3dcenter.org/artikel/launch-analyse-nvidia-geforce-rtx-4090)
+
+&nbsp;
+
+2160p|Tests|6800XT|6900XT|6950XT|3080-10G|3080Ti|3090|3090Ti|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+[ComputerBase](https://www.computerbase.de/2022-10/nvidia-geforce-rtx-4090-review-test/)|(17)|47.1%|51.9%|-|49.1%|54.3%|_57.7%_|60.5%|100%
+[Cowcotland](https://www.cowcotland.com/articles/3639/test-nvidia-geforce-rtx-4090-fe-le-monstre-vert-debarque.html)|(11)|55.8%|61.9%|_63.0%_|55.2%|61.3%|63.5%|_68.5%_|100%
+[Eurogamer](https://www.eurogamer.net/digitalfoundry-2022-nvidia-geforce-rtx-4090-review-extreme-performance)|(9)|-|54.7%|-|-|-|58.4%|63.7%|100%
+[Hardware Upgrade](https://www.hwupgrade.it/articoli/skvideo/6391/geforce-rtx-4090-recensione-la-nuova-scheda-video-nvidia-fa-impallidire-persino-la-rtx-3090-ti_index.html)|(10)|49.1%|53.5%|_57.9%_|49.1%|54.7%|56.6%|62.9%|100%
+[Igor's Lab](https://www.igorslab.de/nvidia-geforce-rtx-4090-founders-edition-24gb-im-test-der-kraftstrotzende-monolith-der-aus-der-kaelte-kam/)|(10)|48.4%|51.4%|_57.6%_|47.8%|59.6%|61.1%|66.8%|100%
+[KitGuru](https://www.kitguru.net/components/graphic-cards/dominic-moass/nvidia-rtx-4090-founders-edition-review/)|(12)|49.0%|-|_57.3%_|49.9%|-|55.7%|_62.7%_|100%
+[Le Comptoir d.H.](https://www.comptoir-hardware.com/articles/cartes-graphiques/46732-test-nvidia-geforce-rtx-4090.html)|(20)|47.3%|51.1%|_56.5%_|51.1%|57.3%|59.6%|65.4%|100%
+[Les Numeriques](https://www.lesnumeriques.com/carte-graphique/nvidia-geforce-rtx-4090-p71079/test.html)|(10)|51.9%|54.5%|-|52.9%|58.2%|60.8%|-|100%
+[Paul's Hardware](https://www.youtube.com/watch?v=F1YAT9AK_HY)|(9)|-|53.5%|_56.2%_|-|57.7%|58.9%|_66.5%_|100%
+[PC Games Hardware](https://www.pcgameshardware.de/Geforce-RTX-4090-Grafikkarte-279170/Tests/Geforce-4090-Test-Benchmarks-RTX-4090-vorbestellen-1404846/)|(20)|49.9%|53.1%|56.2%|50.3%|55.2%|57.9%|62.4%|100%
+[PurePC](https://www.purepc.pl/test-karty-graficznej-nvidia-geforce-rtx-4090-kosmiczna-wydajnosc-w-kosmicznej-cenie-mocna-premiera)|(11)|-|52.6%|_56.8%_|52.1%|57.3%|58.9%|64.6%|100%
+[Quasarzone](https://quasarzone.com/bbs/qc_bench/views/82215)|(15)|48.2%|52.8%|-|51.9%|57.7%|58.4%|64.1%|100%
+[SweClockers](https://www.sweclockers.com/test/34980-nvidia-geforce-rtx-4090-ada-lovelace-inflation-i-pris-och-prestanda)|(12)|48.9%|53.4%|_59.0%_|49.6%|-|55.3%|_60.9%_|100%
+[TechPowerUp](https://www.techpowerup.com/review/nvidia-geforce-rtx-4090-founders-edition/)|(25)|54%|57%|61%|53%|61%|61%|69%|100%
+[TechSpot](https://www.techspot.com/review/2544-nvidia-geforce-rtx-4090/)|(13)|49.3%|53.5%|59.0%|50.7%|56.3%|58.3%|63.2%|100%
+[Tom's Hardware](https://www.tomshardware.com/reviews/nvidia-geforce-rtx-4090-review)|(8)|51.4%|55.0%|_61.0%_|51.8%|56.7%|58.6%|64.7%|100%
+[Tweakers](https://tweakers.net/reviews/10532/nvidia-geforce-rtx-4090-olifant-in-de-porseleinkast.html)|(10)|-|-|60.6%|53.8%|59.2%|_60.6%_|_67.9%_|100%
+**average 2160p Performance**||**49.8%**|**53.8%**|**57.1%**|**51.2%**|**57.0%**|**58.7%**|**64.0%**|**100%**
+U.S. MSRP||$649|$699|$1099|$699|$1199|$1499|$1999|$1599
+
+&nbsp;
+
+1440p|Tests|6800XT|6900XT|6950XT|3080-10G|3080Ti|3090|3090Ti|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+ComputerBase|(17)|56.4%|61.9%|-|56.8%|62.4%|_65.7%_|67.9%|100%
+Cowcotland|(11)|69.3%|76.5%|_79.7%_|65.4%|71.9%|73.2%|_78.4%_|100%
+Eurogamer|(9)|-|67.0%|-|-|-|67.3%|73.0%|100%
+Igor's Lab|(10)|57.0%|60.4%|_66.8%_|59.1%|65.1%|66.4%|70.8%|100%
+KitGuru|(12)|57.3%|-|_66.7%_|55.6%|-|61.3%|_67.8%_|100%
+Paul's Hardware|(9)|-|67.9%|_70.9%_|-|68.6%|69.4%|_76.3%_|100%
+PC Games Hardware|(20)|57.7%|60.9%|64.2%|55.3%|60.0%|62.7%|66.5%|100%
+PurePC|(11)|-|58.4%|_62.9%_|56.2%|61.2%|62.9%|67.4%|100%
+Quasarzone|(15)|60.5%|66.0%|-|63.0%|68.6%|69.4%|73.6%|100%
+SweClockers|(12)|60.1%|65.1%|_71.6%_|58.7%|-|64.2%|_69.7%_|100%
+TechPowerUp|(25)|69%|73%|77%|66%|73%|74%|79%|100%
+TechSpot|(13)|60.7%|65.4%|71.0%|58.4%|64.0%|65.4%|70.6%|100%
+Tom's Hardware|(8)|69.3%|73.3%|_80.1%_|65.0%|70.6%|72.7%|78.0%|100%
+Tweakers|(10)|-|-|71.8%|61.6%|66.9%|_66.5%_|_73.2%_|100%
+**average 1440p Performance**||**61.2%**|**65.8%**|**69.4%**|**60.1%**|**65.6%**|**67.0%**|**71.5%**|**100%**
+U.S. MSRP||$649|$699|$1099|$699|$1199|$1499|$1999|$1599
+
+&nbsp;
+
+1080p|Tests|6800XT|6900XT|6950XT|3080-10G|3080Ti|3090|3090Ti|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Eurogamer|(9)|-|80.7%|-|-|-|80.3%|85.0%|100%
+KitGuru|(12)|68.6%|-|_77.9%_|65.0%|-|71.1%|_76.5%_|100%
+Paul's Hardware|(9)|-|81.2%|_84.6%_|-|79.1%|79.2%|_85.3%_|100%
+PC Games Hardware|(20)|66.2%|69.3%|72.6%|62.2%|66.9%|69.3%|72.3%|100%
+PurePC|(11)|-|63.3%|_68.1%_|60.2%|65.1%|66.9%|71.7%|100%
+Quasarzone|(15)|71.7%|76.5%|-|73.1%|77.4%|78.5%|81.7%|100%
+SweClockers|(12)|72.7%|76.7%|_81.8%_|69.9%|-|76.7%|_78.4%_|100%
+TechPowerUp|(25)|81%|84%|88%|77%|82%|83%|87%|100%
+TechSpot|(13)|71.7%|75.8%|80.4%|68.3%|73.3%|75.0%|78.3%|100%
+Tom's Hardware|(8)|81.2%|85.5%|_90.8%_|75.4%|80.3%|82.3%|86.7%|100%
+Tweakers|(10)|-|-|85.3%|72.2%|76.7%|_72.2%_|_82.2%_|100%
+**average 1080p Performance**||**72.8%**|**76.6%**|**80.2%**|**70.0%**|**74.7%**|**76.2%**|**79.8%**|**100%**
+U.S. MSRP||$649|$699|$1099|$699|$1199|$1499|$1999|$1599
+
+&nbsp;
+
+RayTracing @2160p|Tests|6800XT|6900XT|6950XT|3080-10G|3080Ti|3090|3090Ti|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+ComputerBase|(11)|33.2%|36.6%|-|43.3%|52.4%|_55.8%_|59.1%|100%
+Cowcotland|(5)|40.3%|45.1%|_48.1%_|48.5%|56.8%|57.8%|_64.6%_|100%
+Eurogamer|(7)|-|33.0%|-|-|-|52.2%|58.3%|100%
+Hardware Upgrade|(5)|-|-|_36.6%_|-|-|51.4%|57.1%|100%
+KitGuru|(4)|32.1%|-|_37.6%_|39.6%|-|50.9%|_58.3%_|100%
+Le Comptoir d.H.|(15)|31.8%|34.6%|_38.0%_|46.1%|52.2%|54.4%|59.9%|100%
+Les Numeriques|(9)|31.1%|31.1%|-|42.6%|49.4%|49.8%|-|100%
+PC Games Hardware|(10)|34.2%|36.4%|38.3%|42.1%|52.4%|54.9%|59.2%|100%
+PurePC|(3)|-|33.5%|_36.7%_|46.5%|53.5%|55.3%|60.9%|100%
+Quasarzone|(5)|35.7%|39.0%|-|44.3%|53.5%|56.6%|63.3%|100%
+SweClockers|(4)|27.4%|30.1%|_32.7%_|44.1%|-|53.1%|_58.7%_|100%
+TechPowerUp|(8)|37.3%|39.9%|43.0%|46.5%|53.1%|53.5%|61.3%|100%
+Tom's Hardware|(6)|28.0%|30.0%|_34.5%_|41.3%|47.9%|49.3%|56.3%|100%
+**average RT@2160p Performance**||**32.7%**|**35.4%**|**37.8%**|**44.2%**|**51.7%**|**53.5%**|**59.0%**|**100%**
+U.S. MSRP||$649|$699|$1099|$699|$1199|$1499|$1999|$1599
+
+&nbsp;
+
+RayTracing @1440p|Tests|6800XT|6900XT|6950XT|3080-10G|3080Ti|3090|3090Ti|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+ComputerBase|(11)|41.6%|45.5%|-|55.3%|60.5%|_63.9%_|66.3%|100%
+Cowcotland|(5)|47.7%|52.3%|_55.2%_|57.5%|63.2%|64.4%|_70.1%_|100%
+Eurogamer|(7)|-|38.0%|-|-|-|56.7%|61.9%|100%
+KitGuru|(4)|37.8%|-|_44.3%_|52.3%|-|58.1%|_65.5%_|100%
+PC Games Hardware|(10)|39.4%|41.9%|43.7%|52.2%|57.1%|59.7%|63.6%|100%
+PurePC|(3)|-|37.7%|_40.7%_|50.3%|55.3%|56.8%|62.8%|100%
+Quasarzone|(5)|44.1%|47.5%|-|59.8%|66.0%|66.5%|72.2%|100%
+SweClockers|(4)|31.1%|33.7%|_36.9%_|50.5%|-|56.9%|_61.2%_|100%
+TechPowerUp|(8)|46.1%|48.6%|51.2%|54.5%|62.3%|62.8%|70.0%|100%
+Tom's Hardware|(6)|31.3%|33.8%|_38.5%_|45.6%|51.2%|52.7%|59.3%|100%
+**average RT@1440p Performance**||**39.4%**|**42.4%**|**44.8%**|**53.0%**|**58.5%**|**60.0%**|**64.9%**|**100%**
+U.S. MSRP||$649|$699|$1099|$699|$1199|$1499|$1999|$1599
+
+&nbsp;
+
+RayTracing @1080p|Tests|6800XT|6900XT|6950XT|3080-10G|3080Ti|3090|3090Ti|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Eurogamer|(7)|-|47.5%|-|-|-|67.2%|71.9%|100%
+KitGuru|(4)|45.5%|-|_51.8%_|61.2%|-|67.2%|_74.1%_|100%
+PC Games Hardware|(10)|48.4%|51.4%|53.7%|62.2%|67.7%|70.5%|73.9%|100%
+PurePC|(3)|-|39.5%|_42.6%_|51.3%|56.9%|58.5%|63.1%|100%
+SweClockers|(4)|37.6%|40.6%|_44.2%_|58.8%|-|65.4%|_69.6%_|100%
+TechPowerUp|(8)|57.8%|60.6%|63.6%|67.5%|75.1%|75.3%|81.5%|100%
+Tom's Hardware|(6)|35.1%|38.0%|_42.9%_|49.5%|55.3%|56.7%|63.0%|100%
+**average RT@1080p Performance**||**45.2%**|**48.0%**|**50.7%**|**59.9%**|**65.5%**|**67.1%**|**71.6%**|**100%**
+U.S. MSRP||$649|$699|$1099|$699|$1199|$1499|$1999|$1599
+
+&nbsp;
+
+Performance Overview|6800XT|6900XT|6950XT|3080-10G|3080Ti|3090|3090Ti|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+&nbsp;|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|Ampere 10GB|Ampere 12GB|Ampere 24GB|Ampere 24GB|Ada 24GB
+2160p Perf.|49.8%|53.8%|57.1%|51.2%|57.0%|58.7%|64.0%|100%
+1440p Perf.|61.2%|65.8%|69.4%|60.1%|65.6%|67.0%|71.5%|100%
+1080p Perf.|72.8%|76.6%|80.2%|70.0%|74.7%|76.2%|79.8%|100%
+RT@2160p Perf.|32.7%|35.4%|37.8%|44.2%|51.7%|53.5%|59.0%|100%
+RT@1440p Perf.|39.4%|42.4%|44.8%|53.0%|58.5%|60.0%|64.9%|100%
+RT@1080p Perf.|45.2%|48.0%|50.7%|59.9%|65.5%|67.1%|71.6%|100%
+Gain of 4090: 2160p|+101%|+86%|+75%|+95%|+75%|+70%|+56%|-
+Gain of 4090: 1440p|+63%|+52%|+44%|+67%|+52%|+49%|+40%|-
+Gain of 4090: 1080p|+37%|+30%|+25%|+43%|+34%|+31%|+25%|-
+Gain of 4090: RT@2160p|+206%|+182%|+165%|+126%|+93%|+87%|+69%|-
+Gain of 4090: RT@1440p|+154%|+136%|+123%|+89%|+71%|+67%|+54%|-
+Gain of 4090: RT@1080p|+121%|+108%|+97%|+67%|+53%|+49%|+40%|-
+official TDP|300W|300W|335W|320W|350W|350W|450W|450W
+**Real Consumption**|298W|303W|348W|325W|350W|359W|462W|418W
+U.S. MSRP|$649|$699|$1099|$699|$1199|$1499|$1999|$1599
+
+&nbsp;
+
+CPU Scaling @2160p|6800XT|6900XT|6950XT|3080-10G|3080Ti|3090|3090Ti|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+avg. 2160p Performance|49.8%|53.8%|57.1%|51.2%|57.0%|58.7%|64.0%|100%
+2160p: ""superfast"" CPUs|48.9%|52.9%|56.2%|50.4%|56.2%|57.9%|63.3%|100%
+2160p: ""weaker"" CPUs|54.3%|58.7%|61.5%|54.0%|60.4%|61.8%|66.9%|100%
+Gain of 4090: average|+101%|+86%|+75%|+95%|+75%|+70%|+56%|-
+Gain of 4090: ""superfast"" CPUs|+105%|+89%|+78%|+98%|+78%|+73%|**+58%**|-
+Gain of 4090: ""weaker"" CPUs|+84%|+70%|+63%|+85%|+66%|+62%|**+49%**|-
+
+""superfast"" CPUs = Core i9-12900K/KS, Ryzen 7 5800X3D, all Ryzen 7000    
+""weaker"" CPUs = Core i7-12700K, all Ryzen 5000 (non-X3D)
+
+&nbsp;
+
+Performance/Price|6800XT|6900XT|6950XT|3080-10G|3080Ti|3090|3090Ti|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+U.S. MSRP|$649|$699|$1099|$699|$1199|$1499|$1999|$1599
+GER UVP|649€|999€|1239€|759€|1269€|1649€|2249€|1949€
+GER Retailer|650€|740€|900€|800€|1000€|1080€|1200€|2300€
+avg. 2160p Performance|49.8%|53.8%|57.1%|51.2%|57.0%|58.7%|64.0%|100%
+Perf/Price vs 4090 @ 2300€|+76%|+67%|+46%|+47%|+31%|+25%|+23%|-
+Perf/Price vs 4090 @ 1949€|+49%|+42%|+24%|+25%|+11%|+6%|+4%|-
+
+Not to be confused: All other cards have a better performance/price ratio than the GeForce RTX 4090 - even when the new nVidia card reach MSRP.
+
+&nbsp;
+
+**Performance factor of the GeForce RTX 4090 compared to previous graphics cards at 2160p**
+
+AMD Midrange|AMD HighEnd|AMD Enthusiast||nVidia Enthusiast|nVidia HighEnd|nVidia Midrange
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+&#10005;2.7 6750XT||&#10005;1.7 6950XT|**2022**|&#10005;1.6 3090Ti||
+&#10005;2.9 6700XT|||**2021**|||
+&nbsp;|&#10005;2.0 6800XT|&#10005;1.8 6900XT|**2020**|&#10005;1.7 3090|&#10005;1.9 3080-10G|&#10005;2.6 3070
+&#10005;3.8 5700XT|&#10005;3.6 Radeon VII||**2019**||&#10005;3.1 2080S|&#10005;4.3 2060S
+&nbsp;|||**2018**|&#10005;2.6 2080Ti|&#10005;3.3 2080|&#10005;5.2 2060-6G
+&#10005;5.5 Vega56|&#10005;4.8 Vega64||**2017**|||
+&nbsp;|||**2016**|&#10005;3.7 1080Ti|&#10005;4.8 1080|&#10005;6.0 1070
+&#10005;8.4 390|&#10005;7.0 Fury|&#10005;6.4 Fury X|**2015**|&#10005;6.4 980Ti||
+&nbsp;|||**2014**||&#10005;8.3 980|&#10005;10.2 970
+&#10005;9.4 R9 290|&#10005;8.6 R9 290X||**2013**|&#10005;9.4 780 Ti|&#10005;11.6 780|
+&nbsp;|&#10005;11.6 7970 ""GHz""||**2012**|||
+&nbsp;|&#10005;12.8 7970||**2011**|||
+
+&nbsp;
+
+Source: [3DCenter.org](https://www.3dcenter.org/artikel/launch-analyse-nvidia-geforce-rtx-4090)",Nvidia GeForce RTX 4090,Graphics Processing Unit,2022-10-16 13:37:22
+y18ixt,NVIDIA GeForce RTX 4090 Founders Edition Review - Impressive Performance,https://www.techpowerup.com/review/nvidia-geforce-rtx-4090-founders-edition/,Nestledrink,309,380,0.92,,Nvidia GeForce RTX 4090,Graphics Processing Unit,2022-10-11 13:02:35
+y17jrj,NVIDIA RTX 4090 FE Review Megathread,https://www.reddit.com/r/hardware/comments/y17jrj/nvidia_rtx_4090_fe_review_megathread/,Nekrosmas,625,1105,0.93,"#As per usual, all content outside FE reviews are not restricted (i.e. AIB models / XOC / Teardown, etc).
+
+#Written Reviews:
+
+[Arstechnica](https://arstechnica.com/gadgets/2022/10/rtx-4090-review-nvidias-biggest-gpu-is-easily-its-best/)
+
+[Babeltech Reviews](https://babeltechreviews.com/rtx-4090-performance-45-games-vr-pro-apps-benchmarked/)
+
+[Club 386](https://www.club386.com/nvidia-geforce-rtx-4090-review/)
+
+[Eurogamer / Digital Foundry](https://www.eurogamer.net/digitalfoundry-nvidia-geforce-rtx-4090-a-new-level-in-graphics-performance)
+
+[Guru3D](https://www.guru3d.com/articles-pages/geforce-rtx-4090-founder-edition-review,1.html)
+
+[Hot Hardware](https://hothardware.com/reviews/nvidia-geforce-rtx-4090-gpu-review)
+
+[KitGuru](https://www.kitguru.net/components/graphic-cards/dominic-moass/nvidia-rtx-4090-founders-edition-review/)
+
+[OC3D](https://overclock3d.net/reviews/gpu_displays/nvidia_geforce_rtx_4090_founders_edition_review/1)
+
+[PC World](https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review.html)
+
+[Techgage (Workstation)](https://techgage.com/article/nvidia-geforce-rtx-4090-the-new-rendering-champion/)
+
+[Techspot / HUB](https://www.techspot.com/review/2544-nvidia-geforce-rtx-4090/)
+
+[Techpowerup](https://www.techpowerup.com/review/nvidia-geforce-rtx-4090-founders-edition/)
+
+[Tom's Hardware](https://www.tomshardware.com/reviews/nvidia-geforce-rtx-4090-review)
+
+**Other Laguages in written:**
+
+[Computerbase(in German)](https://www.computerbase.de/2022-10/nvidia-geforce-rtx-4090-review-test/)
+
+[Hardwareluxx (in German)](https://www.hardwareluxx.de/index.php/artikel/hardware/grafikkarten/59631-geforce-rtx-4090-in-der-founders-edition-im-test.html)
+
+[HKEPC (in Traditional Chinese)](https://www.hkepc.com/21166/%E5%85%A8%E6%96%B0_Ada_Lovelace_%E6%9E%B6%E6%A7%8B__NVIDIA_GeForce_RTX_4090_FE_%E9%A1%AF%E7%A4%BA%E5%8D%A1)
+
+[Igor’s Lab](https://www.igorslab.de/en/nvidia-geforce-rtx-4090-founders-edition-24gb-review-drink-less-work-more/)
+
+[PCWatch (in Japanese)](https://pc.watch.impress.co.jp/docs/column/hothot/1446332.html)
+
+#Videos Reviews:
+
+[Bitwit](https://www.youtube.com/watch?v=ASegBxL9J48)
+
+[der8auer](https://www.youtube.com/watch?v=60yFji_GKak)
+
+[Eurogamer / Digital Foundry](https://www.youtube.com/watch?v=glz5B-4IlKE)
+
+[Gamers Nexus](https://www.youtube.com/watch?v=j9vC9NBL8zo)
+
+[HardwareCanucks](https://www.youtube.com/watch?v=SUKvLkcgIDo)
+
+[Hardware Unboxed](https://www.youtube.com/watch?v=aQklDR8nv8U)
+
+[Igor’s Lab (In German)](https://www.youtube.com/watch?v=pNhAw449PtU)
+
+[LTT](https://www.youtube.com/watch?v=THxkY59_xko)
+
+[OC3D](https://www.youtube.com/watch?v=dDRcCJeFCKg)
+
+[Optimum Tech](https://www.youtube.com/watch?v=kWGQ432O3Z4)
+
+[Paul's Hardware](https://www.youtube.com/watch?v=F1YAT9AK_HY)
+
+[Tech YES City](https://www.youtube.com/watch?v=_DNohsGvco0)
+
+I'll update this over the next few days or so.",Nvidia GeForce RTX 4090,Graphics Processing Unit,2022-10-11 12:15:58
+10ls9ma,Gigabyte Aorus Master RTX 4090 review,https://www.reddit.com/r/nvidia/comments/10ls9ma/gigabyte_aorus_master_rtx_4090_review/,Mhmd1993,14,39,0.71,"Before buying this card several days ago, I found no proper reviews of it. Most focus on other models like the Gaming OC. So I'd like to share my experience with people who want to buy a 4090.
+
+**The Pros:** The build quality is excellent, and there's absolutely no coil whine at all. 
+
+The heatsink is quite massive. I think it's the biggest 4090 out there so far. This might be undesirable for some people, but in my opinion, it allows the card to stay cool with low levels of noise, and it's more reliable than water cooling. Make sure that the card fits in your case though, and you'll need an extra 15mm of clearance for the 12vhpwr connector to be plugged comfortably with a traditional horizontal mount.
+
+My thermals and noise levels are outstanding. You can see Der8auer's thermals and tear down [in this video.](https://www.youtube.com/watch?v=zc-zwQMV8-s) He was impressed with its cooling solution (aside from the stupid marketing). I made a custom fan curve to make it more silent, since it's unnecessarily loud by default. My thermals after a 1 hour stress test in [Bright Memory: infinite ray tracing](https://store.steampowered.com/app/1409670/Bright_Memory_Infinite_Ray_Tracing_Benchmark/) benchmark:
+
+GPU core: 64c
+
+hotspot: <74c
+
+mem: 68c
+
+fan1: 62%, 1370 RPM
+
+fan2: 63%, 1220 RPM
+
+GPU load: 100% with 430w power draw
+
+Case: nzxt h7 flow only with the stock 2 fans (intake fan adjusted to the lower slot)
+
+Ambient temp: 15c
+
+The [anti-sag bracket](https://www.youtube.com/watch?v=WSYodaliYGE) functions great, is relatively easy to install and keeps the aesthetics... however it blocked my case's front usb-c motherboard connector, which I don't mind all that much.
+
+Warranty is 4 years, if you live in a country where you can deal with Gigabyte directly. I don't, so if I needed anything, I'll have to deal with the shop I bought the card from.
+
+**The Cons**: I suffered through the infamous gigabyte fan revving problem. And although I did my research and asked on reddit, I only found about it after I bought the card. There was no fix online but I found that when disabling the RGB, the problem stops. It seems like the culprit is the LED on the fan blades. If you still want to fix this problem and keep the RGB, follow the steps in  [this post](https://www.reddit.com/r/nvidia/comments/10gu0x6/fixing_gigabytes_fan_revving_problem_on_the_rtx/), although your minimum RPM will be around 1200 RPM instead of 700, which is too much for lighter loads for a card with such cooling solution.
+
+I don't care about RGB or the included LCD, but if you do, then you'll have a problem with the fans as I said before, and you'll have to deal with Gigabyte's awful software. It's beyond abysmal.
+
+The LCD screen might have been useful for me to view the temperature and fan RPM, but it keeps showing the same numbers. You can put in a custom text, pic or a .GIF.
+
+The size might also be a problem for you, as mentioned before.
+
+**TL;DR:** Gorgeous card with a large but top class cooling solution, zero coil whine, broken software and RGB will probably cause fan revving. 
+
+I would love to see it compared to the ROG Strix version.",Nvidia GeForce RTX 4090,Graphics Processing Unit,2023-01-26 13:51:57
+zjzws8,"AMD Radeon RX 7900 XTX Review & GPU Benchmarks: Gaming, Thermals, Power, & Noise",https://www.youtube.com/watch?v=We71eXwKODw,Old_Miner_Jack,488,679,0.94,,AMD Radeon RX 7900 XTX,Graphics Processing Unit,2022-12-12 14:01:25
+zjzris,AMD Radeon RX 7900 XTX/XT Review Roundup,https://videocardz.com/144834/amd-radeon-rx-7900-xtx-xt-review-roundup,Old_Miner_Jack,343,772,0.94,,AMD Radeon RX 7900 XTX,Graphics Processing Unit,2022-12-12 13:55:34
+zjzzi5,[HUB] Radeon RX 7900 XTX Review & Benchmarks,https://www.youtube.com/watch?v=4UFiG7CwpHk,f0xpant5,907,1680,0.87,,AMD Radeon RX 7900 XTX,Graphics Processing Unit,2022-12-12 14:04:29
+zk0tau,"AMD Radeon RX 7900 XTX Review & GPU Benchmarks: Gaming, Thermals, Power, & Noise [Gamers Nexus]",https://www.youtube.com/watch?v=We71eXwKODw,GameStunts,181,175,0.88,,AMD Radeon RX 7900 XTX,Graphics Processing Unit,2022-12-12 14:37:55
+14a2c6x,Powercolor Red Devil 7900 XTX User review,https://www.reddit.com/r/Amd/comments/14a2c6x/powercolor_red_devil_7900_xtx_user_review/,_adam_p,7,69,0.56,"Hi all,
+
+I found the reviews on this card a bit lacking, so I figured I should write my own. Hope it will be helpful to someone else, as I had my doubts about this purchase.
+
+&#x200B;
+
+**Rationale** (aka Why this card?)
+
+Coming from a 6800 XT, which I loved I wanted to give RDNA3 a try, and switch to Nvidia if it is a bad experience. The choice was between the 7900 XT and the XTX. I have been waiting for a price drop, and this was the first card that met the mark, cost €1080.
+
+(It is a great price considering I live in a country with 27% VAT)
+
+I was aware of the possible issues, like high idle power usage, and the thermal paste and coil whine problem with this specific model. Figured I'd return it if it is bad.
+
+&#x200B;
+
+**Look & Feel**
+
+The materials used are decent, in line with the quality of my TUF 6800 XT. The only card I ever had with better material usage was the MSI Suprim, and that is not much better.
+
+Its 3.5 slots, thicc boi, but otherwise not oversized.
+
+RGB is nice and strong, comes with an ARGB cable, which I haven't tried yet.
+
+Comes with a decent bracket / holder.
+
+The packaging is premium, not that it matters.
+
+&#x200B;
+
+**Temps & Noise**
+
+Idle it sits around 45-60C, with the fans ocasionally kicking in, reducing the temps to 45C.
+
+The start and stop is inaudible, they run at around 800 RPM, you can hear it if you really listen, but its nothing.
+
+Idle power usage is TBP 60W with a 3440x1440 monitor @ 144Hz. Not great, not terrible. Definitely have to pay attention to turn off the system when not needed.
+
+&#x200B;
+
+During gaming I saw a max 78C on the edge, and 99C on the hotspot for a 21C delta. Pretty bad results. The test was concluded in a 25C room, so the results are in line with IgorsLab's testing **after** he fixed the paste issue. [He measured 95C in a 22C room](https://www.igorslab.de/en/powercolor-rx-7900xtx-red-devil-mit-eingebautem-herstellungsfehler-wenn-der-hotspot-zum-standard-wird/)
+
+TBP is 375W under a 100% load, with fans running at a still very silent 1250 RPM, contributing to the high temps.
+
+Raising the max fan speed to 70%, the fans turn at \~2200 RPM, and this results in a 9-10C drop in temperatures.
+
+&#x200B;
+
+Coil whine is suprisingly minimal. Best I have had in 5 years, and this pumps out the most FPS by far, so I was very happy to (not) hear that. Expected way worse.
+
+&#x200B;
+
+**OC & UV**
+
+Ran everything fine with 1080mV, Cyberpunk crashed at 1050mV.
+
+The clocks could be raised to 3150Mhz without crashing.
+
+Overall, this netted a total of \~200Mhz, and a couple of FPS during gaming, without raising the power limit.
+
+&#x200B;
+
+**Nitpicks**
+
+\- Marketing BS: ""Red Devil Never Bows""... yet for some reason they include a bracket. And indeed, without it, the card sags. Its not too bad, but definitely not something they should brag about.
+
+\- The diffusor on the RGB strip allows the leds to shine through directly from some angles. If my PC is on the ground, I can see the individual leds.
+
+&#x200B;
+
+**Overall**
+
+This is a flagship chip, and a flagsip model, so it should be judged at that level.
+
+The build quality is excellent, but card sag caused by the lack of triangulation makes it only a passing grade, definitely not a good one.
+
+The temps are very problematic. Using this card in the summer in a room without AC would be pretty much impossible, meaning the cooling is simply inadequate.
+
+Verdict: Sent it back, will wait for the Nitro to drop. (costs €200 more still in my country)",AMD Radeon RX 7900 XTX,Graphics Processing Unit,2023-06-15 13:22:24
+117n6rc,ASRock Radeon RX 7900 XTX Taichi Review,https://www.techpowerup.com/review/asrock-radeon-rx-7900-xtx-taichi/,GhostMotley,78,50,0.89,,AMD Radeon RX 7900 XTX,Graphics Processing Unit,2023-02-20 22:51:45
+185folc,4070 ti vs RX 7900 XTX,https://i.redd.it/88veg1nluy2c1.jpeg,East_Personality_771,5103,841,0.89,Wich should i get for gaming and limited video editing?,AMD Radeon RX 7900 XTX,Graphics Processing Unit,2023-11-27 22:24:13
+19ba9z2,"Small Review 7900 XTX for flight sims, a great discovery",https://www.reddit.com/r/hoggit/comments/19ba9z2/small_review_7900_xtx_for_flight_sims_a_great/,Brightshore101,63,45,0.92,"Dear people on Hoggit,
+
+As I found out, many people would not recommend an AMD for DCS / Il-2 or some serious flightsimming. It's not a surprise since 6000 series (for me) and 7000 series at launch underperformed by a lot (fixed now). Also, Nvidia has always had the next step in VR (and now with DLSS and RT).
+
+  
+Edit: some users said that they had no issues at launch with 6000 series. Must have been a user error on my end and my squad member's end.
+
+I had a 4080 and I decided to give the 7900 XTX a chance.  The results surprised me. I did this review for Sheriff's Discord, so I will paste below. My specs are:
+
+Mobo Asus ROG Maximus Hero Z790
+
+CPU Intel Core I9 13900K @ 6.2 paired with a Asus Ryuo 360
+
+Ram Corsair 64Gb @ 6000
+
+PSU Corsair Hxi1500
+
+Game on a NVME
+
+Good case with good ventilation (Corsair 7000D with Arctic 140 Fans)
+
+&#x200B;
+
+*Summary tl dr -> The 7900 XTX is a beast of a card. It should fear nothing against the 4080. In rasterization, it's  a bit faster in DCS and Il-2. The first part of the efficience curve is really good and I may say even better than the 4080 with a slight undervolt?. Even in RT, the games that are plus 60fps in the Nvidia one will mostly reach 60fps too or get near it. No issue.  If I were interested only in RT games and using DLSS, then I would need to see if the Price increase (From 1000€ to 1300€) is justified.*
+
+&#x200B;
+
+Okay my brothers and sisters, here is a quick review. Tested various games, tested VR with Quest 3 a few moments ago and our beloved sims. The rest was yesterday all night long:  The model is the Sapphire Nitro +, one of the best air cooled XTX on the market. Sapphire is not EVGA, but it's one of the best AIBs around for AMD.  I've watched several videos these past few weeks and I think they don't do much justice or there are not many units availible.
+
+First of all, I had NO issues with Drivers. Could record and do a mini stream no problem. I don't use more productivity programs besides Adobe, Vegas, MemoQ. For a normal content creator it works flawlesly. Even I could work with Discord (had trouble with streaming on my old 6700 XT Back in the day). Tried two monitors too and no shenanigans. Let me remind myself the moto: Don't buy tech too early. It has the newer HDMI and DP ports. For productivity tho, Nvidia is still the king. I am just making some YouTube videos. Take this into account!
+
+It's not 100% slower in RT as others claimed. Probably 20 and 30% in some games. ([https://tpucdn.com/review/amd-radeon-rx-7900-xtx/images/relative-performance-rt\_3840-2160.png](https://tpucdn.com/review/amd-radeon-rx-7900-xtx/images/relative-performance-rt_3840-2160.png))I didn't have enough RT to try, but with Cyberpunk I was able to do RT + FSR at 4k and enjoy 60 fps.
+
+The worst thing is the consumption. 400W on this Custom Nitro model is the norm and can be pushed up to 500W with a OC. And this is important. **The OC gives an uplift up to 10% in some cases (per some reviewers).**
+
+&#x200B;
+
+(Read Dead Redemption 2)
+
+[https://cdn.discordapp.com/attachments/399864768908886021/1197308086235451492/IMG\_0819.jpg?ex=65bacb0c&is=65a8560c&hm=db671fe3e31bcf19d4770a5bdbaef49cf6d31d5b2f4a051f4a52c3bbdab6f656&](https://cdn.discordapp.com/attachments/399864768908886021/1197308086235451492/IMG_0819.jpg?ex=65bacb0c&is=65a8560c&hm=db671fe3e31bcf19d4770a5bdbaef49cf6d31d5b2f4a051f4a52c3bbdab6f656&)
+
+&#x200B;
+
+3440x1440 MSAA x2 DX12
+
+TechPowerUp benchamark with 4k: [https://tpucdn.com/review/amd-radeon-rx-7900-xt/images/red-dead-redemption-2-3840-2160.png](https://tpucdn.com/review/amd-radeon-rx-7900-xt/images/red-dead-redemption-2-3840-2160.png)
+
+&#x200B;
+
+Both cards maxed like Watts, as the 4080 will pull north of 320W mark too. The worst case scenario for performance is with full Ray tracing where it takes a hit for the worst, but it's not that off from a lower 4000 series model.
+
+Of course, using upscaling methods like FSR or Intel Xess or FG is mandatory with RT. The final results are probably between a 4070 and 4070ti with better 99% lows and tons of RAM to use. Enough for 60 fps gaming in RT and **AMD** ***CAN*** **do RT**. Even lower models I guess with FSR and this new FG with Unreal could be really cool.
+
+FSR on the other part works good but it’s not as good as Nvidia’s DLSS. Also, this changes as soon as we go up in resolution. At 4k FSR performs  good enough to be a good contender, whereas at 1080p and even 2k the differences in edges, lines etc are worse. (Noticed this in RDR2) The differences at 4k are noticeable only if we focus on a single object. I tested both DCS, CyberPunk and DCS for this. From the online reviews, looks like FSR was like aids on your vision. I was surprised that at 4k works ""good enough"" and in many generations of GPUs. Good enough. I like it.
+
+The metal construction of this model and the PCB seems of a really good quality. The backplate and ""joint"" in the back part prevent sagging and does a huge better job than the Gigabyte 4000 models. I think it's on the same way as the TUF and Asus ROG. Great! and great build quality.
+
+It is shorter tan Gigabytes 4080 and weights 1kg less. I hope this also helps in sagging. It also comes with a support in the way of a lower part to attach. I have now two supports: this lower part and a pillar on the end of the GPU. The software is not needed and only helps you to change the RGB. You have 3 settings for BIOS. 1 OC 2 PW limited and 3 Software controlled.
+
+I didn’t “fidget” with OC a lot with, but it has room to more OC. The temperature allows it: Temperature wise it’s good! Really good! 60 ºC average at máximum 400W so the cooler  it’s doing a great job and has margin to OC.   As expected, the efficiency drops soon at the last part. Until 80% of usage we are not reaching 200W, let alone 180W. it’s cool and good for that. Flying sims with a capped 80 or 100 fps result in less Wattage than in my old 4080 which did over 200W.
+
+Let’s go to our beloved sims and FPS:  I fly with 100 or 80 fps, depending on the sim. I was using 80 in DCS an 100 in Il-2. After DCS got the MT upgrade I switched back to 100 in both.  For DCS in native, the card has NO issues with a 13900K. The fps reached 160 uncapped in the air and more than 100 in the ground. With the 4080 I was able to get 130-140 in the Hornet free flight mission. I had the best improvement in Marianas with tons of objects, specially with the Apache and all screens doing PIP. (VRAM was also going up and up, the 384 bits of bandwith help I guess?)
+
+&#x200B;
+
+In this screenshot of Ah-64D Hot start on Syria I am using 3440x1400, MSAAx2, all maxed out, 1024 screens every frame (NO upscaling):
+
+&#x200B;
+
+[https://cdn.discordapp.com/attachments/1056134833723674644/1197988848609792070/IMG\_0831.png?ex=65bd450f&is=65aad00f&hm=6d84ba8b9b943f145514b319ba66bf847ef9b97d17a74bd6cdac132c8f7a70aa&](https://cdn.discordapp.com/attachments/1056134833723674644/1197988848609792070/IMG_0831.png?ex=65bd450f&is=65aad00f&hm=6d84ba8b9b943f145514b319ba66bf847ef9b97d17a74bd6cdac132c8f7a70aa&)
+
+&#x200B;
+
+[https://cdn.discordapp.com/attachments/1056134833723674644/1197988882545918062/IMG\_0833.png?ex=65bd4517&is=65aad017&hm=159bd6a5728f3ebecad4800bcb0adae89596020d333aa8f07534cd08772d340e&](https://cdn.discordapp.com/attachments/1056134833723674644/1197988882545918062/IMG_0833.png?ex=65bd4517&is=65aad017&hm=159bd6a5728f3ebecad4800bcb0adae89596020d333aa8f07534cd08772d340e&)
+
+&#x200B;
+
+As you can see, I am hitting 75 fps with both screens showing content. I was not able to do this with my 4080 where I was barely hitting 60 fps withouth upscaling.
+
+&#x200B;
+
+In Il-2 I also had an improvement, maybe smaller. Could reach 144 in 344x1440 with MSAAx4 and all maxed out. I didnt get 144 in the 4080. More like 120-130.  With OC both sims showed a Little welcomed uplift, giving more % to the AMD one. Nvidia OC was boring AF and didn’t get me out much.
+
+[https://cdn.discordapp.com/attachments/399864768908886021/1197302594738073630/IMG\_0812.jpg?ex=65bac5ef&is=65a850ef&hm=3798f4bcbf51cecf8a3164d87e338dede71a6abf4f16631b94168bf4c8932d9f&](https://cdn.discordapp.com/attachments/399864768908886021/1197302594738073630/IMG_0812.jpg?ex=65bac5ef&is=65a850ef&hm=3798f4bcbf51cecf8a3164d87e338dede71a6abf4f16631b94168bf4c8932d9f&)
+
+&#x200B;
+
+&#x200B;
+
+Both sims at 100 fps gave me a board power slightly higher than the 4080, but have more headroom.
+
+&#x200B;
+
+What in VR? How does it perform? I **WAS** surprised. I tested this card (other model) after launch here. In VR the 4080 was like 30% faster. I was surprised this was not the case anymore, will it be in the future?  In Il-2 I could fly with almost everything maxed out sans shadows and MSAA with the Quest 3. 90 fps no trobule dropping down with 16 planes in the air and a high cloud cover. I also had dips on my 4080 when planes were blocking the sky.  I am not sure how much of a decrease is in VR, but the performance was really similar between the two, so similar I could guess RAM and CPU OC matter more.
+
+In DCS and using FSR also gave me headroom to play. Using the Viper refuel mission I was able to have the exact same settings albeit a little reduction on resolution (I found out later that it was the same, FSR was on, did a retest and didn't need to change settings from the 4080).  The 7900 XTX can do VR similar (maybe 5% less?) to a 4080 to this day in Il-2. **THIS is realy important**. I don't do VR so I can get you all of the juice, but some squad mamebers use it and they are happy. Would be great to have more people testing this.
+
+&#x200B;
+
+All in all, I didn’t have time to test more an the VR was a quick test. I didn’t have any issues neither on the setup with Virtual Desktop. Just plug in, adjust resolution and get the same as before and nothing more.  For a Price point of 999€ I think it’s a great card, considering it uses old-style connectors and non propietary Nvidia tech. The biggest downside I can see is conmsumption and RT, but being worse than a 4080 in RT doesn’t mean it can’t beat a normal 4070 in it.  What about OC? I applied it and I feel like the dips were lower. There is much to explore. As I said earlier, some OC test gave me some good uplift, I guess I can pull more.
+
+I guess it had issues in special places, programs etc, because this thing is awesome. The 4080 cost me 1300€, this one 1050€. You can get other XTX for as Little as 999€ (Hellhound) and perform similar.
+
+The best card in the world RN is the 4090, there is no doubts. Better raster and RT than anything else and special tech. Going down… the 4080 seems like a bad deal at the moment with 256 bus and 16 gb for a future proof.  (20 gb would have killed this AMD card)
+
+Super cards probably might cause a lower Price here. Taking into accountscalpers and other factors, the 4070 TI Super may end in this same region whereas the 4080 Super (that probably will have head again in raster) in 1400 or more, whereas this might drop to 799 / 900€ in some models.
+
+I need more time with it :) but this thing is interesting.
+
+&#x200B;
+
+The 4080 Super with 20gb could just kill this thing for 1300 but I guess we are forced to pay 2000€ and more for the 4090.
+
+Kind regards,
+
+&#x200B;",AMD Radeon RX 7900 XTX,Graphics Processing Unit,2024-01-20 12:01:41
+zddx2f,"AMD Radeon RX 7900 XTX has been tested with Geekbench, 15% faster than RTX 4080 in Vulkan - VideoCardz.com",https://videocardz.com/newz/amd-radeon-rx-7900-xtx-has-been-tested-with-geekbench-15-faster-than-rtx-4080-in-vulkan,Stiven_Crysis,1521,489,0.97,,AMD Radeon RX 7900 XTX,Graphics Processing Unit,2022-12-05 17:51:23
+10dndcs,Can't find any Sapphire 7900 XTX Pulse reviews,https://www.reddit.com/r/Amd/comments/10dndcs/cant_find_any_sapphire_7900_xtx_pulse_reviews/,Chamot78,44,158,0.89,I've been looking for reviews on this GPU as it's substantially cheaper for me to get one as opposed to the more popular Nitro+ but I haven't been able to find a single review anywhere. I'd like to know where it stands compared to other options especially in performance and overclocking potential and would also like to see user experiences in light of the hotspot issue with the reference cards. Does anyone have one? Has anyone seen reviews of it?,AMD Radeon RX 7900 XTX,Graphics Processing Unit,2023-01-16 18:31:17
+1983l3c,"[Gamers Nexus] NVIDIA GeForce RTX 4070 Super Review & Benchmarks vs. RTX 4070, RX 7800 XT, & More",https://www.youtube.com/watch?v=mL1l4jmxLa8&pp=ygUKNDA3MCBTdXBlcg%3D%3D,Nestledrink,171,319,0.76,,Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-01-16 14:03:07
+1983kez,[Hardware Unboxed] Nvidia GeForce RTX 4070 Super Review - Finally Good Value?,https://www.youtube.com/watch?v=HT8UmPrQYvk,NamelessManIsJobless,150,248,0.77,,Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-01-16 14:02:16
+1ahowiy,4070 Super Review for 1440p Gamers,https://www.reddit.com/r/nvidia/comments/1ahowiy/4070_super_review_for_1440p_gamers/,wookmania,297,452,0.83,"I play on 1440p/144hz. After spending sn eternity debating on a 4070 super or 4080 super, here are my thoughts. I budgeted $1100 for the 4080 super but got tired of waiting and grabbed a 4070S Founders Edition at Best Buy. I could always return it if the results were sub par. Here’s what I’ve learned:
+
+- this card has “maxed”every game I’ve tried so far at a near constant 144 fps, even cyberpunk with a few tweaks. With DLSS quality and a mixture of ultra/high. With RT it’s around 115-120 fps. Other new titles are at ultra maxed with DLSS. Most games I’ve tried natively are running well at around 144 with all the high or ultra graphics settings. 
+
+- It’s incredibly quiet, esthetic, small, and very very cool. It doesn’t get over 57 Celsius under load for me (I have noctua fans all over a large phanteks case for reference). 
+
+- anything above a 4070 super is completely OVERKILL for 1440p IN MY OPINION*. It truly is guys. You do not need a higher card unless you play on 4k high FPS. My pal is running a 3080ti and gets 100 fps on hogwarts 4k, and it’s only utilizing 9GB VRAM.
+
+- the VRAM controversy is incredibly overblown. You will not need more than 12GB 99.9% of the time on 1440p for a looong time. At least a few years, and by then you will get a new card anyway. If the rationale is that a 4080S or 4090 will last longer - I’m sure they will, but at a price premium, and those users will also have to drop settings when newer GPU’s and games come out. I’ve been buying graphics cards for 30 years - just take my word for it.
+
+In short if you’re on the fence and want to save a lot of hundreds, just try the 4070 super out. The FE is amazingly well built and puts the gigabyte wind force to shame in every category - I’ve owned several of them.
+
+Take the money you saved and trade in later for a 5070/6070 super and you’ll be paying nearly the same cost as one of the really pricy cards now. It’s totally unnecessary at 1440p and this thing will kick ass for a long time. You can always return it as well, but you won’t after trying it. 2c
+
+PC specs for reference: 4070 super, 7800x3d, 64gb ram, b650e Asrock mobo ",Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-02-03 05:42:39
+1985ork,Nvidia GeForce RTX 4070 Super Review,https://www.techspot.com/review/2791-nvidia-geforce-rtx-4070-super/,Stiven_Crysis,94,96,0.8,,Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-01-16 15:36:14
+1983l4u,"[Gamers Nexus] NVIDIA GeForce RTX 4070 Super Review & Benchmarks vs. RTX 4070, RX 7800 XT, & More",https://www.youtube.com/watch?v=mL1l4jmxLa8,NamelessManIsJobless,164,251,0.74,,Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-01-16 14:03:10
+1983kja,[TechPowerUp] NVIDIA GeForce RTX 4070 Super Founders Edition Review,https://www.techpowerup.com/review/nvidia-geforce-rtx-4070-super-founders-edition/,Nekrosmas,275,304,0.92,,Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-01-16 14:02:25
+191go4d,"NVIDIA launches GeForce RTX 40 SUPER series: $999 RTX 4080S, $799 RTX 4070 TiS and $599 RTX 4070S",https://videocardz.com/newz/nvidia-launches-geforce-rtx-40-super-series-999-rtx-4080s-799-rtx-4070-tis-and-599-rtx-4070s,TheEternalGazed,1088,990,0.94,,Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-01-08 08:41:46
+19eh7j4,Is RTX 4070 Super a good value now? (upgrading from GTX 1080),https://www.reddit.com/r/nvidia/comments/19eh7j4/is_rtx_4070_super_a_good_value_now_upgrading_from/,semanticistZombie,19,125,0.66,"I know the answer is always ""wait for the next generation"", but if I were to buy a GPU today upgrading my GTX 1080, would a RTX 4070 Super be a good value?
+
+I only want NVIDIA for driver support reasons (on Linux). AMD is not an option.
+
+Among the RTX 4070 Super models, do you have any recommendations (ASUS, GIGABYTE, ZOTAC etc.)? I see that most of them have double fans and 12G of RAM, but I see a few with triple fans as well. Not sure if it matters as long as it's the same GPU..",Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-01-24 13:34:29
+1akykpj,4070 super versions,https://www.reddit.com/r/nvidia/comments/1akykpj/4070_super_versions/,blacksnow331,6,13,1.0,"Hi, I’ve tried looking around but can’t seem to find any hands on recommendations. I want a tri-fan 4070 Super, but am not sure about the manufacturer. As for now I’m split between;
+
+ • Gigabyte RTX 4070s Windforce 3 OC
+ • Inno3D RTX 4070s iCHILLX3 
+ • Gigabyte RTX 4070s GAMING OC
+
+Do you have any recommendations for another manufacturers? Should I avoid any of these?
+
+Thanks in advance",Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-02-07 08:47:09
+1983kd1,[TPU] NVIDIA GeForce RTX 4070 Super Founders Edition Review,https://www.techpowerup.com/review/nvidia-geforce-rtx-4070-super-founders-edition/,Nestledrink,150,59,0.95,,Nvidia GeForce RTX 4070 Super,Graphics Processing Unit,2024-01-16 14:02:12
+16bjryx,AMD Radeon RX 7800 XT Review,https://www.techpowerup.com/review/amd-radeon-rx-7800-xt/,BarKnight,264,322,0.93,,AMD Radeon RX 7800 XT,Graphics Processing Unit,2023-09-06 13:04:02
+16s09xk,RX 7800 XT Review | Is it really this good?,https://youtube.com/watch?v=q5-4A93bjmE&si=9B7e4DF2Vhzq9kyF,theacclaimed,120,207,0.81,,AMD Radeon RX 7800 XT,Graphics Processing Unit,2023-09-25 18:44:33
+16bjufu,AMD Radeon RX 7800 XT Review,https://www.techpowerup.com/review/amd-radeon-rx-7800-xt/41.html,BarKnight,149,74,0.88,,AMD Radeon RX 7800 XT,Graphics Processing Unit,2023-09-06 13:07:02
+16bjql2,"AMD Radeon RX 7800 XT GPU Review & Benchmarks vs. RX 6800 XT, RTX 4070, & More",https://youtu.be/8qBQ0eZEnbY?feature=shared,Stiven_Crysis,368,725,0.89,,AMD Radeon RX 7800 XT,Graphics Processing Unit,2023-09-06 13:02:22
+16bjq4i,"HUB - Radeon RX 7800 XT Review, AMD Finally Worked It Out!",https://www.youtube.com/watch?v=x4TW8fHVcxw,Antonis_32,165,462,0.85,,AMD Radeon RX 7800 XT,Graphics Processing Unit,2023-09-06 13:01:51
+16bjpi3,"AMD Radeon RX 7800 XT GPU Review & Benchmarks vs. RX 6800 XT, RTX 4070, & More",https://www.youtube.com/watch?v=8qBQ0eZEnbY,NamelessManIsJobless,151,169,0.81,,AMD Radeon RX 7800 XT,Graphics Processing Unit,2023-09-06 13:01:11
+16sezp4,ASRock Radeon RX 7800 XT Steel Legend Review,https://www.techpowerup.com/review/asrock-radeon-rx-7800-xt-steel-legend/,Antonis_32,41,15,0.88,,AMD Radeon RX 7800 XT,Graphics Processing Unit,2023-09-26 05:26:15
+1ad0tfb,AMD Radeon RX 7800 XT is now available for $489,https://videocardz.com/newz/amd-radeon-rx-7800-xt-is-now-available-for-489,T1beriu,446,137,0.92,,AMD Radeon RX 7800 XT,Graphics Processing Unit,2024-01-28 11:37:54
+16crzdo,What is up with UserBenchmark website review of the 7800XT?,https://www.reddit.com/r/radeon/comments/16crzdo/what_is_up_with_userbenchmark_website_review_of/,Numerous-Account-240,23,29,0.77,"Did a comparison of my old RTX 3070 FE vs the RX 7800 XT and at the bottom of the site, they had a conclusion section....  Here is what they said "" First time buyers tempted to consider the RX 7700/7800 XT by AMD’s army of Advanced Marketing scammers (youtube, reddit, twitter, forums etc.) should be aware that AMD have a history of releasing benchmark busting, [heavily marketed, sub standard products.](https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045) Although Nvidia’s [4070 only offers comparable performance,](https://gpu.userbenchmark.com/Compare/Nvidia-RTX-4070-vs-AMD-RX-7800-XT/4148vsm2184033) it has a broader feature set (RT/DLSS 3.0) and offers far better game compatibility (drivers). PC gamers looking to join AMD’s “2%” GPU club (Steam stats: 5000/6000/7000 series combined mkt share) need to work on their critical thinking skills: Influencers (posing as reviewers) are paid handsomely to scam users into buying inferior products. Experienced gamers know all too well that [high average fps are worthless when they are accompanied with stutters,](https://gpu.userbenchmark.com/Faq/What-are-effective-frames-per-second-EFps/112) random crashes, excessive noise and a limited feature set. \[*Sep '23* [*GPUPro*](https://www.userbenchmark.com/GPUPro/User?id=29)\] ""  WTH is this?  They review is garbage.  The rest of the comparison has the RX 7800 XT 29% better overall based on their benchmarking software vs the 3070 FE, and against the 4070 FE being 1% faster... and take into account that the 4070 FE is 100 dollars MORE than the 7800 XT... so yeah the 7800XT is BETTER than both of those cards and its NOT a scam, its a really good card.  WTH is it with this site?",AMD Radeon RX 7800 XT,Graphics Processing Unit,2023-09-07 22:01:27
+16mvgh4,Asrock RX 7800 XT Steel Legend mini-review,https://www.reddit.com/r/Amd/comments/16mvgh4/asrock_rx_7800_xt_steel_legend_minireview/,darthcrow92,43,62,0.91,"Today I finally got my 7800 XT Steel Legend after nearly two weeks of waiting and since I've seen practically nothing about this specific model online, I decided to share some first impressions.
+
+My previous GPU was the Gigabyte RX 5700 XT OC, so I'm mostly comparing my experience to that.
+
+Physically, the card is quite a bit heftier, the backplate feels very solid.
+
+You only get the card in the box, no holders or (thank goodness) driver CDs or anything. I got the Starfield code in an e-mail by the shop and it worked flawlessly and indeed gave me the premium edition (I've seen some confusion about that since many shops just list the standard one).
+
+Now, my biggest reason for upgrading was the temps on the 5700 XT which were simply outrageous at times.
+
+The attached screenshot is a HWInfo snapshot after 15 solid minutes of FurMark torture in 3840 x 1600. While the 5700 XT's hotspot would go straight to 110 or even 115 degrees (no matter the fan settings), this card stayed relatively cool and quiet - and I have to add that my case has a pretty terrible airflow, it's the Corsair Crystal 280X. The 90 on the hotspot is still a little high, but much better than before. And, of course, FurMark is about as high a load as you'll ever put on your GPU, so gaming should be just fine.
+
+&#x200B;
+
+https://preview.redd.it/q00i231rw9pb1.png?width=481&format=png&auto=webp&s=9759dd5c1f4390e5575882604dd5f1269d4ee677
+
+I used the automatic undervolt settings in Adrenaline, will try to tweak them later.
+
+In any case, if you like the looks of this model and were wondering whether you should go for it, my first impression is that it's definitely one of the good ones.
+
+Hope that helps. If you'd like me to do some more tests with it, let me know and I'll see what I can do.
+
+&#x200B;
+
+https://preview.redd.it/wfc14uxu2dpb1.jpg?width=2089&format=pjpg&auto=webp&s=fda1025e93d71c21b65a41f63b03931b59d60734
+
+&#x200B;",AMD Radeon RX 7800 XT,Graphics Processing Unit,2023-09-19 16:23:47
+14e0vlc,How good is a 6700 XT in 2023?,https://www.reddit.com/r/buildapc/comments/14e0vlc/how_good_is_a_6700_xt_in_2023/,AalbatrossGuy,44,118,0.92,"How good will it run games at 1440p?   
+How good will it run the newer titles at 1440p? 
+
+I'm thinking of buying it (upgrading from my 1050ti) :/
+
+Appreciate any help!",AMD Radeon RX 6700 XT,Graphics Processing Unit,2023-06-20 04:30:01
+m6zzpp,[GN] AMD Radeon RX 6700 XT GPU Review: Literally Anything Will Sell,https://www.youtube.com/watch?v=oj8SuJ2Mb6A,InvincibleBird,203,116,0.91,,AMD Radeon RX 6700 XT,Graphics Processing Unit,2021-03-17 13:07:43
+m6zzjo,"[HUB] AMD Radeon RX 6700 XT Review, A Worthy 5700 XT Successor?",https://www.youtube.com/watch?v=PJboWJJFk9I,InvincibleBird,76,106,0.85,,AMD Radeon RX 6700 XT,Graphics Processing Unit,2021-03-17 13:07:29
+m6zxr4,Radeon RX 6700 XT review roundup,https://www.reddit.com/r/Amd/comments/m6zxr4/radeon_rx_6700_xt_review_roundup/,mockingbird-,159,345,0.93,"***article reviews***
+
+Eteknix:
+
+https://www.eteknix.com/amd-radeon-rx-6700-xt-review-graphics-card-review/
+
+Eurogamer:
+
+https://www.eurogamer.net/articles/digitalfoundry-2021-amd-radeon-rx-6700-xt-review
+
+Guru3D:
+
+https://www.guru3d.com/articles-pages/amd-radeon-rx-6700-xt-(reference)-review,1.html
+
+https://www.guru3d.com/articles-pages/asus-radeon-rx-6700-xt-strix-oc-review,1.html
+
+https://www.guru3d.com/articles-pages/msi-radeon-rx-6700-xt-gaming-x-review,1.html
+
+https://www.guru3d.com/articles-pages/xfx-radeon-rx-6700-xt-merc-319-review,1.html
+
+Hexus:
+
+https://hexus.net/tech/reviews/graphics/147504-amd-radeon-rx-6700-xt/
+
+Hot Hardware:
+
+https://hothardware.com/reviews/amd-radeon-rx-6700-xt-gpu-review
+
+KitGuru:
+
+https://www.kitguru.net/components/graphic-cards/dominic-moass/amd-rx-6700-xt-review/
+
+LanOC:
+
+https://lanoc.org/review/video-cards/8275-msi-rx-6700-xt-gaming-x
+
+Overclocked3D:
+
+https://overclock3d.net/reviews/gpu_displays/amd_radeon_rx_6700_xt_roundup_review_-_referance_-_merc_319_-_gaming_oc/1
+
+Overclockers:
+
+https://www.overclockers.com/xfx-merc319-black-rx-6700-xt-review/
+
+PCPerspective:
+
+https://pcper.com/2021/03/amd-radeon-rx-6700-xt-review-reference-performance/
+
+PCWorld:
+
+https://www.pcworld.com/article/3611632/amd-radeon-rx-6700-xt-review.html
+
+Tech Critter:
+
+https://www.tech-critter.com/review-amd-radeon-rx-6700-xt/
+
+TechPowerUp:
+
+https://www.techpowerup.com/review/amd-radeon-rx-6700-xt/
+
+https://www.techpowerup.com/review/asus-radeon-rx-6700-xt-strix-oc/
+
+https://www.techpowerup.com/review/msi-radeon-rx-6700-xt-gaming-x/
+
+https://www.techpowerup.com/review/sapphire-radeon-rx-6700-xt-nitro/
+
+https://www.techpowerup.com/review/xfx-radeon-rx-6700-xt-merc-319-black/
+
+https://www.techpowerup.com/review/powercolor-rx-6700-xt-red-devil/
+
+The Verge:
+
+https://www.theverge.com/circuitbreaker/2021/3/17/22334662/amd-radeon-rx-6700-xt-review-gpu-graphics-card
+
+TweakTown:
+
+https://www.tweaktown.com/reviews/9771/amd-radeon-rx-6700-xt/index.html
+
+Tom's Hardware:
+
+https://www.tomshardware.com/reviews/amd-radeon-rx-6700-xt-review
+
+***video reviews***
+
+Bitwit:
+
+https://www.youtube.com/watch?v=IWbuES6VhUU
+
+Gamers Nexus:
+
+https://www.youtube.com/watch?v=oj8SuJ2Mb6A
+
+Hardware Canucks:
+
+https://www.youtube.com/watch?v=R50Nj4qRkrE
+
+Hardware Unboxed:
+
+https://www.youtube.com/watch?v=PJboWJJFk9I
+
+Jarrod’sTech:
+
+https://www.youtube.com/watch?v=v9ZoXA4Tfl4
+
+JayzTwoCents:
+
+https://www.youtube.com/watch?v=hOH_SeQVRgI
+
+KitGuru:
+
+https://www.youtube.com/watch?v=M8jBDdYaNX0
+
+LinusTechTips:
+
+https://www.youtube.com/watch?v=5wO2vUZv4zw
+
+Optimum Tech:
+
+https://www.youtube.com/watch?v=xs4wSysBDxM
+
+Tech of Tomorrow:
+
+https://www.youtube.com/watch?v=huUl-5fD_-4
+
+Tech YES City:
+
+https://www.youtube.com/watch?v=YdROgX5BaUo
+
+ThinkComputers:
+
+https://www.youtube.com/watch?v=k-U4tyqjzV0",AMD Radeon RX 6700 XT,Graphics Processing Unit,2021-03-17 13:04:59
+o3djh2,Powercolor Radeon RX 6700XT Hellhound 12 GB Review - A Dream in White and more efficient than AMD’s Reference | igor´sLAB,https://www.igorslab.de/en/powercolor-rx-6700xt-hellhound-12-gb-in-test-dream-in-white-and-saver-than-the-reference/,InvincibleBird,119,21,0.94,,AMD Radeon RX 6700 XT,Graphics Processing Unit,2021-06-19 11:01:49
+14ck23v,Sapphire Pulse RX 6700XT reviews?,https://www.reddit.com/r/Amd/comments/14ck23v/sapphire_pulse_rx_6700xt_reviews/,TakashiBullet,10,50,0.71,"Im getting a RX 6700XT Sapphire Pulse can ya'll give me reviews on how it performs? Temperatures and clock speeds? Its quite hot where i live around 32C+ usually. So yeah getting it because 6800XT seems outa budget and im kinda blown off on my RTX 3070 dying out randomly so I don't find it justified to spend anymore now honestly.
+Its costing me around 255$ on used market. 
+Thanks",AMD Radeon RX 6700 XT,Graphics Processing Unit,2023-06-18 13:07:00
+m70rm3,AMD Radeon RX 6700 XT Review: Impressive 1440p PC Gaming,https://hothardware.com/reviews/amd-radeon-rx-6700-xt-gpu-review,_lostincyberspace_,13,3,0.87,,AMD Radeon RX 6700 XT,Graphics Processing Unit,2021-03-17 13:46:38
+m4aoje,AMD Radeon RX 6700 XT slower than RX 5700 XT in Ethereum mining - VideoCardz.com,https://videocardz.com/newz/amd-radeon-rx-6700-xt-slower-than-rx-5700-xt-in-ethereum-mining,sips_white_monster,694,303,0.98,,AMD Radeon RX 6700 XT,Graphics Processing Unit,2021-03-13 17:18:00
+m7156r,Sapphire NITRO+ RX 6700 XT 12G Review,/r/ReHWolution/comments/m711p8/sapphire_nitro_rx_6700_xt_12g_review/,AtlasRush,47,3,0.95,,AMD Radeon RX 6700 XT,Graphics Processing Unit,2021-03-17 14:04:45
+xniwtw,What are your thoughts on Radeon RX 6700 XT,https://www.reddit.com/r/buildapc/comments/xniwtw/what_are_your_thoughts_on_radeon_rx_6700_xt/,UDDINN4TOR,3,19,0.72,"I’m looking to upgrade my Vega 64, as last year I upgraded my rig except GPuU (for obvious reasons). I can see AMD prices going down (I guess from general market and recent Nvidia news).
+
+My 6700 XT caught my eyes, as I can see it’s better than 3060 and comparable with 3070. Also I can buy it for around £340-£390.
+
+What are your general thoughts on the card? I can see pretty poor/average reviews but this was done a year ago where I’m sure they factored in price to performance.
+
+I’ll most likely play 1440p gaming, as my monitor is not 4k, and I have a Ryzen 5600x CPU so I want to utilise Smart Memory Access",AMD Radeon RX 6700 XT,Graphics Processing Unit,2022-09-25 09:42:03
+13u62x8,Nvidia GeForce RTX 4060 Ti Review: The Disappointment Is Real,https://www.youtube.com/watch?v=rGBuMr4fh8w,EverythingButSins,618,317,0.96,,Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-05-28 17:29:40
+13ps4yj,Do Not Buy: NVIDIA GeForce RTX 4060 Ti 8GB GPU Review & Benchmarks,https://www.youtube.com/watch?v=Y2b0MWGwK_U&pp=ygUHNDA2MCB0aQ%3D%3D,NamesTeddy_TeddyBear,3419,604,0.94,,Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-05-23 15:42:22
+1530fn5,NVIDIA GeForce RTX 4060 Ti 16GB Review—Not,https://www.techpowerup.com/311348/nvidia-geforce-rtx-4060-ti-16gb-review-not,imaginary_num6er,270,208,0.91,,Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-07-18 14:45:18
+13po3md,[Gamers Nexus] Do Not Buy: NVIDIA GeForce RTX 4060 Ti 8GB GPU Review & Benchmarks,https://www.youtube.com/watch?v=Y2b0MWGwK_U,Nestledrink,1662,788,0.93,,Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-05-23 13:10:30
+13pnx5q,Do Not Buy: NVIDIA GeForce RTX 4060 Ti 8GB GPU Review & Benchmarks [Gamers Nexus],https://www.youtube.com/watch?v=Y2b0MWGwK_U,PapaBePreachin,1657,628,0.91,,Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-05-23 13:03:13
+13pojwc,THANK YOU NVIDIA!! - RTX 4060 Ti Review,https://youtu.be/_B6vtMa-US4,VegemiteSucks,75,80,0.64,,Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-05-23 13:28:11
+13u602x,Nvidia GeForce RTX 4060 Ti Review: The Disappointment Is Real (Digital Foundry Video),https://www.youtube.com/watch?v=rGBuMr4fh8w,Turbostrider27,359,92,0.91,,Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-05-28 17:26:08
+1597epq,NVIDIA GeForce RTX 4060 Ti 16 GB Review - Twice the VRAM Making a Difference?,https://www.techpowerup.com/review/nvidia-geforce-rtx-4060-ti-16-gb/,BarKnight,133,228,0.88,,Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-07-25 12:40:54
+13pobuz,NVIDIA GeForce RTX 4060 Ti Founders Edition Review,https://www.techpowerup.com/review/nvidia-geforce-rtx-4060-ti-founders-edition/,BarKnight,24,13,0.76,,Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-05-23 13:19:40
+15f11at,RTX 4060 TI 16 GB,https://www.reddit.com/r/nvidia/comments/15f11at/rtx_4060_ti_16_gb/,Agender_Azul,4,54,0.58,"Is the RTX 4060 TI really a bad card? I do not care about the price tag, all the reviews I personally have seen have had the 500 dollar price tag be their key point, I want to know if it is a good card or not with that taken out of the equation, can someone answer that for me please?",Nvidia RTX 4060 Ti,Graphics Processing Unit,2023-08-01 03:34:25
+12jlngn,NVIDIA GeForce RTX 4070 Founders Edition Review,https://www.techpowerup.com/review/nvidia-geforce-rtx-4070-founders-edition/,Firefox72,180,119,0.91,,Nvidia GeForce RTX 4070,Graphics Processing Unit,2023-04-12 13:05:15
+12jlijs,Nvidia GeForce RTX 4070 Review: A Solid But Unspectacular 1440p Upgrade,https://www.youtube.com/watch?v=LVovUcHnwws,Turbostrider27,389,406,0.87,,Nvidia GeForce RTX 4070,Graphics Processing Unit,2023-04-12 13:00:41
+12oiqcd,nVidia GeForce RTX 4070 Meta Review,https://www.reddit.com/r/hardware/comments/12oiqcd/nvidia_geforce_rtx_4070_meta_review/,Voodoo2-SLi,355,220,0.92,"- compilation of 17 launch reviews with ~5320 gaming benchmarks at all resolutions
+- only benchmarks at real games compiled, not included any 3DMark & Unigine benchmarks
+- geometric mean in all cases
+- standard raster performance without ray-tracing and/or DLSS/FSR/XeSS
+- extra ray-tracing benchmarks after the standard raster benchmarks
+- stock performance on (usual) reference/FE boards, no overclocking
+- factory overclocked cards were normalized to reference clocks/performance, but just for the overall performance average (so the listings show the original result, just the index has been normalized)
+- missing results were interpolated (for a more accurate average) based on the available & former results
+- performance average is (some) weighted in favor of reviews with more benchmarks
+- all reviews should have used newer drivers, especially with nVidia (not below 521.90 for RTX30)
+- MSRPs specified with price at launch time
+- current retailer prices according to Geizhals (DE/Germany) and Newegg (U.S.) for immediately available offers
+- for the full results and some more explanations check [3DCenter's launch analysis](https://www.3dcenter.org/artikel/launch-analyse-nvidia-geforce-rtx-4070)
+
+&nbsp;
+
+&nbsp;|Tests (Raster/RT)|CPU|Driver (beside 4070)|factory OC'ed
+|:--|:--:|:--:|:--:|:--:|
+[ComputerBase](https://www.computerbase.de/2023-04/nvidia-geforce-rtx-4070-fe-review-test/)|6 / 5|Ryzen 9 7950X3D|23.3.1 & 531.29
+[eTeknix](https://www.eteknix.com/nvidia-rtx-4070-graphics-card-review/)|15 / -|Core i9-12900K|22.10.1 & 521.90|?
+[Eurogamer](https://www.eurogamer.net/digitalfoundry-2023-nvidia-geforce-rtx-4070-review)|8 / 7|Core i9-13900K|?|?
+[Hardware & Co](https://hardwareand.co/dossiers/gpu/test-nvidia-geforce-rtx-4070-les-rtx-3080-et-rx-6800-xt-a-la-retraite)|20 / 16|Core i9-13900K (HT off)|22.4.1 & 531.42
+[Igor's Lab](https://www.igorslab.de/wird-ada-massentauglich-geforce-rtx-4070-ti-founders-edition-12-gb-im-test-mit-200-und-220-watt-power-limit/)|6 / 4|Ryzen 9 7950X|current drivers|?
+[KitGuru](https://www.kitguru.net/components/graphic-cards/dominic-moass/nvidia-rtx-4070-review-ft-gigabyte-and-palit/)|12 / 6|Core i9-13900KS|23.3.2 & 531.41
+[Linus Tech Tips](https://www.youtube.com/watch?v=nkh9VGCY8as)|8 / -|Core i9-13900K|23.3.2 & 531.42|?
+[PC Games Hardware](https://www.pcgameshardware.de/Geforce-RTX-4070-Grafikkarte-279578/Tests/Preis-Release-Specs-Founders-Edition-1417027/)|20 / 10|Core i9-12900K (P-cores @ 5.2 GHz, E-cores off)|current drivers
+[Paul's Hardware](https://www.youtube.com/watch?v=Zdkr13ah-iQ)|10 / -|Ryzen 9 7950X|22.10.1 & 521.90/526.98|6950XT
+[PC-Welt](https://www.pcwelt.de/article/1781414/nvidia-geforce-rtx-4070-fe-test.html)|13 / 7|?|?|6950XT & 4070Ti
+[PC-World](https://www.pcworld.com/article/1781139/nvidia-geforce-rtx-4070-review.html)|9 / 4|Ryzen 9 5900X|?|4070Ti
+[PurePC](https://www.purepc.pl/premiera-nvidia-geforce-rtx-4070-test-wydajnosci-karty-graficznej-czy-bedzie-szybsza-od-geforce-rtx-3080-ti)|11 / 5|Core i9-13900K|newest drivers|4070Ti
+[QuasarZone](https://quasarzone.com/bbs/qc_bench/views/84976)|15 / 5|Ryzen 9 7950X3D|23.4.1 & 531.42
+[TechPowerUp](https://www.techpowerup.com/review/nvidia-geforce-rtx-4070-founders-edition/)|25 / 9|Core i9-13900K|22.11.2/23.1.2 & 528.02
+[TechSpot](https://www.techspot.com/review/2663-nvidia-geforce-rtx-4070/)|13 / -|Ryzen 7 5800X3D|?|?
+[Tom's Hardware](https://www.tomshardware.com/reviews/nvidia-geforce-rtx-4070-review)|9 / 6|Core i9-13900K|23.3.2 & 531.41/42|?
+[Tweakers](https://tweakers.net/reviews/11022/nvidia-geforce-rtx-4070-lekker-zuinig-voor-een-moderne-videokaart.html)|9 / 4|Core i9-13900K (P-cores @ 5.5 GHz, E-cores off)|23.4.1 & 531.41|?
+
+&nbsp;
+
+1440p Raster|6800|6800XT|6900XT|6950XT|7900XT|3070|3070Ti|3080-10G|4070|4070Ti
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+&nbsp;|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA3 20GB|Ampere 8GB|Ampere 8GB|Ampere 10GB|Ada 12GB|Ada 12GB
+ComputerB|89.0%|100.8%|111.0%|-|134.1%|81.1%|-|104.8%|100%|122.7%
+eTeknix|89.3%|103.6%|110.7%|119.3%|131.4%|80.0%|85.7%|104.3%|100%|120.0%
+Eurogamer|-|102.3%|-|-|138.4%|80.2%|-|104.5%|100%|122.1%
+HW & Co|86.7%|101.2%|109.0%|-|134.1%|77.0%|-|98.8%|100%|123.4%
+Igor's|-|109.0%|115.8%|-|137.5%|-|88.1%|106.1%|100%|121.2%
+KitGuru|88.5%|100.1%|108.7%|-|138.3%|78.3%|84.0%|102.2%|100%|122.3%
+Linus|-|109%|-|-|141%|79%|-|102%|100%|122%
+PCGH|85.3%|101.8%|-|115.8%|136.6%|77.0%|-|100.9%|100%|122.1%
+Paul's|-|-|111.3%|116.3%|134.6%|-|-|100.4%|100%|-
+PC-Welt|84.2%|96.5%|105.7|109.0%|135.1%|76.9%|80.4%|97.3%|100%|122.6%
+PC-World|-|100.4%|108.9%|-|-|82.0%|-|102.6%|100%|119.6%
+PurePC|83.0%|97.0%|104.0%|-|132.0%|78.0%|-|100.0%|100%|124.0%
+QuasarZ|91.2%|102.9%|111.8%|-|-|79.3%|86.1%|104.7%|100%|122.2%
+TPU|86%|100%|106%|-|131%|79%|84%|100%|100%|121%
+TechSpot|88.1%|100.0%|107.1%|115.9%|127.8%|76.2%|81.0%|96.0%|100%|121.4%
+Tom's|88.7%|100.7%|110.4%|114.3%|130.4%|77.6%|83.5%|100.2%|100%|123.2%
+Tweakers|-|92.8%|-|117.5%|134.7%|82.3%|86.4%|95.7%|100%|113.1%
+**avg 1440p Raster P.**|**88.0%**|**101.4%**|**109.4%**|**115.1%**|**133.8%**|**78.7%**|**84.1%**|**100.9%**|**100%**|**121.1%**
+official TDP|250W|300W|300W|335W|315W|220W|290W|320W|200W|285W
+U.S. MSRP|$579|$649|$999|$1099|$899|$499|$599|$699|$599|$799
+
+&nbsp;
+
+2160p Raster|6800|6800XT|6900XT|6950XT|7900XT|3070|3070Ti|3080-10G|4070|4070Ti
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+&nbsp;|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA3 20GB|Ampere 8GB|Ampere 8GB|Ampere 10GB|Ada 12GB|Ada 12GB
+ComputerB|-|103.1%|113.8%|-|139.3%|-|-|107.0%|100%|123.5%
+eTeknix|93.7%|102.5%|110.1%|121.5%|139.2%|78.5%|84.8%|111.4%|100%|122.8%
+Eurogamer|-|102.7%|-|-|141.5%|82.2%|-|109.8%|100%|126.1%
+Igor's|-|107.3%|113.8%|-|141.3%|-|90.1%|110.6%|100%|123.6%
+KitGuru|88.2%|99.8%|108.7%|-|140.9%|79.8%|86.8%|107.4%|100%|121.9%
+Linus|-|110%|-|-|141%|80%|-|107%|100%|125%
+PCGH|86.6%|102.7%|-|118.0%|139.2%|77.5%|-|105.8%|100%|121.9%
+Paul's|-|-|112.6%|118.4%|140.4%|-|-|106.8%|100%|-
+PC-Welt|86.1%|99.8%|108.5%|113.9%|140.9%|77.4%|84.2%|105.2%|100%|126.3%
+PC-World|-|107.5%|119.4%|-|-|82.9%|-|109.2%|100%|128.1%
+PurePC|85.4%|100.0%|107.3%|-|137.5%|78.1%|-|104.2%|100%|125.0%
+QuasarZ|92.3%|104.9%|116.0%|-|-|78.9%|86.0%|109.6%|100%|124.6%
+TPU|87%|100%|107%|-|135%|80%|87%|105%|100%|123%
+TechSpot|88.4%|100.0%|107.2%|120.3%|136.2%|76.8%|82.6%|102.9%|100%|124.6%
+Tom's|89.5%|100.7%|111.6%|117.1%|136.3%|74.2%|80.7%|106.5%|100%|125.1%
+Tweakers|-|91.0%|-|116.3%|136.8%|82.1%|86.5%|100.0%|100%|113.7%
+**avg 2160p Raster P.**|**89.4%**|**102.3%**|**111.1%**|**118.2%**|**139.4%**|**79.0%**|**85.7%**|**106.4%**|**100%**|**123.7%**
+official TDP|250W|300W|300W|335W|315W|220W|290W|320W|200W|285W
+U.S. MSRP|$579|$649|$999|$1099|$899|$499|$599|$699|$599|$799
+
+&nbsp;
+
+1080p Raster|6800|6800XT|6900XT|6950XT|7900XT|3070|3070Ti|3080-10G|4070|4070Ti
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+&nbsp;|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA3 20GB|Ampere 8GB|Ampere 8GB|Ampere 10GB|Ada 12GB|Ada 12GB
+ComputerB|83.0%|97.5%|104.8%|-|125.5%|80.4%|-|111.6%|100%|119.9%
+Eurogamer|-|103.1%|-|-|~132%|80.9%|-|101.6%|100%|122.9%
+Igor's|-|106.4%|111.2%|-|123.9%|-|87.3%|100.9%|100%|114.3%
+KitGuru|86.6%|98.5%|106.8%|-|132.7%|78.1%|83.1%|99.3%|100%|120.6%
+Linus|-|114%|-|-|135%|80%|-|102%|100%|117%
+PCGH|84.1%|100.8%|-|113.2%|130.4%|77.4%|-|97.7%|100%|117.9%
+Paul's|-|-|108.3%|113.0%|123.3%|-|-|97.8%|100%|-
+PC-Welt|83.3%|94.4%|102.0%|104.6%|122.0%|75.9%|79.0%|92.5%|100%|114.6%
+PurePC|82.5%|96.1%|102.9%|-|130.1%|77.7%|-|97.1%|100%|123.3%
+QuasarZ|89.8%|99.3%|108.8%|-|-|80.4%|85.6%|101.9%|100%|119.2%
+TPU|85%|99%|104%|-|124%|78%|83%|98%|100%|118%
+TechSpot|87.4%|96.0%|101.7%|108.0%|118.9%|76.0%|81.1%|92.0%|100%|116.6%
+Tom's|88.6%|98.3%|106.1%|108.4%|119.6%|78.8%|83.1%|94.6%|100%|117.1%
+Tweakers|-|94.5%|-|112.4%|127.2%|80.7%|84.8%|93.5%|100%|113.5%
+**avg 1080p Raster P.**|**87.2%**|**99.6%**|**106.5%**|**111.4%**|**125.9%**|**78.6%**|**83.3%**|**98.1%**|**100%**|**117.6%**
+official TDP|250W|300W|300W|335W|315W|220W|290W|320W|200W|285W
+U.S. MSRP|$579|$649|$999|$1099|$899|$499|$599|$699|$599|$799
+
+&nbsp;
+
+1440p RT|6800|6800XT|6900XT|6950XT|7900XT|3070|3070Ti|3080-10G|4070|4070Ti
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+&nbsp;|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA3 20GB|Ampere 8GB|Ampere 8GB|Ampere 10GB|Ada 12GB|Ada 12GB
+ComputerB|70.7%|82.0%|90.8%|-|113.2%|73.3%|-|103.5%|100%|124.3%
+Eurogamer|-|76.6%|-|-|111.5%|76.3%|-|103.1%|100%|130.2%
+HW & Co|67.6%|79.6%|85.8%|-|113.7%|75.6%|-|98.9%|100%|123.7%
+Igor's Lab|-|75.6%|80.2%|-|108.2%|-|80.4%|97.3%|100%|123.6%
+KitGuru|68.8%|78.2%|85.2%|-|115.8%|74.6%|81.9%|105.0%|100%|123.3%
+PCGH|62.4%|73.6%|78.5%|81.4%|105.7%|72.1%|-|98.8%|100%|121.3%
+PC-Welt|61.6%|73.0%|78.8%|81.2%|114.4%|72.2%|77.0%|97.6%|100%|124.0%
+PC-World|-|74.1%|82.7%|-|-|69.1%|-|102.6%|100%|126.5%
+PurePC|61.2%|69.4%|75.5%|-|107.1%|74.5%|-|102.0%|100%|128.6%
+QuasarZ|-|-|-|-|-|76.9%|83.9%|102.5%|100%|123.6%
+TPU|68%|78%|83%|-|108%|75%|81%|98%|100%|122%
+Tom's|62.3%|70.2%|78.9%|82.4%|103.4%|73.4%|77.9%|102.0%|100%|125.8%
+Tweakers|-|83.3%|-|89.1%|111.4%|79.2%|80.4%|109.1%|100%|133.5%
+**avg 1440p RT Perf.**|**65.7%**|**76.3%**|**82.2%**|**86.0%**|**109.8%**|**74.3%**|**79.5%**|**100.6%**|**100%**|**124.2%**
+official TDP|250W|300W|300W|335W|315W|220W|290W|320W|200W|285W
+U.S. MSRP|$579|$649|$999|$1099|$899|$499|$599|$699|$599|$799
+
+&nbsp;
+
+Summary|6800|6800XT|6900XT|6950XT|7900XT|3070|3070Ti|3080-10G|4070|4070Ti
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+&nbsp;|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA2 16GB|RDNA3 20GB|Ampere 8GB|Ampere 8GB|Ampere 10GB|Ada 12GB|Ada 12GB
+1080p Raster P.|87.2%|99.6%|106.5%|111.4%|125.9%|78.6%|83.3%|98.1%|100%|117.6%
+1440p Raster P.|88.0%|101.4%|109.4%|115.1%|133.8%|78.7%|84.1%|100.9%|100%|121.1%
+2160p Raster P.|89.4%|102.3%|111.1%|118.2%|139.4%|79.0%|85.7%|106.4%|100%|123.7%
+1440p RT Perf.|65.7%|76.3%|82.2%|86.0%|109.8%|74.3%|79.5%|100.6%|100%|124.2%
+official TDP|250W|300W|300W|335W|315W|220W|290W|320W|200W|285W
+real Power Draw|231W|298W|303W|348W|309W|221W|292W|325W|193W|267W
+Energy Eff. 1440p|74%|66%|70%|64%|84%|69%|56%|60%|100%|88%
+U.S. MSRP|$579|$649|$999|$1099|$899|$499|$599|$699|$599|$799
+Retail DE|509€|569€|749€|649€|848€|499€|573€|750€|639€|874€
+Perf/Price DE 1440p|110%|114%|93%|113%|101%|101%|94%|86%|100%|89%
+Retail US|$470|$540|n/a|$630|$780|$500|$550|$671|$600|$800
+Perf/Price US 1440p|112%|113%|-|110%|103%|94%|92%|90%|100%|91%
+
+&nbsp;
+
+FE vs AIBs|Card Size|Boost Clock|Real Clock|PL|Draw|Hotspot|Loudness|1440p Perf.
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Founders Edition|24x11cm, 2 Slots|2475 MHz|2762 MHz|200W|201W|82°C|32.5 dBA|100%
+Asus Dual|27x13cm, 2 Slots|2475 MHz|2749 MHz|200W|193W|72°C|31.2 dBA|–1%
+Asus TUF|30x14cm, 3 Slots|2550 MHz|2781 MHz|200W|207W|72°C|23.3 dBA|+1%
+Gainward Ghost|27x13cm, 2 Slots|2475 MHz|2715 MHz|200W|192W|87°C|36.1 dBA|–2%
+Galax/KFA2 EX White Gamer|32x13cm, 2½ Slots|2535 MHz|2807 MHz|215W|206W|76°C|34.8 dBA|+1%
+MSI Gaming X Trio|34x14cm, 2½ Slots|2610 MHz|2867 MHz|215W|210W|75°C|25.6 dBA|+3%
+MSI Ventus 3X|31x12cm, 2 Slots|2475 MHz|2714 MHz|200W|206W|77°C|28.1 dBA|–1%
+Palit JetStream|33x13cm, 3 Slots|2475 MHz|2719 MHz|200W|191W|71°C|29.2 dBA|–1%
+PNY|25x12cm, 2 Slots|2475 MHz|2756 MHz|200W|188W|81°C|32.2 dBA|–1%
+PNY XLR8|30x12cm, 2 Slots|2475 MHz|2767 MHz|200W|190W|79°C|24.2 dBA|±0
+
+&nbsp;
+
+The same conclusion is reached as with 4080 & 4070Ti: They are good cards, but the price and performance/price ratio sorely miss a generational leap. RTX40 now looks more like [a refresh of Ampere](https://www.3dcenter.org/abbildung/performancepreis-verhaeltnisse-geforce-rtx-30-vs-rtx-40-v2), like the [""SUPER"" refresh for Turing](https://www.3dcenter.org/abbildung/performancepreis-verhaeltnisse-geforce-1620-vs-geforce-1620-super) - instead of a new generation, like [from Maxwell to Pascal](https://www.3dcenter.org/abbildung/performancepreis-verhaeltnisse-geforce-900-vs-geforce-10).
+
+&nbsp;
+
+Source: [3DCenter.org](https://www.3dcenter.org/artikel/launch-analyse-nvidia-geforce-rtx-4070)",Nvidia GeForce RTX 4070,Graphics Processing Unit,2023-04-16 17:49:29
+12jlrnp,Nvidia GeForce RTX 4070 Review: A Solid But Unspectacular 1440p Upgrade [Digital Foundry],https://www.youtube.com/watch?v=LVovUcHnwws,CoreSR-1,105,111,0.78,,Nvidia GeForce RTX 4070,Graphics Processing Unit,2023-04-12 13:09:28
+108ay99,nVidia GeForce RTX 4070 Ti Meta Review,https://www.reddit.com/r/hardware/comments/108ay99/nvidia_geforce_rtx_4070_ti_meta_review/,Voodoo2-SLi,384,379,0.9,"- compilation of 12 launch reviews with ~5830 gaming benchmarks at all resolutions
+- only benchmarks at real games compiled, not included any 3DMark & Unigine benchmarks
+- geometric mean in all cases
+- standard raster performance without ray-tracing and/or DLSS/FSR/XeSS
+- extra ray-tracing benchmarks after the standard raster benchmarks
+- stock performance on (usual) reference/FE boards, no overclocking
+- factory overclocked cards _(results marked in italics)_ were normalized to reference clocks/performance, but just for the overall performance average (so the listings show the original result, just the index has been normalized)
+- missing results were interpolated (for a more accurate average) based on the available & former results
+- performance average is (moderate) weighted in favor of reviews with more benchmarks
+- all reviews should have used newer drivers, especially with nVidia (not below 521.90 for RTX30)
+- MSRPs specified with price at launch time
+- for the full results (incl. test systems, driver versions, power draw numbers, performance/price ratios) and some more explanations check [3DCenter's launch analysis](https://www.3dcenter.org/artikel/launch-analyse-nvidia-geforce-rtx-4070-ti)
+
+A factory overclocked variant was used for the 4070Ti in about half of the evaluated test reports. However, the effect of the factory overclocking is conspicuously low in this graphics card: None of them achieves more than a performance gain of +1% - regardless of whether it starts with only +60 MHz offset at boost clock or with +150 MHz. Apparently, the TDP of 285 watts, which is also observed in the factory overclocked variants, is the first limitation. The performance effect of factory overclocked cards is therefore marginal for the 4070Ti, which means that a (possible) error rate after interpolation to the reference clock is even smaller.
+
+&nbsp;
+
+Raster 2160p|3070|3070Ti|3080-10G|3090|3090Ti|7900XT|7900XTX|4070Ti|4080|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+&nbsp;|Ampere 8GB|Ampere 8GB|Ampere 10GB|Ampere 24GB|Ampere 24GB|RDNA3 20GB|RDNA3 24GB|Ada 12GB|Ada 16GB|Ada 24GB
+ComputerB|-|-|84.2%|_100.7%_|105.9%|107.7%|125.8%|100%|125.4%|168.4%
+HWUpgrade|61%|68%|81%|93%|104%|113%|133%|_100%_|121%|162%
+Igor's|-|-|78.8%|104.0%|113.5%|115.0%|136.9%|_100%_|125.2%|168.7%
+KitGuru|-|71.2%|87.9%|99.2%|109.5%|116.7%|137.4%|100%|128.2%|169.3%
+PCGH|-|-|87.4%|-|109.8%|114.0%|134.3%|100%|128.8%|172.4%
+PurePC|62.2%|-|84.0%|95.8%|105.0%|103.4%|121.0%|_100%_|126.1%|165.5%
+QuasarZ|-|69.3%|85.5%|96.3%|105.9%|108.7%|127.9%|100%|125.7%|-
+TPU|-|71%|87%|98%|110%|110%|131%|_100%_|126%|160%
+TechSpot|62.1%|66.7%|82.8%|94.3%|103.4%|108.0%|129.9%|100%|125.3%|163.2%
+Tom's|-|62.0%|85.5%|-|108.6%|111.3%|129.7%|_100%_|127.7%|165.5%
+Tweakers|66.1%|71.8%|84.5%|94.0%|_106.4%_|110.2%|127.0%|_100%_|124.4%|159.5%
+**avg. Perf.**|**64.0%**|**69.5%**|**85.1%**|**97.6%**|**107.6%**|**111.0%**|**130.9%**|**100%**|**126.6%**|**167.1%**
+TDP|220W|290W|320W|350W|450W|315W|355W|285W|320W|450W
+real Consumpt.|221W|292W|325W|359W|462W|309W|351W|267W|297W|418W
+MSRP|$499|$599|$699|$1499|$1999|$899|$999|$799|$1199|$1599
+
+&nbsp;
+
+Raster 1440p|3070|3070Ti|3080-10G|3090|3090Ti|7900XT|7900XTX|4070Ti|4080|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+ComputerB|-|-|88.3%|_94.7%_|98.3%|103.1%|115.5%|100%|119.2%|139.1%
+HWUpgrade|65%|72%|83%|93%|100%|109%|119%|_100%_|113%|131%
+Igor's|-|-|87.1%|97.7%|103.5%|113.6%|127.6%|_100%_|117.7%|141.8%
+KitGuru|-|70.0%|84.6%|94.2%|102.5%|114.4%|129.0%|100%|122.4%|145.2%
+Comptoir|-|67.2%|80.3%|92.1%|99.1%|107.1%|120.9%|100%|122.5%|-
+PCGH|-|-|83.6%|-|101.2%|111.4%|127.5%|100%|123.4%|152.2%
+PurePC|62.9%|-|80.6%|90.3%|98.4%|100.8%|114.5%|_100%_|120.2%|150.8%
+QuasarZ|-|68.2%|82.5%|91.8%|99.8%|108.1%|122.9%|100%|120.8%|-
+TPU|-|70%|83%|92%|101%|109%|122%|_100%_|120%|142%
+TechSpot|61.8%|66.4%|78.3%|88.2%|95.4%|103.9%|119.1%|100%|118.4%|138.2%
+Tom's|-|69.6%|83.6%|-|100.0%|106.1%|116.5%|_100%_|115.3%|132.3%
+Tweakers|65.5%|70.4%|81.9%|90.3%|_100.2%_|109.7%|122.5%|_100%_|119.6%|142.4%
+**avg. Perf.**|**65.5%**|**70.1%**|**83.4%**|**92.4%**|**100.0%**|**108.4%**|**122.2%**|**100%**|**120.2%**|**143.6%**
+
+&nbsp;
+
+Raster 1080p|3070|3070Ti|3080-10G|3090|3090Ti|7900XT|7900XTX|4070Ti|4080|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+HWUpgrade|73%|81%|90%|95%|99%|105%|110%|_100%_|107%|115%
+KitGuru|-|71.8%|84.9%|93.2%|99.1%|109.2%|117.7%|100%|114.6%|123.7%
+PCGH|-|-|83.4%|-|97.9%|110.7%|122.7%|100%|119.0%|138.7%
+PurePC|63.3%|-|78.1%|87.5%|93.8%|97.7%|109.4%|_100%_|114.1%|138.3%
+QuasarZ|-|69.2%|82.0%|90.0%|96.7%|105.8%|115.7%|100%|115.0%|-
+TPU|-|71%|82%|90%|97%|104%|115%|_100%_|114%|126%
+TechSpot|64.6%|69.2%|78.3%|86.9%|90.9%|101.5%|111.6%|100%|108.6%|118.7%
+Tom's|-|74.7%|85.1%|-|97.7%|103.0%|110.3%|_100%_|109.4%|117.9%
+Tweakers|66.8%|72.3%|81.3%|88.3%|_95.9%_|106.8%|115.2%|_100%_|113.9%|129.3%
+**avg. Perf.**|**67.2%**|**71.6%**|**82.8%**|**90.7%**|**96.6%**|**105.7%**|**115.4%**|**100%**|**113.7%**|**126.7%**
+
+&nbsp;
+
+RayTracing 2160p|3070|3070Ti|3080-10G|3090|3090Ti|7900XT|7900XTX|4070Ti|4080|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+ComputerB|-|-|75.2%|_98.8%_|104.5%|85.3%|99.0%|100%|125.2%|172.4%
+HWUpgrade|48%|52%|83%|97%|103%|91%|105%|_100%_|131%|189%
+Igor's|-|-|79.9%|94.5%|104.3%|91.6%|107.7%|_100%_|126.7%|173.1%
+KitGuru|-|52.2%|78.4%|94.5%|106.1%|88.0%|104.0%|100%|128.9%|177.2%
+PCGH|49.8%|-|72.2%|98.1%|106.5%|89.4%|103.6%|100%|129.7%|177.4%
+PurePC|55.8%|-|77.5%|91.5%|103.9%|77.5%|92.2%|_100%_|125.6%|179.1%
+TPU|-|56%|83%|96%|109%|94%|109%|_100%_|127%|170%
+Tom's|-|48.9%|75.5%|-|106.8%|80.5%|93.5%|_100%_|127.9%|181.4%
+Tweakers|-|-|80.6%|97.3%|_112.5%_|86.8%|98.5%|_100%_|128.8%|171.0%
+**avg. Perf.**|**50.5%**|**55.0%**|**77.8%**|**95.7%**|**106.1%**|**87.7%**|**101.9%**|**100%**|**128.4%**|**176.9%**
+
+&nbsp;
+
+RayTracing 1440p|3070|3070Ti|3080-10G|3090|3090Ti|7900XT|7900XTX|4070Ti|4080|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+ComputerB|-|-|80.7%|_94.8%_|98.6%|84.7%|95.1%|100%|118.3%|142.7%
+HWUpgrade|55%|59%|80%|90%|100%|87%|100%|_100%_|121%|156%
+Igor's|-|-|78.3%|88.7%|96.3%|89.5%|101.6%|_100%_|121.4%|145.3%
+KitGuru|-|63.8%|82.5%|92.7%|102.2%|87.5%|98.7%|100%|124.6%|146.8%
+Comptoir|-|59.9%|77.5%|89.9%|97.1%|83.1%|94.0%|100%|125.3%|-
+PCGH|59.3%|-|81.3%|92.5%|99.7%|86.8%|97.9%|100%|123.1%|153.2%
+PurePC|57.5%|-|78.7%|91.3%|100.8%|78.7%|92.9%|_100%_|124.4%|170.1%
+QuasarZ|-|66.0%|82.1%|91.6%|99.4%|87.1%|99.0%|100%|121.3%|-
+TPU|-|65%|82%|92%|102%|92%|105%|_100%_|123%|154%
+TechSpot|-|-|-|-|101.9%|93.3%|-|100%|120.0%|-
+Tom's|-|61.9%|82.5%|-|104.0%|82.3%|95.1%|_100%_|126.2%|167.3%
+Tweakers|61.6%|66.5%|80.9%|89.8%|_103.2%_|86.8%|97.3%|_100%_|123.3%|158.6%
+**avg. Perf.**|**59.4%**|**63.5%**|**81.4%**|**92.3%**|**100.8%**|**87.1%**|**99.0%**|**100%**|**123.0%**|**154.6%**
+
+&nbsp;
+
+RayTracing 1080p|3070|3070Ti|3080-10G|3090|3090Ti|7900XT|7900XTX|4070Ti|4080|4090
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+HWUpgrade|60%|66%|80%|90%|98%|88%|96%|_100%_|114%|127%
+KitGuru|-|67.8%|83.5%|92.4%|99.4%|84.4%|92.3%|100%|115.7%|126.5%
+PCGH|61.7%|-|81.3%|91.9%|97.1%|85.8%|93.8%|100%|116.3%|128.7%
+PurePC|57.6%|-|75.8%|88.6%|97.0%|75.8%|89.4%|_100%_|118.9%|162.1%
+TPU|-|65%|79%|89%|98%|89%|100%|_100%_|117%|139%
+Tom's|-|64.6%|80.7%|-|99.8%|81.7%|91.9%|_100%_|122.2%|150.5%
+Tweakers|61.4%|65.6%|78.0%|85.7%|_95.5%_|80.8%|88.5%|_100%_|117.8%|141.5%
+**avg. Perf.**|**61.1%**|**65.9%**|**80.4%**|**90.7%**|**98.3%**|**85.2%**|**94.8%**|**100%**|**118.3%**|**138.9%**
+
+&nbsp;
+
+Generation Comparison|3070Ti|4070Ti|Diff.|3080-10GB|4080|Diff.|3090|4090|Diff.
+|:--|:--:|:--:|:--|:--:|:--:|:--|:--:|:--:|:--|
+&nbsp;|Ampere 8GB|Ada 12GB|&nbsp;|Ampere 10GB|Ada 16GB|&nbsp;|Ampere 24GB|Ada 24GB|&nbsp;
+avg. Raster 2160p Perf.|69.5%|100%|+43.9%|85.1%|126.6%|+48.7%|97.6%|167.1%|+71.2%
+avg. Raster 1440p Perf.|70.1%|100%|+42.7%|83.4%|120.2%|+44.1%|92.4%|143.6%|+55.4%
+avg. Raster 1080p Perf.|71.6%|100%|+39.7%|82.8%|113.7%|+37.3%|90.7%|126.7%|+39.6%
+avg. RT/2160p Perf.|55.0%|100%|+81.9%|77.8%|128.4%|+65.0%|95.7%|176.9%|+84.8%
+avg. RT/1440p Perf.|63.5%|100%|+57.4%|81.4%|123.0%|+51.1%|92.3%|154.6%|+67.5%
+avg. RT/1080p Perf.|65.9%|100%|+51.8%|80.4%|118.3%|+47.0%|90.7%|138.9%|+53.1%
+TDP|290W|285W|–2%|320W|320W|±0|350W|450W|+29%
+Real Consumpt.|292W|267W|–9%|325W|297W|–9%|359W|418W|+16%
+Energy Effiency @ 2160p|64%|100%|+57%|70%|114%|+63%|73%|107%|+47%
+MSRP|$599|$799|+33%|$699|$1199|+72%|$1499|$1599|+7%
+
+&nbsp;
+
+3090Ti vs 4070Ti|3090Ti|4070Ti|Diff.
+|:--|:--:|:--:|:--|
+&nbsp;|Ampere 24GB|Ada 12GB|&nbsp;
+avg. Raster 2160p Perf.|107.6%|100%|–7.1%
+avg. Raster 1440p Perf.|100.0%|100%|±0
+avg. Raster 1080p Perf.|96.6%|100%|+3.5%
+avg. RT/2160p Perf.|106.1%|100%|–5.8%
+avg. RT/1440p Perf.|100.8%|100%|–0.8%
+avg. RT/1080p Perf.|98.3%|100%|+1.8%
+
+&nbsp;
+
+3080 vs 4070Ti|3080-10G|4070Ti|Diff.
+|:--|:--:|:--:|:--|
+&nbsp;|Ampere 10GB|Ada 12GB|&nbsp;
+avg. Raster 2160p Perf.|85.1%|100%|+17.5%
+avg. Raster 1440p Perf.|83.4%|100%|+19.9%
+avg. Raster 1080p Perf.|82.8%|100%|+20.8%
+avg. RT/2160p Perf.|77.8%|100%|+28.5%
+avg. RT/1440p Perf.|81.4%|100%|+22.8%
+avg. RT/1080p Perf.|80.4%|100%|+24.4%
+MSRP|$699|$799|+14.3%
+
+&nbsp;
+
+Personal opinion:    
+The GeForce RTX 4070 Ti is just as disappointing as the GeForce RTX 4080 from the graphics card market's point of view. Even the fact that the GeForce RTX 4070 Ti was immediately available at the MSRP at launch day can't fix this. What is missing is a clear incentive to buy - especially in a performance class, which was already occupied by the predecessor generation. nVidia may have lowered the price point a bit between the change from ""GeForce RTX 4080 12GB"" to ""GeForce RTX 4070 Ti"", but the basic problem of this graphics card generation has not been solved: A generational leap, which is expressed in a clearly better performance/price ratio, is missing.
+
+&nbsp;
+
+Sources:    
+Benchmarks by [ComputerBase](https://www.computerbase.de/2023-01/nvidia-geforce-rtx-4070-ti-test/), [Hardware Upgrade](https://www.hwupgrade.it/articoli/skvideo/6448/nvidia-geforce-rtx-4070-ti-alla-prova-la-potenza-della-rtx-3090-ti-con-il-dlss-3-nel-taschino_index.html), [Igor's Lab](https://www.igorslab.de/nvidia-macht-die-not-zur-tugend-msi-geforce-rtx-4070-ti-suprim-x-12-gb-im-test/), [KitGuru](https://www.kitguru.net/components/graphic-cards/dominic-moass/nvidia-rtx-4070-ti-review-ft-gigabyte-gaming-oc/), [Le Comptoir du Hardware](https://www.comptoir-hardware.com/articles/cartes-graphiques/47116-test-nvidia-geforce-rtx-4070-ti.html), [PC Games Hardware](https://www.pcgameshardware.de/Geforce-RTX-4070-Ti-Grafikkarte-279172/Tests/Vergleich-gegen-Radeon-RX-7900-XT-1409936/), [PurePC](https://www.purepc.pl/test-karty-graficznej-gigabyte-geforce-rtx-4070-ti-gaming-miales-byc-geforce-rtx-4080-12-gb-jednak-wyszlo-inaczej), [Quasarzone](https://quasarzone.com/bbs/qc_bench/views/83414), [TechPowerUp](https://www.techpowerup.com/review/msi-geforce-rtx-4070-ti-gaming-x/), [TechSpot](https://www.techspot.com/review/2601-nvidia-geforce-rtx-4070-ti/), [Tom's Hardware](https://www.tomshardware.com/reviews/nvidia-geforce-rtx-4070-ti-review-a-costly-70-class-gpu), [Tweakers](https://tweakers.net/reviews/10744/nvidia-geforce-rtx-4070-ti-de-gedegradeerde-4080.html)    
+Compilation by [3DCenter.org](https://www.3dcenter.org/artikel/launch-analyse-nvidia-geforce-rtx-4070-ti)",Nvidia GeForce RTX 4070,Graphics Processing Unit,2023-01-10 14:19:22
+12idk6a,NVIDIA GeForce RTX 4070 matches GeForce RTX 3080 in leaked tests - VideoCardz.com,https://videocardz.com/newz/nvidia-geforce-rtx-4070-matches-geforce-rtx-3080-in-leaked-tests,Verpal,445,440,0.94,,Nvidia GeForce RTX 4070,Graphics Processing Unit,2023-04-11 08:47:31
+16ijkal,NVIDIA GeForce RTX 4070 Could See Price Cuts to $549,https://www.techpowerup.com/313640/nvidia-geforce-rtx-4070-could-see-price-cuts-to-usd-549,imaginary_num6er,355,429,0.9,,Nvidia GeForce RTX 4070,Graphics Processing Unit,2023-09-14 14:12:58
+12pc774,"Damn, I bought a rtx 4070 msi ventus x3",https://www.reddit.com/r/nvidia/comments/12pc774/damn_i_bought_a_rtx_4070_msi_ventus_x3/,mecomes,12,92,0.63," Hello people, I bought the new rtx 4070 the day of the launch and everything was going great, it has the same price as the FE and I like its design. 
+
+The problem comes when yesterday I see the review of Igor labs [https://www.igorslab.de/en/geforce-rtx-4070-brought-to-the-price-point-when-the-compulsion-to-uvp-defeats-reason/2/](https://www.igorslab.de/en/geforce-rtx-4070-brought-to-the-price-point-when-the-compulsion-to-uvp-defeats-reason/2/)
+
+I realized that is my gpu, the msi ventus x3. I started to investigate more and I also found the review of Guru3d [https://www.guru3d.com/articles-pages/msi-geforce-rtx-4070-ventus-3x-review,7.html](https://www.guru3d.com/articles-pages/msi-geforce-rtx-4070-ventus-3x-review,7.html)
+
+To make the gpu cheaper, they skimped on cooling, thermal pads are missing. I got worried and started stressing my gpu with furmark, and the hotpoint doesn't increase more than 86-87. I managed to reach 92.7º at the hotpoint with the passmark test, and that is short stress. In the reviews they go even higher.
+
+Now I'm thinking about returning the GPU, but the alternatives for the same price are the gigabyte wf(discarded) and the zotac trinity.
+
+Although I also think that if I use the PC for gaming, I shouldn't worry so much about the temperatures damaging my graphics in a few years. What would you do?
+
+Greetings friends",Nvidia GeForce RTX 4070,Graphics Processing Unit,2023-04-17 11:15:47
+11s1bid,NVIDIA GeForce RTX 4070 Rumored to Launch at $749,https://www.reddit.com/r/GamingLeaksAndRumours/comments/11s1bid/nvidia_geforce_rtx_4070_rumored_to_launch_at_749/,Zhukov-74,491,218,0.93,"According to the latest rumor coming from Moore's Law is Dead, the upcoming NVIDIA GeForce RTX 4070 could have a higher MSRP than expected, and could launch at $749. Yesterday, [another rumor pointed out that NVIDIA is splitting the reviews for the GeForce RTX 4070 on two dates](https://www.techpowerup.com/305930/nvidia-plans-different-review-post-dates-for-msrp-and-non-msrp-geforce-rtx-4070), with reference models that are sticking to MSRP going out on April 12th, and custom, higher-priced versions, a day later, on April 13th. The same date, April 13th, is when the GeForce RTX 4070 should hit retail shelves.
+
+According to Moore's Law is Dead, the MSRP for reference versions will be set at $749.99, which is a bit more than earlier expected, and just $50 less than the launch MSRP for the GeForce RTX 4070 Ti. The custom versions, or ""premium"" as some now called them, could start at $799.99.
+
+The NVIDIA GeForce RTX 4070 is also based on the AD104 GPU, as the RTX 4070 Ti, but has 46 streaming multiprocessors (SMs), leaving it with 5,888 CUDA cores enabled. On the other hand, it is rumored to come with the same memory configuration as the GeForce RTX 4070 Ti, featuring 12 GB of 21 Gbps GDDR6X memory on a 192-bit memory interface. The TGP is set at 200 W.
+
+The performance is expected to land somewhere between the RTX 3080 Ti and the RTX 3080, or pretty much in line with the RX 6900 XT. Of course, a 50% bump in the launch price compared to the predecessor, the RTX 3070, leaves a rather sour taste.
+
+[Source](https://www.techpowerup.com/305952/reference-nvidia-geforce-rtx-4070-rumored-to-launch-at-usd-749)",Nvidia GeForce RTX 4070,Graphics Processing Unit,2023-03-15 16:24:25
+18xvgpj,ROG strix Geforce RTX 4070 review?,https://www.reddit.com/r/PcBuild/comments/18xvgpj/rog_strix_geforce_rtx_4070_review/,blomst_s_,1,8,1.0,"I want to buy a GPU and someone offers me this one but i didn't found any review, is this a good GPU? what's difference beetween this one and OC edition?
+
+&#x200B;
+
+https://preview.redd.it/agcdu2r2saac1.png?width=1362&format=png&auto=webp&s=72e9f05c4337ddca77787cc1497a860d02e005be",Nvidia GeForce RTX 4070,Graphics Processing Unit,2024-01-03 22:01:30
