@@ -1,0 +1,193 @@
+---
+title: "Additional Linguistic Analysis"
+format: pdf
+---
+
+load libraries
+```{r}
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(tidytext)
+library(tm)
+library(scales)
+library(stringr)
+```
+
+
+load data
+```{r}
+df_post = read.csv(file = "post_data.csv")
+df_comment = read.csv(file = "comment_data.csv")
+```
+
+
+tokenize
+
+"Tokenizing" is a process of breaking text out of strings (which have arbitrary length) into a more meaningful unit, such as individual words. Note: this will greatly increase the number of rows in the dataframe.
+
+```{r}
+post_tokens <- df_post |> unnest_tokens(word, Submission.Text)
+```
+
+
+filter stopwords
+```{r}
+post_tokens <- post_tokens |> anti_join(get_stopwords())
+
+```
+```{r}
+## rename word column
+colnames(post_tokens)[colnames(post_tokens) == "word"] <- "words"
+```
+
+
+## Comparing Word Frequencies of Post Authors
+
+Our text data is focused on reviews of computer hardware. This may lead to similar word choice across authors--brand names and technical terms are likely to reoccur. One way to assess how reviewers use language is to compare the frequencies with which they use words.
+
+```{r}
+# simple frequency count for one author
+post_tokens |>
+  count(words, sort = T) |>
+  head()
+```
+
+
+```{r}
+frequency <- post_tokens |>
+  mutate(words = str_extract(words, "[a-z']+")) |>
+  count(Author, words) |>
+  group_by(Author) |>
+  mutate(proportion = n / sum(n)) |>
+  select(-n) |>
+  filter(Author == "Adventurous_Time_227" | Author == "Brightshore101" | Author == "KingYIEH" | Author == "Nekrosmas")|>
+  pivot_wider(names_from = Author, values_from = proportion) |>
+  pivot_longer(`Brightshore101`:`Nekrosmas`,
+               names_to = "Author", values_to = "proportion")
+  
+  
+```
+
+
+```{r}
+# may throw a warning about missing values being removed
+ggplot(frequency, aes(x = proportion, y = `Adventurous_Time_227`, 
+                      color = abs(`Adventurous_Time_227` - proportion))) +
+  geom_abline(color = "gray40", lty = 2) +
+  geom_jitter(alpha = 0.1, size = 2.5, width = 0.3, height = 0.3) +
+  geom_text(aes(label = words), check_overlap = TRUE, vjust = 1.5) +
+  scale_x_log10(labels = percent_format()) +
+  scale_y_log10(labels = percent_format()) +
+  scale_color_gradient(limits = c(0, 0.01), 
+                       low = "darkslategray4", high = "gray75") +
+  facet_wrap(~Author, ncol = 3) +
+  theme(legend.position="none") +
+  labs(y = "Adventurous_Time_227", x = NULL)
+  
+```
+
+The plots above compare the word usage of one author against three other authors. All four authors were selected at random from the dataset. Words that fall along the dotted line are used with the same frequency by the two authors. 
+
+
+## Bigram Sentiment Check
+
+Sentiment Analysis based on individual words sometimes runs into a problem: it can't tell when a word's meaning and sentiment are being altered by neighboring words. A classic example: "good" versus "not good". We can tokenize by 2 words, a "bigram", to assess this.
+
+```{r}
+# tokenize by bigrams
+df_bigram <- df_post |> unnest_tokens(bigram, Submission.Text, token = "ngrams", n = 2) |>
+  filter(!is.na(bigram))
+
+# separate the bigrams into individual words (temporarily)
+df_bigram <- df_bigram |>
+ separate(bigram, c("word1", "word2"), sep = " ")
+
+# filter out stop words
+df_bigram_filtered <- df_bigram |>
+  filter(!word1 %in% stop_words$word) |>
+  filter(!word2 %in% stop_words$word)
+
+# let's see the top few
+df_bigram_count <- df_bigram_filtered |>
+  count(word1, word2, sort = T)
+
+head(df_bigram_count)
+```
+
+With stopwords filtered out, we can rebuild the bigrams
+
+```{r}
+df_bigram_unite <- df_bigram_filtered |>
+  unite(bigram, word1, word2, sep = " ")
+
+head(df_bigram_unite)
+```
+
+Now to introduce sentiment
+
+```{r}
+# get word-sentiment scores
+AFINN <- get_sentiments("afinn")
+
+# filter for first word "not", then get sentiment of the second word
+not_phrases <- df_bigram |>
+  filter(word1 == "not") |>
+  inner_join(AFINN, by = c(word2 = "word")) |>
+  count(word2, value, sort = T)
+
+not_phrases
+```
+
+```{r}
+not_phrases |>
+  mutate(contribution = n * value) |>
+  arrange(desc(abs(contribution))) |>
+  head(20) |>
+  mutate(word2 = reorder(word2, contribution)) |>
+  ggplot(aes(n * value, word2, fill = n * value > 0)) +
+  geom_col(show.legend = FALSE) +
+  labs(x = "Sentiment value * number of occurrences",
+       y = "Words preceded by \"not\"",
+       title = "Sentiment error in reviews")
+```
+
+
+Does the same hold true for the comments on reviews?
+
+
+```{r}
+# tokenize by bigrams
+comment_bigram <- df_comment |> unnest_tokens(bigram, Comment.Body, token = "ngrams", n = 2) |>
+  filter(!is.na(bigram))
+
+# separate the bigrams into individual words (temporarily)
+comment_bigram <- comment_bigram |>
+ separate(bigram, c("word1", "word2"), sep = " ")
+
+```
+
+```{r}
+# filter for first word "not", then get sentiment of the second word
+not_comment <- comment_bigram |>
+  filter(word1 == "not") |>
+  inner_join(AFINN, by = c(word2 = "word")) |>
+  count(word2, value, sort = T)
+
+not_comment
+```
+
+```{r}
+not_comment |>
+  mutate(contribution = n * value) |>
+  arrange(desc(abs(contribution))) |>
+  head(20) |>
+  mutate(word2 = reorder(word2, contribution)) |>
+  ggplot(aes(n * value, word2, fill = n * value > 0)) +
+  geom_col(show.legend = FALSE) +
+  labs(x = "Sentiment value * number of occurrences",
+       y = "Words preceded by \"not\"",
+       title = "Sentiment error in review comments")
+```
+
+The diagram above shows that many more positive-sentiment words are being negated than negative-sentiment words in comments. There appears to be more variety in positive-sentiment words that commenters negate, and do so more often than with negative-sentiment words. This exploration suggests our sentiment analysis may, on average, judge comments more positive than they are.
